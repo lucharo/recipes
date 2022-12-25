@@ -16,3 +16,4 @@ The main reason I did this is to get the search bar that mkdocs provides. If you
 * Add I'm feeling lucky button
 * Add js/ts logic to easily scale recipes linearly
 * Do more advanced parsing of recipes
+* Keep an eye out for when they make [the blog feature of material-mkdocs](https://squidfunk.github.io/mkdocs-material/setup/setting-up-a-blog/) available
