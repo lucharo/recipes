@@ -11,23 +11,23 @@ hide:
 
 ![](../img/healthygirlkitchen_04-05-2022_2305.png)
 
-\
-ingredients: \
-4 cups cooked quinoa (1 cup uncooked) just add 1 tsp turmeric to the cooking water\
-1.5 cups roasted butternut squash\
-1 cup roasted carrots\
-1.5 cups steamed corn \
-1 cup roasted yellow squash\
-2 cups bell peppers\
-1 cup chickpeas\
-\
-sunshine dressing: \
-1/3 cup olive oil\
-1/4 cup tahini\
-2 tbsp lemon juice\
-1 tsp cumin\
-1/2 tsp turmeric \
-1 tsp salt\
-1/4 tsp pepper\
-\
+
+ingredients: 
+4 cups cooked quinoa (1 cup uncooked) just add 1 tsp turmeric to the cooking water
+1.5 cups roasted butternut squash
+1 cup roasted carrots
+1.5 cups steamed corn 
+1 cup roasted yellow squash
+2 cups bell peppers
+1 cup chickpeas
+
+sunshine dressing: 
+1/3 cup olive oil
+1/4 cup tahini
+2 tbsp lemon juice
+1 tsp cumin
+1/2 tsp turmeric 
+1 tsp salt
+1/4 tsp pepper
+
 \#vegan \#salad \#salads \#healthylifestyle \#saladrecipe \#saladsofinstagram \#saladbowl \#veganfood \#plantbased \#plantbaseddiet \#healthyfood \#healthyeating \#healthymeal \#glutenfree \#dairyfree \#glutenfreefood \#easyvegan \#easyrecipes \#thatgirl \#easycooking \#homecooking \#mealprep 

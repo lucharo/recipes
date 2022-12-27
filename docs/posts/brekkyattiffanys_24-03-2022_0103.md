@@ -11,12 +11,12 @@ hide:
 
 ![](../img/brekkyattiffanys_24-03-2022_0103.png)
 
- \
-• 2-3 servings spaghetti noods\
-• 3 tbsp butter (i’m using kerrygold)\
-• 1-2 tbsp of miso (i’m using 2)\
-• 1/2 cup parmesan cheese\
-• 1/2 cup pasta water\
-• top with furikake (optional)\
- \
+ 
+• 2-3 servings spaghetti noods
+• 3 tbsp butter (i’m using kerrygold)
+• 1-2 tbsp of miso (i’m using 2)
+• 1/2 cup parmesan cheese
+• 1/2 cup pasta water
+• top with furikake (optional)
+ 
 \#misorecipes \#miso \#misosoup \#misopasta \#japanesefood \#japaneserecipe \#misoglazed \#easyrecipes \#asianrecipes \#asianfood \#asiancooking 

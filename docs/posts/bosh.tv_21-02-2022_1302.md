@@ -11,7 +11,7 @@ hide:
 
 ![](../img/bosh.tv_21-02-2022_1302.png)
 
-So crunchy, so creamy, so delicious.\
-You’re gonna need to give this one a go…\
-\
+So crunchy, so creamy, so delicious.
+You’re gonna need to give this one a go…
+
 \#vegan \#vegancurry \#veganrecipes \#simplevegan \#veganfood 

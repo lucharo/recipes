@@ -11,9 +11,9 @@ hide:
 
 ![](../img/pierceabernathy_22-08-2022_1608.png)
 
-\
-I teamed up with @seed to highlight microbiome-friendly foods, like sweet potato and corn (in this recipe)! Foods that are fiber-rich and/or good for your gut. By diversifying the number of fruits and vegetables you consume you're incorporating plenty of macro- and micronutrients that support your microbiome. \
-\
-Another great way is to incorporate @Seed’s DS-01™ Daily Synbiotic into your routine like me. DS-01™ is a pre-and-probiotic containing 24 clinically-and-scientifically studied strains (and 53.6 billion AFU) for benefits in and beyond the gut. \
-\
+
+I teamed up with @seed to highlight microbiome-friendly foods, like sweet potato and corn (in this recipe)! Foods that are fiber-rich and/or good for your gut. By diversifying the number of fruits and vegetables you consume you're incorporating plenty of macro- and micronutrients that support your microbiome. 
+
+Another great way is to incorporate @Seed’s DS-01™ Daily Synbiotic into your routine like me. DS-01™ is a pre-and-probiotic containing 24 clinically-and-scientifically studied strains (and 53.6 billion AFU) for benefits in and beyond the gut. 
+
 \#sciencesnack \#seedpartner \#accountable 

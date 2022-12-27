@@ -11,12 +11,12 @@ hide:
 
 ![](../img/pierceabernathy_16-08-2022_1608.png)
 
-\
-Ingredients: \
-1 28oz can whole peeled tomatoes\
-1/4 cup olive oil plus more to garnish \
-1/2 white onion, chopped\
-2 cloves garlic, grated\
-Handful of Basil\
-Salt and pepper to taste\
+
+Ingredients: 
+1 28oz can whole peeled tomatoes
+1/4 cup olive oil plus more to garnish 
+1/2 white onion, chopped
+2 cloves garlic, grated
+Handful of Basil
+Salt and pepper to taste
 6-7 ounces of stale bread 

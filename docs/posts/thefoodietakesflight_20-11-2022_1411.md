@@ -11,14 +11,14 @@ hide:
 
 ![](../img/thefoodietakesflight_20-11-2022_1411.png)
 
-\
-👉🏼get the full recipe on my blog www.thefoodietakesflight.com - direct recipe is also linked in my bio @thefoodietakesflight ◡̈ \
-\
-www.thefoodietakesflight.com/easy-baked-tofu\
-.\
-.\
-.\
-.\
-.\
-.\
+
+👉🏼get the full recipe on my blog www.thefoodietakesflight.com - direct recipe is also linked in my bio @thefoodietakesflight ◡̈ 
+
+www.thefoodietakesflight.com/easy-baked-tofu
+.
+.
+.
+.
+.
+.
 \#thefoodietakesflight \#tofu \#recipe \#baked \#airfryer \#tofurecipe \#foodreels \#foodasmr \#yummyph \#veganfoodie \#plantpower \#veganph \#letscook \#asmrvideo \#asmrfood \#asianfood \#foodies \#asiancooking \#heresmyfood \#asmrsounds \#asianfoodporn \#asianblogger \#eatrealfood \#food52 
