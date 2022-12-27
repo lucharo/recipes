@@ -57,6 +57,15 @@ hide:
 
 <div class="responsive">
 <div class="gallery">
+<a target="_blank" href="posts/veganfixes_25-12-2022_1212">
+<img src="img/noimage.jpg" alt="1️⃣ or 2️⃣? Which #recipe by @fitgreenmind would you try?👇" width="600" height="400">
+</a>
+<div class="desc">1️⃣ or 2️⃣? Which #recipe by @fitgreenmind would you try?👇 by @veganfixes</div>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
 <a target="_blank" href="posts/thefoodietakesflight_23-12-2022_1512">
 <img src="img/thefoodietakesflight_23-12-2022_1512.png" alt="Quarter of a century today ✌🏼🖐🏼" width="600" height="400">
 </a>
@@ -246,15 +255,6 @@ hide:
 
 <div class="responsive">
 <div class="gallery">
-<a target="_blank" href="posts/winx_wheels_08-11-2022_1311">
-<img src="img/winx_wheels_08-11-2022_1311.png" alt="🚴‍♂️ We were tired of bulky, flimsy, and untrustworthy cycling locks that were too heavy to carry!" width="600" height="400">
-</a>
-<div class="desc">🚴‍♂️ We were tired of bulky, flimsy, and untrustworthy cycling locks that were too heavy to carry! by @winx_wheels</div>
-</div>
-</div>
-
-<div class="responsive">
-<div class="gallery">
 <a target="_blank" href="posts/healthygirlkitchen_19-11-2022_1511">
 <img src="img/healthygirlkitchen_19-11-2022_1511.png" alt="bookmark how to make VEGAN SCRAMBLED EGGS using pumpkin seeds 🍳✨Follow @healthygirlkitchen for more vegan recipes! #gorawpartner" width="600" height="400">
 </a>
@@ -349,15 +349,6 @@ hide:
 <img src="img/thefoodietakesflight_15-11-2022_1411.png" alt="This harvest was a year and a half in the making. 🥹" width="600" height="400">
 </a>
 <div class="desc">This harvest was a year and a half in the making. 🥹 by @thefoodietakesflight</div>
-</div>
-</div>
-
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="posts/shibari.study_14-11-2022_1811">
-<img src="img/shibari.study_14-11-2022_1811.png" alt="🪢 Basic Chest Harness 🪢" width="600" height="400">
-</a>
-<div class="desc">🪢 Basic Chest Harness 🪢 by @shibari.study</div>
 </div>
 </div>
 
@@ -493,15 +484,6 @@ hide:
 <img src="img/vivolife_19-10-2022_1310.png" alt="Protein packed pancakes in 10 minutes flat! 🥞" width="600" height="400">
 </a>
 <div class="desc">Protein packed pancakes in 10 minutes flat! 🥞 by @vivolife</div>
-</div>
-</div>
-
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="posts/saruh2themax_16-09-2022_1809">
-<img src="img/saruh2themax_16-09-2022_1809.png" alt="Today at Willow’s Diner.. I get put on a strict diet due to my audacity. " width="600" height="400">
-</a>
-<div class="desc">Today at Willow’s Diner.. I get put on a strict diet due to my audacity.  by @saruh2themax</div>
 </div>
 </div>
 
