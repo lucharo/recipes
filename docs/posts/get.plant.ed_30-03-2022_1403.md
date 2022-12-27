@@ -11,28 +11,28 @@ hide:
 
 ![](../img/get.plant.ed_30-03-2022_1403.png)
 
-⁣
-Check out @okonomikitchen or okonomikitchen.com [https://okonomikitchen.com/rice-paper-dumplings/] for the full recipe!
-
-What you'll need 
-- 80g momen (soft/traditional) tofu ⁣
-- ⅛ cabbage, shredded ⁣
-- ¼ carrot, shredded⁣
-- 1 green onion, chopped⁣
-- ½ tbsp sesame oil⁣
-- ½ tbsp soy sauce⁣
-- 1 tsp grated garlic⁣
-- 1 tsp grated ginger⁣
-- Salt and pepper⁣
-- 12 rice papers (18cm rounds)⁣
-.
-.
-—————————————————
-FOLLOW - @get.plant.ed 🌎💪💪🏾💪🏼
-—————————————————
-.
-.
-📹 @okonomikitchen
-.
-.
-\#GetPlanted \#gyoza \#dumplings \#vegandumplings \#easydumplings \#japaneserecipes \#japanesefood  \#japanesevegan \#veganrecipes \#panfrieddumplings \#veganjapanese \#eatplantsnotanimals \#veganized \#veganfortheanimals \#veganfortheplanet \#veganrecipe \#letscookvegan \#plantbased \#plantbasedrecipes \#veggiedumplings 
+⁣  
+Check out @okonomikitchen or okonomikitchen.com [https://okonomikitchen.com/rice-paper-dumplings/] for the full recipe!  
+  
+What you'll need   
+- 80g momen (soft/traditional) tofu ⁣  
+- ⅛ cabbage, shredded ⁣  
+- ¼ carrot, shredded⁣  
+- 1 green onion, chopped⁣  
+- ½ tbsp sesame oil⁣  
+- ½ tbsp soy sauce⁣  
+- 1 tsp grated garlic⁣  
+- 1 tsp grated ginger⁣  
+- Salt and pepper⁣  
+- 12 rice papers (18cm rounds)⁣  
+.  
+.  
+—————————————————  
+FOLLOW - @get.plant.ed 🌎💪💪🏾💪🏼  
+—————————————————  
+.  
+.  
+📹 @okonomikitchen  
+.  
+.  
+\#GetPlanted \#gyoza \#dumplings \#vegandumplings \#easydumplings \#japaneserecipes \#japanesefood  \#japanesevegan \#veganrecipes \#panfrieddumplings \#veganjapanese \#eatplantsnotanimals \#veganized \#veganfortheanimals \#veganfortheplanet \#veganrecipe \#letscookvegan \#plantbased \#plantbasedrecipes \#veggiedumplings   

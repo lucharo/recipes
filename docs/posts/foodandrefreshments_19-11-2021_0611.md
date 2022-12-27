@@ -11,8 +11,8 @@ hide:
 
 ![](../img/foodandrefreshments_19-11-2021_0611.png)
 
-👉🏼 Follow @foodandrefreshments for more 👍🏼
-👇🏼TAG YOUR FRIENDS👇🏼
-📲Turn On Post Notifications 🙌🏻
-📷 : @feelgoodfoodie 🤎
-👇🏼Now taking comments👇🏼 
+👉🏼 Follow @foodandrefreshments for more 👍🏼  
+👇🏼TAG YOUR FRIENDS👇🏼  
+📲Turn On Post Notifications 🙌🏻  
+📷 : @feelgoodfoodie 🤎  
+👇🏼Now taking comments👇🏼   

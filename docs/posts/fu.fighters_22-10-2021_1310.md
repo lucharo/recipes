@@ -11,9 +11,9 @@ hide:
 
 ![](../img/noimage.jpg)
 
-.
-+ It’s made in Brighton using a family recipe.
-.
-+ Tohu is a soy-free tofu made from chickpeas that’s naturally free from soy/gluten/meat/dairy.
-.
-+ It can be eaten straight out of the packet or pan-fried, double fried or baked to serve as the protein part of a meal. 
+.  
++ It’s made in Brighton using a family recipe.  
+.  
++ Tohu is a soy-free tofu made from chickpeas that’s naturally free from soy/gluten/meat/dairy.  
+.  
++ It can be eaten straight out of the packet or pan-fried, double fried or baked to serve as the protein part of a meal.   

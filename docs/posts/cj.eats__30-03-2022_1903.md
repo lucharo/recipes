@@ -11,7 +11,7 @@ hide:
 
 ![](../img/cj.eats__30-03-2022_1903.png)
 
-
-The full written recipe with all my tips is up on the blog now - link in bio! Or at https://www.cjeatsrecipes.com/post/bok-choy-with-garlic-sauce
-
-\#bokchoy \#chinesefood \#vegetables \#easyrecipes \#chinesetakout 
+  
+The full written recipe with all my tips is up on the blog now - link in bio! Or at https://www.cjeatsrecipes.com/post/bok-choy-with-garlic-sauce  
+  
+\#bokchoy \#chinesefood \#vegetables \#easyrecipes \#chinesetakout   

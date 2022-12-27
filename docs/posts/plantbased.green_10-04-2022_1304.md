@@ -11,10 +11,10 @@ hide:
 
 ![](../img/plantbased.green_10-04-2022_1304.png)
 
-
-📸: Recipe by @sepps_eats
-
-Method:
-Chop tofu into cubes, evenly cover in BBQ sauce then air fry for 30 mins @ 180°c shaking half way. Top with extra BBQ sauce and sesame seeds and Enjoy! Serve with rice/in a wrap or salad!
-
-\#tofu \#tofurecipes \#veganism \#veganeats \#plantbasedrecipes 
+  
+📸: Recipe by @sepps_eats  
+  
+Method:  
+Chop tofu into cubes, evenly cover in BBQ sauce then air fry for 30 mins @ 180°c shaking half way. Top with extra BBQ sauce and sesame seeds and Enjoy! Serve with rice/in a wrap or salad!  
+  
+\#tofu \#tofurecipes \#veganism \#veganeats \#plantbasedrecipes   

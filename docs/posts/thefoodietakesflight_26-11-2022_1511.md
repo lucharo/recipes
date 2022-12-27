@@ -11,18 +11,18 @@ hide:
 
 ![](../img/thefoodietakesflight_26-11-2022_1511.png)
 
-
-👉🏼get the full on www.thefoodietakesflight.com - direct link is also in my bio 🥢
-
-Hope you all have a great weekend ahead!!
-
-https://thefoodietakesflight.com/chinese-green-beans-and-mushroom-stir-fry/
-
-.
-.
-.
-.
-.
-.
-.
-\#thefoodietakesflight \#stirfry \#greenbeans \#mushrooms \#stirfry \#foodreels \#veganfoodie \#plantpower \#veganph \#letscook \#vegetarian \#f52grams \#recipevideo \#asianfood \#foodies \#asiancooking \#heresmyfood \#easyrecipe \#asianfoodporn \#asianblogger \#eatrealfood \#food52 
+  
+👉🏼get the full on www.thefoodietakesflight.com - direct link is also in my bio 🥢  
+  
+Hope you all have a great weekend ahead!!  
+  
+https://thefoodietakesflight.com/chinese-green-beans-and-mushroom-stir-fry/  
+  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+\#thefoodietakesflight \#stirfry \#greenbeans \#mushrooms \#stirfry \#foodreels \#veganfoodie \#plantpower \#veganph \#letscook \#vegetarian \#f52grams \#recipevideo \#asianfood \#foodies \#asiancooking \#heresmyfood \#easyrecipe \#asianfoodporn \#asianblogger \#eatrealfood \#food52   

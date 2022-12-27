@@ -11,4 +11,4 @@ hide:
 
 ![](../img/nutrition_facts_org_13-02-2019_2302.png)
 
-\#DailyDozenChallenge \#HowNotToDie \#LifestyleMedicine \#NutritionFactsOrg \#HowNotToDieCookbook 
+\#DailyDozenChallenge \#HowNotToDie \#LifestyleMedicine \#NutritionFactsOrg \#HowNotToDieCookbook   

@@ -11,4 +11,4 @@ hide:
 
 ![](../img/brotundsauerteig_14-04-2022_1004.png)
 
-Totally forgot I had  this triangle shaped banneton, perfect to score one flower. Bread is a 50% semolina and 50% white flour with 78% hydratation. \#sourdough \#sourdoughbread \#bread \#breadscoringvideo \#breadscore \#scoringbread \#recipe \#tutorial \#tutorialsvideos \#sauerteig \#sauerteigbrot \#brot \#sourdoughbreadart \#breadart \#breadartist \#paindecampagne \#sourdoughstarter 
+Totally forgot I had  this triangle shaped banneton, perfect to score one flower. Bread is a 50% semolina and 50% white flour with 78% hydratation. \#sourdough \#sourdoughbread \#bread \#breadscoringvideo \#breadscore \#scoringbread \#recipe \#tutorial \#tutorialsvideos \#sauerteig \#sauerteigbrot \#brot \#sourdoughbreadart \#breadart \#breadartist \#paindecampagne \#sourdoughstarter   

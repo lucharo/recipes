@@ -11,10 +11,10 @@ hide:
 
 ![](../img/thefoodietakesflight_23-12-2022_1512.png)
 
-
-Also a happy holidays to all of you! Hope you get to spend some quality time with your friends and loved ones while being surrounded by lots of amazing food. ✨🍝
-
-Full recipe on www.thefoodietakesflight.com - recipe link is also in my bio @thefoodietakesflight ❤️
-
-www.thefoodietakesflight.com/filipino-style-spaghetti
-. . . . . . \#thefoodietakesflight \#foodreels \#spaghetti \#yummyph \#filipinofood \#tvp \#veganph \#pasta \#vegetarian \#f52grams \#foodvideo \#filipinospaghetti \#holidayrecipe \#foodies \#pastarecipe \#heresmyfood \#filipino \#asianblogger \#eatrealfood \#food52 
+  
+Also a happy holidays to all of you! Hope you get to spend some quality time with your friends and loved ones while being surrounded by lots of amazing food. ✨🍝  
+  
+Full recipe on www.thefoodietakesflight.com - recipe link is also in my bio @thefoodietakesflight ❤️  
+  
+www.thefoodietakesflight.com/filipino-style-spaghetti  
+. . . . . . \#thefoodietakesflight \#foodreels \#spaghetti \#yummyph \#filipinofood \#tvp \#veganph \#pasta \#vegetarian \#f52grams \#foodvideo \#filipinospaghetti \#holidayrecipe \#foodies \#pastarecipe \#heresmyfood \#filipino \#asianblogger \#eatrealfood \#food52   

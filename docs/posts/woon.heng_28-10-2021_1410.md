@@ -11,22 +11,22 @@ hide:
 
 ![](../img/woon.heng_28-10-2021_1410.png)
 
-⁣
-Makes 3 rice rolls⁣
-3 cups of cooked rice, preferably short-grain⁣
-1 pack of OmniPork Luncheon ⁣
-3 slices of vegan cheese, fold in half⁣
-3 half-sheet nori⁣
-oil for cooking⁣
-sushi vinegar/rice vinegar ⁣
-Sauce: 1 tablespoon soy sauce, 1 tablespoon mirin⁣
-⁣
-First, whisk together soy sauce and mirin in a bowl until well-combined, then set aside.⁣
-Next, heat a large non-stick skillet over medium heat. Place OmniPork luncheon on the hot pan and pan-fry until golden brown on both sides. Top 3 of them with vegan cheese, then stack with another luncheon to make 3 sets. ⁣
-Now, spread about 1 cup of rice on a lined sushi mat to make a 5X6 rectangle. Lay a half-sheet nori to cover ⅔ of the rice. Place a stack of luncheon on the nori sheet that has no rice under it. Now, roll it up and use the mat to help fold the rice. Rub your palms with sushi vinegar and mold while compressing the roll into an enclosed log. Clean the skillet from above, and lightly grease the pan. Place as many rice rolls as the pan comfortably fits. Grill over med-low heat until a thin crust forms, about 2-3 minutes. Flip and brush the crusted side with the prepared sauce. Repeat the same step a few times and cook until golden brown (adjust the heat if it browns too quickly). Serve the rice roll immediately.⁣
-.⁣⁣⁣⁣
-.⁣⁣⁣⁣
-.⁣⁣⁣⁣
-.⁣⁣⁣⁣
-.⁣⁣⁣⁣
-\#Omnifoods \#omnipork \#OmniLuncheon \#luncheon \#cookomni \#plantpowertoall \#riceroll \#onigiri \#fallrecipes \#foodandwine \#vegandinner \#asianfood \#tastemadedoit \#compassionateliving \#buzzfeedfood \#woonheng 
+⁣  
+Makes 3 rice rolls⁣  
+3 cups of cooked rice, preferably short-grain⁣  
+1 pack of OmniPork Luncheon ⁣  
+3 slices of vegan cheese, fold in half⁣  
+3 half-sheet nori⁣  
+oil for cooking⁣  
+sushi vinegar/rice vinegar ⁣  
+Sauce: 1 tablespoon soy sauce, 1 tablespoon mirin⁣  
+⁣  
+First, whisk together soy sauce and mirin in a bowl until well-combined, then set aside.⁣  
+Next, heat a large non-stick skillet over medium heat. Place OmniPork luncheon on the hot pan and pan-fry until golden brown on both sides. Top 3 of them with vegan cheese, then stack with another luncheon to make 3 sets. ⁣  
+Now, spread about 1 cup of rice on a lined sushi mat to make a 5X6 rectangle. Lay a half-sheet nori to cover ⅔ of the rice. Place a stack of luncheon on the nori sheet that has no rice under it. Now, roll it up and use the mat to help fold the rice. Rub your palms with sushi vinegar and mold while compressing the roll into an enclosed log. Clean the skillet from above, and lightly grease the pan. Place as many rice rolls as the pan comfortably fits. Grill over med-low heat until a thin crust forms, about 2-3 minutes. Flip and brush the crusted side with the prepared sauce. Repeat the same step a few times and cook until golden brown (adjust the heat if it browns too quickly). Serve the rice roll immediately.⁣  
+.⁣⁣⁣⁣  
+.⁣⁣⁣⁣  
+.⁣⁣⁣⁣  
+.⁣⁣⁣⁣  
+.⁣⁣⁣⁣  
+\#Omnifoods \#omnipork \#OmniLuncheon \#luncheon \#cookomni \#plantpowertoall \#riceroll \#onigiri \#fallrecipes \#foodandwine \#vegandinner \#asianfood \#tastemadedoit \#compassionateliving \#buzzfeedfood \#woonheng   

@@ -11,37 +11,37 @@ hide:
 
 ![](../img/pengveganmunch_11-01-2022_1701.png)
 
-
-This one is tangy + delicious, thanks to the ‘honey’ maple/garlic infused glaze and there’s crispy chickeny vibes thanks to the oyster mushrooms 🤩 
-
-Give this a try for yourself this \#veganuary + let me know your thoughts below 👇🏾 
-______________________________________
-
-⭐️ INGREDIENTS ⭐️ 
-
-*wet mix*
--1/2 cup vegan milk
--3 tbsp lemon juice
-
-*dry mix*
--1/2 cup flour
--1/2 cup panko bread crumbs
--1 tsp garlic powder
--1 tsp onion powder
--1 tsp chilli powder
--salt + pepper
-
-*glaze*
--1/4 cup melted vegan butter
--4 - 5 garlic cloves or 1.5 tbsp garlic paste
--1/4 cup maple syrup
--salt + pepper
-
-+ oyster mushroom clusters
-
-⭐️ METHOD ⭐️ 
-
--start by seperatly mixing your wet + dry mixes then break your mushroom into smaller pieces before dunking in the milk, then coat with the flour mix, back into the milk and then finish by coating with the flour mix.
--fry for around 5-10 minutes or until crispy + golden then remove any excuse oil and allow to cool slightly.
--use the melted butter to fry the garlic for around 4 - 5 minutes then stir in the maple syrup, salt + pepper and combine for another few minutes, allowing the sauce to thicken and become stickier.
--pour the glaze over the ‘wings’ making sure they are completely coated before topping with spring onion, sesame seeds + enjoy 💕 
+  
+This one is tangy + delicious, thanks to the ‘honey’ maple/garlic infused glaze and there’s crispy chickeny vibes thanks to the oyster mushrooms 🤩   
+  
+Give this a try for yourself this \#veganuary + let me know your thoughts below 👇🏾   
+______________________________________  
+  
+⭐️ INGREDIENTS ⭐️   
+  
+*wet mix*  
+-1/2 cup vegan milk  
+-3 tbsp lemon juice  
+  
+*dry mix*  
+-1/2 cup flour  
+-1/2 cup panko bread crumbs  
+-1 tsp garlic powder  
+-1 tsp onion powder  
+-1 tsp chilli powder  
+-salt + pepper  
+  
+*glaze*  
+-1/4 cup melted vegan butter  
+-4 - 5 garlic cloves or 1.5 tbsp garlic paste  
+-1/4 cup maple syrup  
+-salt + pepper  
+  
++ oyster mushroom clusters  
+  
+⭐️ METHOD ⭐️   
+  
+-start by seperatly mixing your wet + dry mixes then break your mushroom into smaller pieces before dunking in the milk, then coat with the flour mix, back into the milk and then finish by coating with the flour mix.  
+-fry for around 5-10 minutes or until crispy + golden then remove any excuse oil and allow to cool slightly.  
+-use the melted butter to fry the garlic for around 4 - 5 minutes then stir in the maple syrup, salt + pepper and combine for another few minutes, allowing the sauce to thicken and become stickier.  
+-pour the glaze over the ‘wings’ making sure they are completely coated before topping with spring onion, sesame seeds + enjoy 💕   
