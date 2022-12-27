@@ -11,17 +11,17 @@ hide:
 
 ![](../img/thefoodietakesflight_02-12-2022_1312.png)
 
-
-In need of  some ideas hehe thank you in advance 🫶🏼
-
-Also the recipe for this eggplant katsu is over on www.thefoodietakesflight.com - also linked in my bio @thefoodietakesflight 
-
-https://thefoodietakesflight.com/crispy-eggplant-katsu
-
-.
-.
-.
-.
-.
-.
+\
+In need of  some ideas hehe thank you in advance 🫶🏼\
+\
+Also the recipe for this eggplant katsu is over on www.thefoodietakesflight.com - also linked in my bio @thefoodietakesflight \
+\
+https://thefoodietakesflight.com/crispy-eggplant-katsu\
+\
+.\
+.\
+.\
+.\
+.\
+.\
 \#thefoodietakesflight \#foodreels \#foodasmr \#airfryer \#eggplant \#aubergine \#airfried \#katsu \#letscook \#vegetarian \#f52grams \#recipevideo \#asmrvideo \#asmrfood \#asianfood \#foodies \#asiancooking \#japanesefood \#asmrsounds \#asianfoodporn \#asianblogger \#eatrealfood \#food52 

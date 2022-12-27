@@ -11,14 +11,14 @@ hide:
 
 ![](../img/gregsvegangourmet_22-01-2022_1801.png)
 
-•
-And for any of you out there that already love French toast, this is a great way to change it up without changing the great taste! 🍞🔥
-•
-Here’s what I used:
-- 1 loaf of bread from @cobsbread
-- splash @silk_canada cashew milk
-- 1/2 cup @justegg from @luminate_co 
--  1 tsp cinnamon 
-- 2 tbsp @becelca vegan butter
-- 1/4 cup crushed pistachios 
+•\
+And for any of you out there that already love French toast, this is a great way to change it up without changing the great taste! 🍞🔥\
+•\
+Here’s what I used:\
+- 1 loaf of bread from @cobsbread\
+- splash @silk_canada cashew milk\
+- 1/2 cup @justegg from @luminate_co \
+-  1 tsp cinnamon \
+- 2 tbsp @becelca vegan butter\
+- 1/4 cup crushed pistachios \
 - maple syrup! 

@@ -11,12 +11,12 @@ hide:
 
 ![](../img/brekkyattiffanys_18-03-2022_0103.png)
 
- 
-cooking instructions:
-- crosshatch your eggplant and cover in vegetable oil. bake for ~20 mins at 425° f
-- make your marinade (measurements in the video) and slather onto the baked eggplant with a basting brush
-- broil for 2 more minutes and garnish with scallions & sesame seeds
- 
-easy peasy! enjoy brekkies!
- 
+ \
+cooking instructions:\
+- crosshatch your eggplant and cover in vegetable oil. bake for ~20 mins at 425° f\
+- make your marinade (measurements in the video) and slather onto the baked eggplant with a basting brush\
+- broil for 2 more minutes and garnish with scallions & sesame seeds\
+ \
+easy peasy! enjoy brekkies!\
+ \
 \#eggplantrecipes \#misorecipes \#misosoup \#misoeggplant \#japanesefood \#japaneserecipe \#easyrecipes \#homecooking 

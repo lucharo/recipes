@@ -11,7 +11,7 @@ hide:
 
 ![](../img/bakinghermann_15-04-2022_1004.png)
 
-
-Saag is an Indian word for leafy green vegetables, but also commonly used for spinach or the spiced spinach dish made with it. I’m treading lightly on the word paneer, not meaning to forcefully substitute, but to give an idea that you can use the chickpea tofu from my previous video similar to how you’d use the paneer in the more traditional recipe. Chickpeas and spinach are not an uncommon combination, so this is an opportunity to let your batch of freshly made tofu shine. 
-
+\
+Saag is an Indian word for leafy green vegetables, but also commonly used for spinach or the spiced spinach dish made with it. I’m treading lightly on the word paneer, not meaning to forcefully substitute, but to give an idea that you can use the chickpea tofu from my previous video similar to how you’d use the paneer in the more traditional recipe. Chickpeas and spinach are not an uncommon combination, so this is an opportunity to let your batch of freshly made tofu shine. \
+\
 \#saag \#spinach \#spinachcurry \#indianfood \#vegan \#plantbased 

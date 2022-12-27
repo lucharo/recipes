@@ -11,16 +11,16 @@ hide:
 
 ![](../img/thefoodietakesflight_12-08-2022_1408.png)
 
-
-Full recipe is on www.thefoodietakesflight.com - direct link in my bio @thefoodietakesflight ◡̈ 
-
-Wishing you all a happy weekend! 
-
-https://thefoodietakesflight.com/pan-fried-scallion-and-toasted-sesame-buns-vegan-recipe/
-.
-.
-.
-.
-.
-.
+\
+Full recipe is on www.thefoodietakesflight.com - direct link in my bio @thefoodietakesflight ◡̈ \
+\
+Wishing you all a happy weekend! \
+\
+https://thefoodietakesflight.com/pan-fried-scallion-and-toasted-sesame-buns-vegan-recipe/\
+.\
+.\
+.\
+.\
+.\
+.\
 \#thefoodietakesflight \#buns \#nobake \#dough \#yeast \#baos \# scallions \#chinesefood \#foodreels \#foodasmr \#bread  \#f52grams \#snacks \#chinesecuisine \#recipevideo \#asmrvideo \#asmrfood \#asianfood \#foodies \#asiancooking \#heresmyfood \#asmrsounds \#asianfoodporn \#asianblogger \#eatrealfood \#food52 

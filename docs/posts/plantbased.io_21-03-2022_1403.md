@@ -11,13 +11,13 @@ hide:
 
 ![](../img/plantbased.io_21-03-2022_1403.png)
 
-Would you try this? 
-
-Follow @plantbased.io 🙌
-Follow @plantbased.io 🙌
-
-📸: Video by @thee_burger_dude 😱👏🌿
-
-Would you try this? 
-
+Would you try this? \
+\
+Follow @plantbased.io 🙌\
+Follow @plantbased.io 🙌\
+\
+📸: Video by @thee_burger_dude 😱👏🌿\
+\
+Would you try this? \
+\
 \#worldofvegan \#veganegg \#friedegg \#plantbased \#vegan \#egg \#crueltyfree 

@@ -11,24 +11,24 @@ hide:
 
 ![](../img/healthyeatingfeed_27-11-2021_0811.png)
 
-
-It’s a hug in a bowl basically🧡 
-
-Full Recipe Link in Bio…@healthyfitbella_ 
-
-Tag a Friend 👇
-.
-.
-.
-.
-.
-. 
-
-\#healthyfoods \#healthyfood
-\#healthyrecipes \#healthyfoodlover
-\#healthyeating \#healthyfoodie
-\#healthydinner \#healthyrecipe
-\#healthyfoodshare \#healthyfoodideas
-\#healthycooking \#eatfit
-\#healthylunchideas \#mealpreplife
+\
+It’s a hug in a bowl basically🧡 \
+\
+Full Recipe Link in Bio…@healthyfitbella_ \
+\
+Tag a Friend 👇\
+.\
+.\
+.\
+.\
+.\
+. \
+\
+\#healthyfoods \#healthyfood\
+\#healthyrecipes \#healthyfoodlover\
+\#healthyeating \#healthyfoodie\
+\#healthydinner \#healthyrecipe\
+\#healthyfoodshare \#healthyfoodideas\
+\#healthycooking \#eatfit\
+\#healthylunchideas \#mealpreplife\
 \#sundaymealprep \#mealprepideas 

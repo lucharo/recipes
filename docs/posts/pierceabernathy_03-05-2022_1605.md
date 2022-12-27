@@ -11,5 +11,5 @@ hide:
 
 ![](../img/pierceabernathy_03-05-2022_1605.png)
 
-
+\
 No real recipe here but have been playing around with a few different asparagus dishes. This seasonal dip would be perfect for any crudités though. 
