@@ -7,7 +7,7 @@ hide:
 # This #vegan Creamy Polenta and Red Wine Mushrooms is always a good idea!❤️ Link to recipe in profile @rabbitandwolves  
 
 > recipe by [@rabbitandwolves](https://www.instagram.com/rabbitandwolves/) 
-(Lauren | Rabbit & Wolves) - [see original post](https://instagram.com/p/BvKidtbAbKb)
+(Lauren Boehme | Rabbit & Wolves) - [see original post](https://instagram.com/p/BvKidtbAbKb)
 
 ![](../img/rabbitandwolves_18-03-2019_2103.png)
 

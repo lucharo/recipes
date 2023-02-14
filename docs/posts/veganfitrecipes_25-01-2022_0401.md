@@ -7,7 +7,7 @@ hide:
 # The simplest vegan rainbow gratin 🤤 Ad | Definitely a must-try in your #veganuary2022 🌱👍 by @plantpower.nutrition 
 
 > recipe by [@veganfitrecipes](https://www.instagram.com/veganfitrecipes/) 
-(James Bond) - [see original post](https://instagram.com/p/CZI6EdwjwGp)
+(Vegan fit recipes) - [see original post](https://instagram.com/p/CZI6EdwjwGp)
 
 ![](../img/veganfitrecipes_25-01-2022_0401.png)
 
