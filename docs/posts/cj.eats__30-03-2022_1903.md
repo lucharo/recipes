@@ -7,7 +7,7 @@ hide:
 # Bok Choy is one of my favorite vegetables and this Bok Choy with Garlic Sauce is inspired by the multitude of Chinese banquet restaurants my family and I would eat at together. The bok choy is crisp, tender and SO good with that savory garlic sauce. It’s a quick and easy side dish that pairs well with so many amazing dishes. I hope you enjoy!  #cjeatsrecipes 
 
 > recipe by [@cj.eats_](https://www.instagram.com/cj.eats_/) 
-(CJ | Easy Recipes by Chris Joe) - [see original post](https://instagram.com/p/CbvWOaylTSA)
+(Chris Joe) - [see original post](https://instagram.com/p/CbvWOaylTSA)
 
 ![](../img/cj.eats__30-03-2022_1903.png)
 

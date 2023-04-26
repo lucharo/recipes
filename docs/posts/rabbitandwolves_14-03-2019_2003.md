@@ -7,7 +7,7 @@ hide:
 # This #vegan and #glutenfree General Tso’s broccoli is an old favorite of mine!❤️ It’s pretty dang amazing! Link to recipe in profile @rabbitandwolves  
 
 > recipe by [@rabbitandwolves](https://www.instagram.com/rabbitandwolves/) 
-(Lauren Boehme | Rabbit & Wolves) - [see original post](https://instagram.com/p/BvALS4mAwe7)
+(Lauren Boehme) - [see original post](https://instagram.com/p/BvALS4mAwe7)
 
 ![](../img/rabbitandwolves_14-03-2019_2003.png)
 

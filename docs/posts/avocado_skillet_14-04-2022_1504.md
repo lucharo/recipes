@@ -7,7 +7,7 @@ hide:
 # Buffalo Chickpea Stuffed Sweet Potato 🍠  
 
 > recipe by [@avocado_skillet](https://www.instagram.com/avocado_skillet/) 
-(Kristi | Food & Wellness) - [see original post](https://instagram.com/p/CcVg8uzAISF)
+(Kristi Roeder) - [see original post](https://instagram.com/p/CcVg8uzAISF)
 
 ![](../img/avocado_skillet_14-04-2022_1504.png)
 
