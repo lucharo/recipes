@@ -1,6 +1,4 @@
 site_name: IG Recipe Explorer
-nav:
-  - Recipes: index.md
 theme:
   name: material
 extra_css:
