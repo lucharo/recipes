@@ -3,3 +3,4 @@ theme:
   name: material
 extra_css:
   - css/styles.css
+repo_url: https://github.com/lucharo/recipes
