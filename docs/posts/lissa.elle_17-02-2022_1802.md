@@ -7,7 +7,7 @@ hide:
 # 🍣🌿 VEGAN SALMON 🌿🍣  
 
 > recipe by [@lissa.elle](https://www.instagram.com/lissa.elle/) 
-(Melissa | Vegan Food & Beauty) - [see original post](https://instagram.com/p/CaFtPehK2_i)
+(Melissa | Vegan Food & Lifestyle) - [see original post](https://instagram.com/p/CaFtPehK2_i)
 
 ![](../img/lissa.elle_17-02-2022_1802.png)
 

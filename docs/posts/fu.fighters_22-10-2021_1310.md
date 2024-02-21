@@ -7,7 +7,7 @@ hide:
 # + We make soy-free chickpea tofu. 
 
 > recipe by [@fu.fighters](https://www.instagram.com/fu.fighters/) 
-(‘FU FIGHTERS :: Chickpea Tofu) - [see original post](https://instagram.com/p/CVVPoU6NwLR)
+(Aye Mya Oo) - [see original post](https://instagram.com/p/CVVPoU6NwLR)
 
 ![](../img/noimage.jpg)
 

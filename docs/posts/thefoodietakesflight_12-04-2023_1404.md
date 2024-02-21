@@ -14,7 +14,7 @@ hide:
   
 Get the recipe on www.thefoodietakesflight.com - direct recipe is also linked in my bio @thefoodietakesflight! ✨  
   
-This is pa med with those crunchy wood ear mushrooms or black fungus with garlic oil, soy sauce, black vinegar, onions, cilantro, and some chiles for heat. Perfect as a starter or side dish. 😋  
+This is packed with those crunchy wood ear mushrooms or black fungus with garlic oil, soy sauce, black vinegar, onions, cilantro, and some chiles for heat. Perfect as a starter or side dish. 😋  
   
 https://thefoodietakesflight.com/wood-ear-mushroom-salad  
 .  

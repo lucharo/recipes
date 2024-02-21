@@ -7,7 +7,7 @@ hide:
 # ONIGIRAZU aka sushi sandwich 😮‍💨  
 
 > recipe by [@myriadrecipes](https://www.instagram.com/myriadrecipes/) 
-(👋🏼 Emily Roz | Recipes) - [see original post](https://instagram.com/p/CdD5Vn1voS4)
+(Emily Roz) - [see original post](https://instagram.com/p/CdD5Vn1voS4)
 
 ![](../img/myriadrecipes_02-05-2022_1505.png)
 

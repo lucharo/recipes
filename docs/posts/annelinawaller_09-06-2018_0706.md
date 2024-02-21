@@ -7,7 +7,7 @@ hide:
 # Yeees guys we made it, it's weekend <3. What are your plans? I'll go to the Urban Fit days here in Berlin and guess what's waiting for me in the fridge when I'm back. It's yummy, easy, protein-rich and simple to make. You'll need 5 ingredients, 5 minutes, some love and my recipe which is on my Blog to make this:  
 
 > recipe by [@annelinawaller](https://www.instagram.com/annelinawaller/) 
-(Annelina - Vegan Yogi) - [see original post](https://instagram.com/p/Bjy3jJTDf-y)
+(Annelina - Plantbased Yogi) - [see original post](https://instagram.com/p/Bjy3jJTDf-y)
 
 ![](../img/annelinawaller_09-06-2018_0706.png)
 

@@ -7,7 +7,7 @@ hide:
 # Vietnamese-inspired Sate Sauce (aka Lemongrass chili oil) 🌶 
 
 > recipe by [@tifflovestofu](https://www.instagram.com/tifflovestofu/) 
-(Tiffany) - [see original post](https://instagram.com/p/CZzbr9iJgfg)
+(Tiffany Bach) - [see original post](https://instagram.com/p/CZzbr9iJgfg)
 
 ![](../img/tifflovestofu_10-02-2022_1602.png)
 

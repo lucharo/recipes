@@ -7,7 +7,7 @@ hide:
 # Noodle Salad🥗 With a peanut butter, garlic and ginger dressing. It’s a good combo! 
 
 > recipe by [@eatmoreplants.no](https://www.instagram.com/eatmoreplants.no/) 
-(Jenny | eatmoreplants) - [see original post](https://instagram.com/p/CahuD23KX6c)
+(Jenny Bolle) - [see original post](https://instagram.com/p/CahuD23KX6c)
 
 ![](../img/eatmoreplants.no_28-02-2022_1602.png)
 

@@ -7,7 +7,7 @@ hide:
 # Easy, Health(ish) Blondie Brownies 😍 (vegan, gluten-free option, refined sugar-free, oil-free) 
 
 > recipe by [@nourishing.niki](https://www.instagram.com/nourishing.niki/) 
-(Nikita | Easier, Healthier Recipes) - [see original post](https://instagram.com/p/CaFu2Vaqh3t)
+(Nikita Messina - Easy & Healthy Recipes) - [see original post](https://instagram.com/p/CaFu2Vaqh3t)
 
 ![](../img/nourishing.niki_17-02-2022_1902.png)
 

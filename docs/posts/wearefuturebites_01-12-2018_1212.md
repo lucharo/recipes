@@ -1,0 +1,27 @@
+---
+posted on: 2018-12-01 12:00:35+00:00
+hide:
+    - navigation
+---
+
+# Check out these chocolate filled choc-chip cookies made with white cannellini beans! 100% plant-based and gluten free, these chewy, high-protein cookies are practically guilt free! 🍪 🌱⠀ 
+
+> recipe by [@wearefuturebites](https://www.instagram.com/wearefuturebites/) 
+(Future Bites) - [see original post](https://instagram.com/p/Bq2Axv-D3_q)
+
+![](../img/wearefuturebites_01-12-2018_1212.png)
+
+⠀  
+Tap the link in our bio for the recipe from @elavegan!👆🏼⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+\#vegan \#plantbased \#veganfood \#crueltyfree \#vegetarian \#healthyfood \#organic \#vegansofig \#healthy \#govegan \#foodporn  \#foodie \#veganfoodshare \#veganism \#veganlife \#health \#vegansofinstagram \#animalrights \#healthyeating \#foodblogger \#healthylifestyle \#animals⠀  
+http://bit.ly/2Q0W0lQ   

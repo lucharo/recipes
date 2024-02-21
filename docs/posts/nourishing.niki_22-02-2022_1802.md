@@ -7,7 +7,7 @@ hide:
 # Single-Serve Cinnamon Roll (high protein, vegan) 😍 
 
 > recipe by [@nourishing.niki](https://www.instagram.com/nourishing.niki/) 
-(Nikita | Easier, Healthier Recipes) - [see original post](https://instagram.com/p/CaSiCl8qW0F)
+(Nikita Messina - Easy & Healthy Recipes) - [see original post](https://instagram.com/p/CaSiCl8qW0F)
 
 ![](../img/nourishing.niki_22-02-2022_1802.png)
 

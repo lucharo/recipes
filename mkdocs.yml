@@ -3,3 +3,5 @@ nav:
   - Recipes: index.md
 theme:
   name: material
+extra_css:
+  - css/styles.css
