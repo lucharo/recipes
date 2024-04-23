@@ -12,7 +12,7 @@ The main reason I did this is to get the search bar that mkdocs provides. If you
 
 ## Build & Publish site
 
-First run `poetry shell`
+First run `poetry shell` and execute the notebook that fetches, parses and saves the recipes (`jupyter nbconvert --to notebook --execute ig_api.ipynb`)
 
 **Build locally:**
 
