@@ -10,7 +10,7 @@ edit_uri: blob/main/docs
 extra_css:
   - css/styles.css
 repo_url: https://github.com/lucharo/recipes
-remote_branch: main
+remote_branch: gh-pages
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
