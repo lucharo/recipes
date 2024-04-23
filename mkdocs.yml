@@ -14,3 +14,4 @@ remote_branch: gh-pages
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
+  - search
