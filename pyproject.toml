@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "recipes"
+version = "0.1.0"
+description = "Repo that fetches saved recipes from instagram, parses the posts main prompt and create markdown documents out of it. Then searchable website is built on top of this"
+authors = ["Luis Chaves"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+instagrapi = "^1.16.30"
+pillow = "^9.3.0"
+snakemd = "^0.11.0"
+jinja2 = "^3.1.2"
+tqdm = "^4.64.1"
+mkdocs-material = "^8.5.11"
+python-dotenv = "^1.0.1"
+mkdocs-git-revision-date-localized-plugin = "^1.2.4"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+ipykernel = "^6.19.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
