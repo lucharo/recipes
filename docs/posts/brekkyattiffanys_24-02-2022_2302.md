@@ -7,7 +7,7 @@ hide:
 # 5 minute korean silken tofu!!! kiki’s delivery service supremacy👑 
 
 > recipe by [@brekkyattiffanys](https://www.instagram.com/brekkyattiffanys/) 
-(tiff | san francisco) - [see original post](https://instagram.com/p/CaYLT7eD3A3)
+(tiff | based in san francisco) - [see original post](https://instagram.com/p/CaYLT7eD3A3)
 
 ![](../img/brekkyattiffanys_24-02-2022_2302.png)
 

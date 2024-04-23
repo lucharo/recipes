@@ -7,7 +7,7 @@ hide:
 # GOCHUJANG HUMMUS RIGATONI🍝🌶 
 
 > recipe by [@theegyptianplanteater](https://www.instagram.com/theegyptianplanteater/) 
-(Farida🌸 | Plant-based Foodie🌱🥑) - [see original post](https://instagram.com/p/CcBDPFjqUZt)
+(Farida🌸 plant-based foooodie🌱) - [see original post](https://instagram.com/p/CcBDPFjqUZt)
 
 ![](../img/theegyptianplanteater_06-04-2022_1604.png)
 

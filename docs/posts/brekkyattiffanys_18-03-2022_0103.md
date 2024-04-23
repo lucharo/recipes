@@ -7,7 +7,7 @@ hide:
 # ginger #miso glazed #eggplant (modified recipe from @bonappetitmag)🍆  
 
 > recipe by [@brekkyattiffanys](https://www.instagram.com/brekkyattiffanys/) 
-(tiff | san francisco) - [see original post](https://instagram.com/p/CbOkHB8DOLV)
+(tiff | based in san francisco) - [see original post](https://instagram.com/p/CbOkHB8DOLV)
 
 ![](../img/brekkyattiffanys_18-03-2022_0103.png)
 

@@ -8,9 +8,25 @@ In this repo and website we achieve the following:
 * Turn each post into a markdown document using a `jinja2` template
 * Build documentation with `material-mkdocs`. Add some CSS in the index doc to recipes as a nice grid
 
-The main reason I did this is to get the search bar that mkdocs provides. If you want to explore the recipes I have saved, visit: https://luischaves.xyz/recipes
+The main reason I did this is to get the search bar that mkdocs provides. If you want to explore the recipes I have saved, visit: <https://luischaves.xyz/recipes>
 
-## TODO
+## Build & Publish site
+
+First run `poetry shell`
+
+**Build locally:**
+
+```sh
+mkdocs build
+```
+
+**Publish:**
+
+```sh
+mkdocs  
+```
+
+## TODO
 
 * Add tags to recipes that I have tried, perhaps as markdown metadata (still don't know how mkdocs handles metadata)
 * Add I'm feeling lucky button
