@@ -1,0 +1,13 @@
+
+.md-typeset {
+    .grid {
+        grid-template-columns: repeat(
+            auto-fit,
+            minmax(
+                min(calc(50% - 1rem), 10rem),
+                1fr
+            )
+        );
+    }
+}
+
