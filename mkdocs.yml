@@ -6,6 +6,7 @@ theme:
   icon:
     edit: material/pencil 
     view: material/eye
+
 edit_uri: blob/main/docs
 extra_css:
   - css/styles.css
