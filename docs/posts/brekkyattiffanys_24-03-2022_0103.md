@@ -7,7 +7,7 @@ hide:
 # MISO PASTA (@nytcooking)—> it’s like… so creamy🍝 cooking instructions are in the video, measurements + ingredients are listed below 
 
 > recipe by [@brekkyattiffanys](https://www.instagram.com/brekkyattiffanys/) 
-(tiff | based in san francisco) - [see original post](https://instagram.com/p/Cbd7h_ZAQBl)
+(tiff | living in san francisco) - [see original post](https://instagram.com/p/Cbd7h_ZAQBl)
 
 ![](../img/brekkyattiffanys_24-03-2022_0103.png)
 
