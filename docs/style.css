@@ -11,3 +11,30 @@
     }
 }
 
+@media screen {
+    .md-header__button.md-logo {
+      display: block;
+    }
+
+    .md-header__button.md-icon[for=__drawer] {
+        display: none
+    }
+}
+
+@media screen and (min-width: 40em) {
+    [dir=ltr] .md-header__source {
+        margin-left:1rem
+    }
+
+    [dir=rtl] .md-header__source {
+        margin-right: 1rem
+    }
+
+    .md-header__source {
+        display: block;
+        max-width: 11.7rem;
+        width: 11.7rem
+    }
+
+}
+

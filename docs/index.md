@@ -3,7 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# IG Recipe Explorer - Home Page
+# Searchable 🔍 Instagram Recipe Collection
+
+> **About:** I find Instagram to be a wonderful site to find and save recipes. Alas, Instagram collections are not searchable, so I made this simple tool to search my personal Instagram recipe collection. The "tried and tested" recipes go to [**cook.luischav.es**](https://cook.luischav.es/)
 
 <div class="grid cards" markdown>
 - [![](img/eatmoreplants.no_04-08-2024_1808.png){: style="width:100%;height:200px;object-fit: cover;object-position: center;" }](posts/eatmoreplants.no_04-08-2024_1808.md)  

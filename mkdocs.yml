@@ -1,15 +1,19 @@
-site_name: IG Recipe Explorer
+site_name: Instagram Recipe Explorer
 theme:
   name: material
-  features:
-    - content.action.view
-  icon:
-    edit: material/pencil 
-    view: material/eye
+  features:    
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+
 
 edit_uri: blob/main/docs
 repo_url: https://github.com/lucharo/recipes
 remote_branch: gh-pages
+
+nav: 
+  - Home: index.md
 
 extra_css:
   - style.css
