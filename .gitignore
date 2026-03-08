@@ -1,4 +1,6 @@
 site/
-node_modules/
-*.ipynb
+.venv/
 .env
+.ig_session.json
+instagram_saved_posts.json
+__pycache__/

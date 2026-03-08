@@ -1,15 +1,16 @@
 site_name: Instagram Recipe Explorer
 theme:
   name: material
-  features:    
+  features:
     - navigation.top
-
+    - search.highlight
+    - search.suggest
 
 edit_uri: blob/main/docs
 repo_url: https://github.com/lucharo/recipes
 remote_branch: gh-pages
 
-nav: 
+nav:
   - Home: index.md
 
 extra_css:
@@ -18,6 +19,6 @@ extra_css:
 plugins:
   - search
 
-markdown_extensions: 
+markdown_extensions:
   - attr_list
   - md_in_html
