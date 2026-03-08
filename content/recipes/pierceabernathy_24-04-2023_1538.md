@@ -2,6 +2,7 @@
 title: "Simple quick green garlic dip. An easy crowd pleasing recipe for this delicious seasonal treat."
 date: 2023-04-24 15:38:09+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CrbJaxqLUy6"
 image: "img/pierceabernathy_24-04-2023_1538.png"

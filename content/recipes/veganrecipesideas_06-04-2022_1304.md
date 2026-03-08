@@ -2,6 +2,7 @@
 title: "Gnocchi in a creamy white bean alfredo sauce with broccoli and mushrooms 🤤 by @pinchofparsley_"
 date: 2022-04-06 13:01:23+00:00
 author_handle: "veganrecipesideas"
+authors: ["veganrecipesideas"]
 author_name: "Vegan Recipes"
 post_url: "https://instagram.com/p/CcArAvVJZtR"
 image: "img/veganrecipesideas_06-04-2022_1304.png"

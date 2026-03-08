@@ -2,6 +2,7 @@
 title: "🍣🌿 VEGAN SALMON 🌿🍣"
 date: 2022-02-17 18:54:44+00:00
 author_handle: "lissa.elle"
+authors: ["lissa.elle"]
 author_name: "Melissa | Vegan Food & Lifestyle"
 post_url: "https://instagram.com/p/CaFtPehK2_i"
 image: "img/lissa.elle_17-02-2022_1802.png"

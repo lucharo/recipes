@@ -2,6 +2,7 @@
 title: "🌱🍪🎉Chickpea Cookie Skillet!!"
 date: 2021-11-19 19:18:30+00:00
 author_handle: "that.veganbabe"
+authors: ["that.veganbabe"]
 author_name: "Stephanie De Angelis"
 post_url: "https://instagram.com/p/CWeAeQWl9h2"
 image: "img/that.veganbabe_19-11-2021_1918.png"

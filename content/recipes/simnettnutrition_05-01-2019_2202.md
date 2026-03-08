@@ -2,6 +2,7 @@
 title: "I had a lot of people asking me what I put on this spicy marinated tempeh so here’s the recipe:"
 date: 2019-01-05 22:02:28+00:00
 author_handle: "simnettnutrition"
+authors: ["simnettnutrition"]
 author_name: "Derek Simnett, CNP"
 post_url: "https://instagram.com/p/BsRNerOAyjF"
 image: "img/simnettnutrition_05-01-2019_2202.png"

@@ -2,6 +2,7 @@
 title: "Ad. I’ve been using @veri to track my glucose response and improve my metabolic health for a few months now. I have learned so much about my own body, what it loves and what it doesn’t love too much. Stabilizing your blood glucose can be a powerful tool for taking control of your health."
 date: 2024-08-04 18:15:07+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C-QfTkEqiws"
 image: "img/eatmoreplants.no_04-08-2024_1808.png"

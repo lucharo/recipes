@@ -2,6 +2,7 @@
 title: "trust me, this sweet corn mochi cake is a must-make during corn season! 🌽🥲🤌"
 date: 2022-08-02 12:31:21+00:00
 author_handle: "saltnpepperhere"
+authors: ["saltnpepperhere"]
 author_name: "sonia wong"
 post_url: "https://instagram.com/p/Cgwc1Uoga22"
 image: "img/saltnpepperhere_02-08-2022_1208.png"

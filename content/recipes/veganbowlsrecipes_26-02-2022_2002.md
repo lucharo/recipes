@@ -2,6 +2,7 @@
 title: "One Pot 🍋 Pasta by @maxlamanna"
 date: 2022-02-26 20:41:04+00:00
 author_handle: "veganbowlsrecipes"
+authors: ["veganbowlsrecipes"]
 author_name: "Vegan Bowls Recipes"
 post_url: "https://instagram.com/p/CadErBcqzDy"
 image: "img/veganbowlsrecipes_26-02-2022_2002.png"

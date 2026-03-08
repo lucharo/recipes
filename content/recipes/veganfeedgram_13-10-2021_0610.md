@@ -2,6 +2,7 @@
 title: "EAT or PASS on these VEGAN GYOZAS? 🥟😍 by @fitgreenmind Can’t stop, won’t stop...😜"
 date: 2021-10-13 06:00:06+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CU9TvzxJUiq"
 image: "img/veganfeedgram_13-10-2021_0610.png"

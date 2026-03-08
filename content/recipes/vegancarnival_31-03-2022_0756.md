@@ -2,6 +2,7 @@
 title: "Vegan Lotus Biscoff Cheesecake, if you love cookie butter you will not want to miss this one! That deep caramelised biscuit flavour is so good in this recipe. It’s got an easy no-bake cookie crust, creamy dairy-free biscoff cheesecake filling and lashings of creamy biscoff spread."
 date: 2022-03-31 07:56:37+00:00
 author_handle: "vegancarnival"
+authors: ["vegancarnival"]
 author_name: "🍅 Vegan Foodie 💚 Green Life"
 post_url: "https://instagram.com/p/CbwrV0dqkfX"
 image: "img/vegancarnival_31-03-2022_0756.png"

@@ -2,6 +2,7 @@
 title: "DAHL & COCONUT RICE 🥥🥥🥥 a delicious curry and rice combo 👏🏾 WRITTEN RECIPE BELOW ⭐️"
 date: 2021-11-17 17:01:02+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CWYnGkNKbFL"
 image: "img/pengveganmunch_17-11-2021_1711.png"

@@ -2,6 +2,7 @@
 title: "Check out this high protein tempeh, pesto and butternut squash lasagna! 100% plant based and full of flavour and delicious creamy deliciousness 😋😍⠀"
 date: 2018-12-05 12:00:03+00:00
 author_handle: "wearefuturebites"
+authors: ["wearefuturebites"]
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/BrAT5WNAO_N"
 image: "img/wearefuturebites_05-12-2018_1212.png"

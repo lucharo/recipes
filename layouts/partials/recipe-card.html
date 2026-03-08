@@ -1,4 +1,4 @@
-<div class="recipe-card" data-quality="{{ .Params.recipe_quality }}" data-text="{{ .Plain | truncate 500 }}">
+<div class="recipe-card" data-text="{{ .Plain | truncate 500 }}">
   <a href="{{ .RelPermalink }}" class="card-link">
     <div class="card-img">
       {{ with .Params.image }}
@@ -6,15 +6,23 @@
       {{ else }}
       <img src="/img/noimage.jpg" alt="No image" loading="lazy">
       {{ end }}
-      {{ if eq .Params.recipe_quality "video_only" }}
-      <span class="card-badge badge-video">Video</span>
-      {{ else if eq .Params.recipe_quality "complete" }}
+      {{ if eq .Params.recipe_quality "complete" }}
       <span class="card-badge badge-complete">Full Recipe</span>
+      {{ else if eq .Params.recipe_quality "video_only" }}
+      <span class="card-badge badge-video">Video Only</span>
+      {{ else if eq .Params.recipe_quality "ingredients_only" }}
+      <span class="card-badge badge-ingredients">Ingredients Only</span>
+      {{ else if eq .Params.recipe_quality "minimal" }}
+      <span class="card-badge badge-minimal">Minimal</span>
       {{ end }}
     </div>
     <div class="card-body">
       <h3 class="card-title">{{ .Title | truncate 60 }}</h3>
-      <span class="card-author">@{{ .Params.author_handle }}</span>
     </div>
   </a>
+  {{ with .Params.author_handle }}
+  <div class="card-footer">
+    <a href="/authors/{{ . }}/" class="card-author">@{{ . }}</a>
+  </div>
+  {{ end }}
 </div>

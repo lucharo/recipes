@@ -2,6 +2,7 @@
 title: "EAT OR PASS?? 😍"
 date: 2023-04-15 13:47:14+00:00
 author_handle: "vegandemocracy"
+authors: ["vegandemocracy"]
 author_name: "Healthy | Plant Based | Recipes"
 post_url: "https://instagram.com/p/CrDxrc2qhDp"
 image: "img/noimage.jpg"

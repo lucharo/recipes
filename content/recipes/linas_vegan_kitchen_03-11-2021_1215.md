@@ -2,6 +2,7 @@
 title: "Vegan Chocolate Banana Bread 🍌🍌🍫"
 date: 2021-11-03 12:15:34+00:00
 author_handle: "linas_vegan_kitchen"
+authors: ["linas_vegan_kitchen"]
 author_name: "Lina☀️"
 post_url: "https://instagram.com/p/CV0DNZolnan"
 image: "img/linas_vegan_kitchen_03-11-2021_1215.png"

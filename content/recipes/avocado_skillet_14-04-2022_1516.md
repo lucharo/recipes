@@ -2,6 +2,7 @@
 title: "Buffalo Chickpea Stuffed Sweet Potato 🍠"
 date: 2022-04-14 15:16:37+00:00
 author_handle: "avocado_skillet"
+authors: ["avocado_skillet"]
 author_name: "Kristi Roeder"
 post_url: "https://instagram.com/p/CcVg8uzAISF"
 image: "img/avocado_skillet_14-04-2022_1516.png"

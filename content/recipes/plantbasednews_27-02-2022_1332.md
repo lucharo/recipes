@@ -2,6 +2,7 @@
 title: "Check out these Mouth Melting Meatless Miso Tofu Meatballs by @thetastyk 🌿"
 date: 2022-02-27 13:32:25+00:00
 author_handle: "plantbasednews"
+authors: ["plantbasednews"]
 author_name: "Plant Based News"
 post_url: "https://instagram.com/p/Cae4YXNj_ta"
 image: "img/plantbasednews_27-02-2022_1332.png"

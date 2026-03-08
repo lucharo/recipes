@@ -2,6 +2,7 @@
 title: "Please Support & Follow 👉 @thecooking.feed"
 date: 2021-12-06 15:47:56+00:00
 author_handle: "the.veganrecipe"
+authors: ["the.veganrecipe"]
 author_name: "Vegan Recipe"
 post_url: "https://instagram.com/p/CXJZn6lq2qh"
 image: "img/the.veganrecipe_06-12-2021_1512.png"

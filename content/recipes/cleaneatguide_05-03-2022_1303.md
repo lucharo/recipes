@@ -2,6 +2,7 @@
 title: "🌱🍪🎉Chickpea Cookie Skillet!! by @that.veganbabe"
 date: 2022-03-05 13:06:29+00:00
 author_handle: "cleaneatguide"
+authors: ["cleaneatguide"]
 author_name: "Clean Eating Guide"
 post_url: "https://instagram.com/p/CauSKiljUlA"
 image: "img/cleaneatguide_05-03-2022_1303.png"

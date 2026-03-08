@@ -2,6 +2,7 @@
 title: "RICE + PEAS 🇯🇲 a Jamaican classic with plenty of flavour + fiyahh 🔥"
 date: 2022-04-22 16:00:05+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CcqMGLYq-Vn"
 image: "img/pengveganmunch_22-04-2022_1604.png"

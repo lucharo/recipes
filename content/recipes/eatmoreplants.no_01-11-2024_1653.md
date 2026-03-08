@@ -2,6 +2,7 @@
 title: "Ad. Crispy air fryer cauliflower bites with gochujang sauce! I’m using the WMF Multi Taste Air Fryer from @wmf - it has taken over my kitchen at this point. I use it for everything, baking veggies, tofu or making crispy sweet potato fries. It cooks my food to perfection, without using any oil! Full recipe below:"
 date: 2024-11-01 16:53:55+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/DB1gm_2oVO2"
 image: "img/eatmoreplants.no_01-11-2024_1653.png"

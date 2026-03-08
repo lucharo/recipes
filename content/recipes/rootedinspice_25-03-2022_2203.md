@@ -2,6 +2,7 @@
 title: "mashing eggplants 🤝 every country"
 date: 2022-03-25 22:24:59+00:00
 author_handle: "rootedinspice"
+authors: ["rootedinspice"]
 author_name: "chaheti"
 post_url: "https://instagram.com/p/Cbix33jsRqq"
 image: "img/rootedinspice_25-03-2022_2203.png"

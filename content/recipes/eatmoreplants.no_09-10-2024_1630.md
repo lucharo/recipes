@@ -2,6 +2,7 @@
 title: "Butternut Cannellini Thai soup🤤"
 date: 2024-10-09 16:30:04+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/DA6P3p3IBev"
 image: "img/eatmoreplants.no_09-10-2024_1630.png"

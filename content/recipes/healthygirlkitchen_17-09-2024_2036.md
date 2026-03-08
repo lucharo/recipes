@@ -2,6 +2,7 @@
 title: "HEALTHY PROTEIN BROWNIES🤎 (13g protein each!) order the @wellious x @healthygirlkitchen protein through link in my bio!"
 date: 2024-09-17 20:36:42+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/DACCkaqSiJd"
 image: "img/healthygirlkitchen_17-09-2024_2036.png"

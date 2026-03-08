@@ -2,6 +2,7 @@
 title: "Taiwanese-Style Popcorn Mushrooms with fried basil 🌿 inspired by those I love having at Taiwanese street and night markets 🥺"
 date: 2023-01-05 13:38:51+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CnCRECKB5fX"
 image: "img/thefoodietakesflight_05-01-2023_1338.png"

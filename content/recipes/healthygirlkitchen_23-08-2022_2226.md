@@ -2,6 +2,7 @@
 title: "Did you know you can turn pumpkin seeds into PUMPKIN SEED BUTTER 💕✨Follow @healthygirlkitchen for more!"
 date: 2022-08-23 22:26:23+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/ChnmBJtJDrq"
 image: "img/healthygirlkitchen_23-08-2022_2226.png"

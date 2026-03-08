@@ -2,6 +2,7 @@
 title: "Thank you for 6million 🥂The best strawberry green salad with a dressing I could chug. If you are tired of boring salads, trust me on this one as it will be on rotation. The magic is in the dice and in the dressing. You are more than welcome to adjust ingredients and make it according to your lifestyle. If you are plant-based I would suggest you use regular Dijon mustard and add maple syrup or agave to it instead. This recipe makes one large portion or 2 small. There is no exact recipe as you can taste and adjust and add as much or as little veggies as you like. You will need:"
 date: 2022-03-01 00:35:33+00:00
 author_handle: "themodernnonna"
+authors: ["themodernnonna"]
 author_name: "Snejana Andreeva"
 post_url: "https://instagram.com/p/CaipDW4AC4Q"
 image: "img/themodernnonna_01-03-2022_0003.png"

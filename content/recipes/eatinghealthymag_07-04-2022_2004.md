@@ -2,6 +2,7 @@
 title: "bookmark this vegan mango mama salad 🥭 (with creamy cilantro lime dressing!)✨follow @healthygirlkitchen for more vegan recipes!"
 date: 2022-04-07 20:31:08+00:00
 author_handle: "eatinghealthymag"
+authors: ["eatinghealthymag"]
 author_name: "Healthy Eating Magazine"
 post_url: "https://instagram.com/p/CcEDVseDjh3"
 image: "img/eatinghealthymag_07-04-2022_2004.png"

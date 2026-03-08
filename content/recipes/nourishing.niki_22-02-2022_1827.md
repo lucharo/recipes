@@ -2,6 +2,7 @@
 title: "Single-Serve Cinnamon Roll (high protein, vegan) 😍"
 date: 2022-02-22 18:27:58+00:00
 author_handle: "nourishing.niki"
+authors: ["nourishing.niki"]
 author_name: "Nikita Messina - Easy & Healthy Recipes"
 post_url: "https://instagram.com/p/CaSiCl8qW0F"
 image: "img/nourishing.niki_22-02-2022_1827.png"

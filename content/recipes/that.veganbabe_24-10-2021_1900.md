@@ -2,6 +2,7 @@
 title: "🌱🍠🍫 Sweet Potato Brownies!"
 date: 2021-10-24 19:00:53+00:00
 author_handle: "that.veganbabe"
+authors: ["that.veganbabe"]
 author_name: "Stephanie De Angelis"
 post_url: "https://instagram.com/p/CVbAmAAP2T4"
 image: "img/that.veganbabe_24-10-2021_1900.png"

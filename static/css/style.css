@@ -125,21 +125,6 @@ img { max-width: 100%; height: auto; display: block; }
   margin-bottom: 0.75rem;
 }
 
-.filter-group {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-}
-
-.filter-label {
-  font-size: 0.8rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--color-text-muted);
-}
-
 .ingredient-search-wrap { margin-bottom: 0.5rem; }
 
 .ingredient-input {
@@ -191,12 +176,6 @@ img { max-width: 100%; height: auto; display: block; }
   background: var(--color-accent-hover);
   border-color: var(--color-accent-hover);
   color: #fff;
-}
-
-.filter-btn.active {
-  background: var(--color-text);
-  color: var(--color-surface);
-  border-color: var(--color-text);
 }
 
 /* Recipe Grid */
@@ -256,6 +235,8 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .badge-complete { background: var(--color-badge-complete); color: #fff; }
 .badge-video { background: var(--color-badge-video); color: #fff; }
+.badge-ingredients { background: #2563eb; color: #fff; }
+.badge-minimal { background: var(--color-text-muted); color: #fff; }
 
 .card-body { padding: 0.75rem; }
 
@@ -270,9 +251,16 @@ img { max-width: 100%; height: auto; display: block; }
   overflow: hidden;
 }
 
+.card-footer {
+  padding: 0 0.75rem 0.75rem;
+}
+
 .card-author {
   font-size: 0.75rem;
   color: var(--color-text-muted);
+}
+.card-author:hover {
+  color: var(--color-accent);
 }
 
 /* Recipe Page (single) */
@@ -352,6 +340,65 @@ img { max-width: 100%; height: auto; display: block; }
   max-width: 720px;
   margin: 0 auto;
   padding: 2rem 1.5rem;
+}
+
+/* Author Pages */
+.author-page {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+}
+
+.author-header {
+  margin-bottom: 2rem;
+}
+
+.author-header h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.author-stats {
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
+}
+
+.author-grid {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem 3rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.75rem;
+}
+
+.author-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+  transition: all 0.15s;
+}
+.author-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: var(--shadow-sm);
+  color: var(--color-accent);
+}
+
+.author-card-handle {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.author-card-count {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
 }
 
 /* Responsive */

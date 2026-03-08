@@ -2,6 +2,7 @@
 title: "Miso Orzo with Gochujang Chickpeas and Teriyaki Mushrooms 🍄"
 date: 2024-03-16 15:27:57+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/C4lHxFySN9h"
 image: "img/thefoodietakesflight_16-03-2024_1503.png"

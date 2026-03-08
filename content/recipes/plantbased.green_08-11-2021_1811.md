@@ -2,6 +2,7 @@
 title: "This baked oatmeal is just my excuse to eat cake for breakfast and I’m here for it."
 date: 2021-11-08 18:24:24+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CWBlkrTKDFy"
 image: "img/plantbased.green_08-11-2021_1811.png"

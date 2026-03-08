@@ -2,6 +2,7 @@
 title: "TWO INGREDIENT Sticky BBQ Tofu 🔥 - for anyone that thinks tofu is boring or can’t taste good. In fact it’s not even two ingredients, its ONE and it’s BBQ sauce."
 date: 2022-04-10 13:37:28+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CcLCPirKk3k"
 image: "img/plantbased.green_10-04-2022_1304.png"

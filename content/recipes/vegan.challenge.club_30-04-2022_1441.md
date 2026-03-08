@@ -2,6 +2,7 @@
 title: "\"GET The Complete Plant Based Cookbook - Over 100+ Delicious Vegan Recipes Including 30-day Meal Plans\" LINK IN BIO 🔗 @vegan.challenge.club"
 date: 2022-04-30 14:41:45+00:00
 author_handle: "vegan.challenge.club"
+authors: ["vegan.challenge.club"]
 author_name: ""
 post_url: "https://instagram.com/p/Cc-pnYfJI9K"
 image: "img/vegan.challenge.club_30-04-2022_1441.png"

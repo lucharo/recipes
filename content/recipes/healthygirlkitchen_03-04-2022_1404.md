@@ -2,6 +2,7 @@
 title: "Bookmark CHICKPEA CHOCOLATE CHIP COOKIES 🍪✨follow @healthygirlkitchen for more vegan recipes!"
 date: 2022-04-03 14:07:59+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | vegan recipes"
 post_url: "https://instagram.com/p/Cb5Dpz0juTv"
 image: "img/healthygirlkitchen_03-04-2022_1404.png"

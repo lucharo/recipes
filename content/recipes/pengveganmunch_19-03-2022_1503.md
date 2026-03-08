@@ -2,6 +2,7 @@
 title: "VEGAN CEASER SALAD 🌱🥗 using aquafaba as a dressings + mushroom meat 🤩"
 date: 2022-03-19 15:04:38+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CbSiNdkqqoh"
 image: "img/pengveganmunch_19-03-2022_1503.png"

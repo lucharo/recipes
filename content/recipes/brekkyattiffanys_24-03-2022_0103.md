@@ -2,6 +2,7 @@
 title: "MISO PASTA (@nytcooking)—> it’s like… so creamy🍝 cooking instructions are in the video, measurements + ingredients are listed below"
 date: 2022-03-24 01:12:05+00:00
 author_handle: "brekkyattiffanys"
+authors: ["brekkyattiffanys"]
 author_name: "tiff | living in san francisco"
 post_url: "https://instagram.com/p/Cbd7h_ZAQBl"
 image: "img/brekkyattiffanys_24-03-2022_0103.png"

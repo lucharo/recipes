@@ -2,6 +2,7 @@
 title: "VEGAN KIMCHI 🇰🇷 a classic Korean side dish 👏🏾 WRITTEN RECIPE BELOW 👇🏾 ad"
 date: 2022-01-27 18:07:05+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CZPikIchh1J"
 image: "img/pengveganmunch_27-01-2022_1801.png"

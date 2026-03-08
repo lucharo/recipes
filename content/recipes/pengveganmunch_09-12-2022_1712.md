@@ -2,6 +2,7 @@
 title: "CARROT + HARISSA DIP 🥕 full written recipe below 👇🏾"
 date: 2022-12-09 17:08:51+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/Cl9G3mfKqQV"
 image: "img/pengveganmunch_09-12-2022_1712.png"

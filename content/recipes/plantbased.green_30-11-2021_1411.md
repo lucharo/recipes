@@ -2,6 +2,7 @@
 title: "SWEET POTATO BROWNIES 🍠🌱 a healthy vegan treat!"
 date: 2021-11-30 14:19:44+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CW5y8evqE7j"
 image: "img/plantbased.green_30-11-2021_1411.png"

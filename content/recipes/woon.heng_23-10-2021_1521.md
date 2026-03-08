@@ -2,6 +2,7 @@
 title: "Vegan Sesame 'Chicken'😋made from king oyster mushrooms. This recipe is easy and fun to make. Using a meat tenderizer creates an amazing texture that absorbs the marinade so well with a great chew in each bite, similar to the rendang mushrooms (made from dried mushrooms stem) I got back at home. 👍🏼"
 date: 2021-10-23 15:21:33+00:00
 author_handle: "woon.heng"
+authors: ["woon.heng"]
 author_name: "WoonHeng Chia"
 post_url: "https://instagram.com/p/CVYDxvRFbGq"
 image: "img/woon.heng_23-10-2021_1521.png"

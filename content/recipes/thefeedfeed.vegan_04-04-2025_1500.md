@@ -2,6 +2,7 @@
 title: "This Bulgogi-Style Shredded Tofu by @thefoodietakesflight is crispy, caramelized, and coated in a sweet and spicy bulgogi-style sauce. 🍚🔥"
 date: 2025-04-04 15:00:00+00:00
 author_handle: "thefeedfeed.vegan"
+authors: ["thefeedfeed.vegan"]
 author_name: "FeedFeed | Vegan"
 post_url: "https://instagram.com/p/DIB2aSJRYxm"
 image: "img/thefeedfeed.vegan_04-04-2025_1500.png"

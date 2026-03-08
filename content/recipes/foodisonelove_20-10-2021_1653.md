@@ -2,6 +2,7 @@
 title: "CHOCOLATE GANACHE PEANUT BUTTER BLENDED OVERNIGHT OATS 🥣"
 date: 2021-10-20 16:53:49+00:00
 author_handle: "foodisonelove"
+authors: ["foodisonelove"]
 author_name: "Healthy Eating"
 post_url: "https://instagram.com/p/CVQgEF6oquo"
 image: "img/foodisonelove_20-10-2021_1653.png"

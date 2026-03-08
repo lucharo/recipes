@@ -2,6 +2,7 @@
 title: "VEGAN MEAL PREP ✅💪 Spicy Tomato Short Grain Brown Rice"
 date: 2019-01-08 21:17:36+00:00
 author_handle: "everyday.vegan.food"
+authors: ["everyday.vegan.food"]
 author_name: "Everyday Vegan Food"
 post_url: "https://instagram.com/p/BsY2uw3g2N9"
 image: "img/everyday.vegan.food_08-01-2019_2117.png"

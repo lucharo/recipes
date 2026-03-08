@@ -2,6 +2,7 @@
 title: "It’s almost November and there’s somehow still peppers at the farmers market."
 date: 2022-10-25 16:46:47+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CkJNXKYtMth"
 image: "img/pierceabernathy_25-10-2022_1610.png"

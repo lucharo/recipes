@@ -2,6 +2,7 @@
 title: "🍠🍟 CRISPY Sweet Potato Fries! by @theflexibledietinglifestyle"
 date: 2022-04-19 05:04:14+00:00
 author_handle: "eatinghealthyfeed"
+authors: ["eatinghealthyfeed"]
 author_name: "Eating Healthy"
 post_url: "https://instagram.com/p/CchS27fIA4a"
 image: "img/noimage.jpg"

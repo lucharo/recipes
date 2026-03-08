@@ -2,6 +2,7 @@
 title: "My fave Mango Sticky Rice is pink 🎀💗🌸🌺🌷💚#ipanalona10to #LeniKiko2022"
 date: 2022-05-07 13:37:33+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CdQjPstJoCu"
 image: "img/thefoodietakesflight_07-05-2022_1337.png"

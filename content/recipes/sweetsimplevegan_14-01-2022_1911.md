@@ -2,6 +2,7 @@
 title: "5-Ingredient Gluten-Free Flatbread 🫓"
 date: 2022-01-14 19:11:03+00:00
 author_handle: "sweetsimplevegan"
+authors: ["sweetsimplevegan"]
 author_name: "Jasmine Briones"
 post_url: "https://instagram.com/p/CYuMKKnBnlM"
 image: "img/sweetsimplevegan_14-01-2022_1911.png"

@@ -2,6 +2,7 @@
 title: "KOREAN FRIED CHICK’N 🇰🇷 my take on a Korean classic I tried whilst in Seoul a few weeks back 😊"
 date: 2022-11-16 17:20:51+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/ClB6UPMKMUe"
 image: "img/pengveganmunch_16-11-2022_1711.png"

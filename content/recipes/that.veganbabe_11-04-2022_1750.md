@@ -2,6 +2,7 @@
 title: "Let’s make COOKIE DOUGH Nice Cream 🍪🍌 with the help of @ninjakitchen #SponsoredbyNinja"
 date: 2022-04-11 17:50:50+00:00
 author_handle: "that.veganbabe"
+authors: ["that.veganbabe"]
 author_name: "Stephanie De Angelis"
 post_url: "https://instagram.com/p/CcODkGztXqI"
 image: "img/that.veganbabe_11-04-2022_1750.png"

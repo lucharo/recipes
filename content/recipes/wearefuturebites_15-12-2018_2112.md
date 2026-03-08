@@ -2,6 +2,7 @@
 title: "Check out this butternut squash ravioli! A perfect starter or side dish which is sure to go down well this Christmas! 🎄⠀"
 date: 2018-12-15 21:11:11+00:00
 author_handle: "wearefuturebites"
+authors: ["wearefuturebites"]
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/BrbC6xNDZnn"
 image: "img/wearefuturebites_15-12-2018_2112.png"

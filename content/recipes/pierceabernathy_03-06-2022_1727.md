@@ -2,6 +2,7 @@
 title: "Rhubarb and Fennel Cake. A pairing I've recently enjoyed. The subtle sweet licorice flavor from the fennel pairs well with sour, citrusy notes from the rhubarb and orange."
 date: 2022-06-03 17:27:45+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CeWfkHTOLVJ"
 image: "img/pierceabernathy_03-06-2022_1727.png"

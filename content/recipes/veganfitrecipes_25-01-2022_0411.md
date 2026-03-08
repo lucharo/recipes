@@ -2,6 +2,7 @@
 title: "The simplest vegan rainbow gratin 🤤 Ad | Definitely a must-try in your #veganuary2022 🌱👍 by @plantpower.nutrition"
 date: 2022-01-25 04:11:58+00:00
 author_handle: "veganfitrecipes"
+authors: ["veganfitrecipes"]
 author_name: "Vegan Fit Recipes"
 post_url: "https://instagram.com/p/CZI6EdwjwGp"
 image: "img/veganfitrecipes_25-01-2022_0411.png"

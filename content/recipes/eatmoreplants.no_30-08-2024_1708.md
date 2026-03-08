@@ -2,6 +2,7 @@
 title: "I’m sick, so I’m reposting a few oldies but GOLDIES🍝 I still make this recipe on repeat. My best white pasta sauce🤍 You can use this sauce for literally anything!"
 date: 2024-08-30 17:38:53+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C_TX5vkqWcO"
 image: "img/eatmoreplants.no_30-08-2024_1708.png"

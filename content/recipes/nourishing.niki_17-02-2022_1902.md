@@ -2,6 +2,7 @@
 title: "Easy, Health(ish) Blondie Brownies 😍 (vegan, gluten-free option, refined sugar-free, oil-free)"
 date: 2022-02-17 19:08:27+00:00
 author_handle: "nourishing.niki"
+authors: ["nourishing.niki"]
 author_name: "Nikita Messina - Easy & Healthy Recipes"
 post_url: "https://instagram.com/p/CaFu2Vaqh3t"
 image: "img/nourishing.niki_17-02-2022_1902.png"

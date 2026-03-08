@@ -2,6 +2,7 @@
 title: "bakery style apple fritters !! with miso maple and brown butter glaze 🍎"
 date: 2025-10-22 15:01:51+00:00
 author_handle: "okonomikitchen"
+authors: ["okonomikitchen"]
 author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DQHaMi8DXKh"
 image: "img/okonomikitchen_22-10-2025_1501.png"

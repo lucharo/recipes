@@ -2,6 +2,7 @@
 title: "One pot marry me butter beans💍"
 date: 2024-08-19 15:02:41+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C-2wMbtKL8K"
 image: "img/eatmoreplants.no_19-08-2024_1502.png"

@@ -2,6 +2,7 @@
 title: "Please Support & Follow 👉 @thecooking.feed"
 date: 2021-12-06 15:37:01+00:00
 author_handle: "plantbasedvegans"
+authors: ["plantbasedvegans"]
 author_name: "Plant Based Vegan"
 post_url: "https://instagram.com/p/CXJYoJzKyRG"
 image: "img/plantbasedvegans_06-12-2021_1512.png"

@@ -2,6 +2,7 @@
 title: "🔥😍💕EP 6: SCRAPPY COOKING - crispy potato skins."
 date: 2021-10-24 10:23:32+00:00
 author_handle: "vegancarnival"
+authors: ["vegancarnival"]
 author_name: "🍅 Vegan Foodie 💚 Green Life"
 post_url: "https://instagram.com/p/CVaGmDXKY-T"
 image: "img/vegancarnival_24-10-2021_1010.png"

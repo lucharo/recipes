@@ -2,6 +2,7 @@
 title: "VEGAN TANTANMEN 🍜 a Japanese inspired creamy ramen bowl 🤩"
 date: 2022-08-10 15:59:39+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/ChFbng2KV64"
 image: "img/pengveganmunch_10-08-2022_1508.png"

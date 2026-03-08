@@ -2,6 +2,7 @@
 title: "For my garlic lovers: Roasted Garlic Miso Noodle Soup with Seared King Oyster Mushrooms 🧄"
 date: 2024-11-09 15:55:34+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DCKANVOyulw"
 image: "img/thefoodietakesflight_09-11-2024_1555.png"

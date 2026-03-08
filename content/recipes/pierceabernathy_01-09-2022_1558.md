@@ -2,6 +2,7 @@
 title: "Creamy Sungold Tomato Orzo. Truly 5 ingredients, vegan, one-pot.... all the buzz words. It may be September but if I can still buy tomatoes at the market summer ain’t over."
 date: 2022-09-01 15:58:01+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/Ch-Ek8_PFBF"
 image: "img/pierceabernathy_01-09-2022_1558.png"

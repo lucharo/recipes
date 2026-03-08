@@ -2,6 +2,7 @@
 title: "🎉😍 Fudgy Protein Borwnies with @oatsomeoatmilk 🙌 #ad"
 date: 2022-04-22 16:50:51+00:00
 author_handle: "that.veganbabe"
+authors: ["that.veganbabe"]
 author_name: "Stephanie Manzinali"
 post_url: "https://instagram.com/p/CcqSD0EMS9k"
 image: "img/that.veganbabe_22-04-2022_1604.png"

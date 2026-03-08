@@ -2,6 +2,7 @@
 title: "Orange tofu! 🔥🙌🏼 It’s so good that I’m not ashamed to tell you this is what I had for breakfast this morning lol! (Someone has to eat the leftovers right?!😂) I hope you like it! ☺️ It doesn’t taste overly like orange, if you want that powerful orange flavor, use store-bought orange juice! But I prefer using fresh ingredients and I like the subtle orange flavor! ☺️ I didn’t add too much sugar, just 2 tbsp so make sure to adjust the sauce to your preference once it’s done! 💚🔥 Orange Tofu"
 date: 2018-11-03 16:26:00+00:00
 author_handle: "everyday.vegan.food"
+authors: ["everyday.vegan.food"]
 author_name: "Everyday Vegan Food"
 post_url: "https://instagram.com/p/BpuY5TCA75A"
 image: "img/everyday.vegan.food_03-11-2018_1626.png"

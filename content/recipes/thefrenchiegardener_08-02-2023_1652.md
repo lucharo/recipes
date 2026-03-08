@@ -2,6 +2,7 @@
 title: "How to grow your own Ginger at home 🌱💚"
 date: 2023-02-08 16:52:39+00:00
 author_handle: "thefrenchiegardener"
+authors: ["thefrenchiegardener"]
 author_name: "Patrick Vernuccio"
 post_url: "https://instagram.com/p/CoaKWxqK2Lz"
 image: "img/thefrenchiegardener_08-02-2023_1652.png"

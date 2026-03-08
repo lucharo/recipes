@@ -2,6 +2,7 @@
 title: "Wanna satisfy your sweet tooth and feed your good gut bacteria at the same time? CUE CHICKPEA COOKIE DOUGH 🍪 (recipe below)! I love this dough as much as the little guys 👾 in your gut do…here’s why:"
 date: 2019-01-24 00:29:39+00:00
 author_handle: "theguthealthmd"
+authors: ["theguthealthmd"]
 author_name: "Will Bulsiewicz MD MSCI | Gastroenterologist"
 post_url: "https://instagram.com/p/Bs_0ocFBf7w"
 image: "img/theguthealthmd_24-01-2019_0029.png"

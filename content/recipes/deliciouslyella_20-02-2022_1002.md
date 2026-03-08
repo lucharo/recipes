@@ -2,6 +2,7 @@
 title: "Ingredients:"
 date: 2022-02-20 10:19:06+00:00
 author_handle: "deliciouslyella"
+authors: ["deliciouslyella"]
 author_name: "Deliciously Ella"
 post_url: "https://instagram.com/p/CaMguvhjITt"
 image: "img/deliciouslyella_20-02-2022_1002.png"

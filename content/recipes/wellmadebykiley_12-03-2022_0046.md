@@ -2,6 +2,7 @@
 title: "SINGLE-SERVE GRANOLA BUTTER LAVA CAKE (V + GF)"
 date: 2022-03-12 00:46:13+00:00
 author_handle: "wellmadebykiley"
+authors: ["wellmadebykiley"]
 author_name: "Kiley O'Donnell"
 post_url: "https://instagram.com/p/Ca-_FSPjkrd"
 image: "img/wellmadebykiley_12-03-2022_0046.png"

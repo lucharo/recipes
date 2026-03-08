@@ -2,6 +2,7 @@
 title: "Do you struggle to make your tofu taste delicious? Try this simple Crispy Korean BBQ tofu recipe from @rabbitandwolves which guarantees tangy, sweet, and crispy tofu every time! 🥢🥡⠀"
 date: 2019-03-12 12:00:14+00:00
 author_handle: "wearefuturebites"
+authors: ["wearefuturebites"]
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/Bu6FBi0A94t"
 image: "img/wearefuturebites_12-03-2019_1203.png"

@@ -2,6 +2,7 @@
 title: "Pistachio Cake"
 date: 2022-04-08 01:34:57+00:00
 author_handle: "theplantbasedmeal"
+authors: ["theplantbasedmeal"]
 author_name: "Plant Based Meal"
 post_url: "https://instagram.com/p/CcEmG2EMcn8"
 image: "img/theplantbasedmeal_08-04-2022_0104.png"

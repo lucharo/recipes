@@ -2,6 +2,7 @@
 title: "Tofu Chick’n Teriyaki made extra ‘meaty’ by freezing blocks of tofu! 🥢"
 date: 2022-10-06 14:24:37+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CjYCIIGJkfM"
 image: "img/thefoodietakesflight_06-10-2022_1424.png"

@@ -2,6 +2,7 @@
 title: "📍#asmr // Super easy kimchi pajeon, aka kimchi pancake. Just a handful of ingredients and you’re got yourself an easy snack ✌🏼 perfectly crunchy on the outside and delish on the inside!"
 date: 2022-03-02 23:52:35+00:00
 author_handle: "vernahungrybanana"
+authors: ["vernahungrybanana"]
 author_name: "Verna | eating and cooking around the world"
 post_url: "https://instagram.com/p/CantDI4I372"
 image: "img/vernahungrybanana_02-03-2022_2303.png"

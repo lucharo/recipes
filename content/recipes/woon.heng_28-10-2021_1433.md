@@ -2,6 +2,7 @@
 title: "This Vegan Luncheon Roll🤩 is absolutely TASTY😋 and super easy to make #omnilicious. I haven't had luncheon meat in ages and this OmniPork Luncheon by @omnifoods.global definitely hits all the spot--the texture and taste are all on point! It’s also rich in protein and has far fewer calories than the traditional ones. OmniPork Luncheon can be found at all Sprouts locations nationwide. So, don’t wait and stock it up (I got 4 packs already😄) to make the recipe below! [AD]⁣"
 date: 2021-10-28 14:33:26+00:00
 author_handle: "woon.heng"
+authors: ["woon.heng"]
 author_name: "WoonHeng Chia"
 post_url: "https://instagram.com/p/CVk1sAcFtJa"
 image: "img/woon.heng_28-10-2021_1433.png"

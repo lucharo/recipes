@@ -2,6 +2,7 @@
 title: "bookmark this vegan BROWNIE BAKED OATMEAL 🤎✨follow @healthygirlkitchen for more vegan recipes!"
 date: 2022-04-25 22:23:23+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/CcymaEnpHvn"
 image: "img/healthygirlkitchen_25-04-2022_2223.png"

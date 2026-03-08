@@ -2,6 +2,7 @@
 title: "Crispy on the outside and perfectly chewy on the inside! You're gonna LOVE these rice paper dumplings by @okonomikitchen 🥟 Best of all, they're 100% plant-based so you can make this recipe as often as you like without contributing to the cruel and eco-destructive meat and dairy industries 🙌"
 date: 2022-03-30 14:01:23+00:00
 author_handle: "get.plant.ed"
+authors: ["get.plant.ed"]
 author_name: "planted"
 post_url: "https://instagram.com/p/CbuwYp9hQey"
 image: "img/get.plant.ed_30-03-2022_1403.png"

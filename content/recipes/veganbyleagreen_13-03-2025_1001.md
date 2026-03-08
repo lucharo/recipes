@@ -2,6 +2,7 @@
 title: "ᵂᴱᴿᴮᵁᴺᴳ Schmeiß den Ofen an: Wir machen super krosse Tempeh-Sticks! 🔥"
 date: 2025-03-13 10:01:38+00:00
 author_handle: "veganbyleagreen"
+authors: ["veganbyleagreen"]
 author_name: "Zimmer ♡ Vegan by Lea Green ♡"
 post_url: "https://instagram.com/p/DHIqR_BoPw1"
 image: "img/veganbyleagreen_13-03-2025_1001.png"

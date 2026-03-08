@@ -2,6 +2,7 @@
 title: "Killer Tofu “Ground Beef” 😋🤤"
 date: 2022-01-26 18:25:12+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CZNAODtow2D"
 image: "img/plantbased.green_26-01-2022_1801.png"

@@ -2,6 +2,7 @@
 title: "bookmark how to make VEGAN SCRAMBLED EGGS using pumpkin seeds 🍳✨Follow @healthygirlkitchen for more vegan recipes! #gorawpartner"
 date: 2022-11-19 15:17:46+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/ClJa2npjt1H"
 image: "img/healthygirlkitchen_19-11-2022_1517.png"

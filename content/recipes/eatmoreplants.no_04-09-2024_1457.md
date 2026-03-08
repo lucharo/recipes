@@ -2,6 +2,7 @@
 title: "Ad. Veri is no longer available, as they have been acquired by Oura and will no longer be selling subscriptions."
 date: 2024-09-04 14:57:12+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C_f9I_zoIKW"
 image: "img/eatmoreplants.no_04-09-2024_1457.png"

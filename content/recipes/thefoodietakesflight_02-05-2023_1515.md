@@ -2,6 +2,7 @@
 title: "Cold Silken Tofu with a sweet & spicy hoisin-based sauce. ✨"
 date: 2023-05-02 15:15:26+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CrvtNy4uJH-"
 image: "img/thefoodietakesflight_02-05-2023_1515.png"

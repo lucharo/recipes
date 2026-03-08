@@ -2,6 +2,7 @@
 title: "VEGAN EGG FRIED RICE 🥚 make it with your next Chinese fakeaway and thank me later 🤝"
 date: 2022-11-09 17:11:32+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/Ckv3bRWK2xi"
 image: "img/pengveganmunch_09-11-2022_1711.png"

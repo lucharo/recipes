@@ -2,6 +2,7 @@
 title: "KUNG PAO TOFU 🥡 sweet, tangy + will leave your tongue tingling 👅"
 date: 2022-04-21 16:06:23+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/Ccnn4dgqIKz"
 image: "img/pengveganmunch_21-04-2022_1604.png"

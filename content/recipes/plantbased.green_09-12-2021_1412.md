@@ -2,6 +2,7 @@
 title: "RICE BREAD 米麵包. 🍚 I discovered this method through some Taiwanese and Japanese books I’ve read, namely ones by Shiori (@shioris_vegan_pantry). It’s amazing how blended rice goo can function so similar to gluten and bake into something with a soft, tight yet light crumb like this. This rice bread has a distinct mouthfeel, denser than regular white bread but chewy and fragrant in its own right."
 date: 2021-12-09 14:27:57+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CXQ_J_oKtvr"
 image: "img/plantbased.green_09-12-2021_1412.png"

@@ -2,6 +2,7 @@
 title: "Super Fluffy Squash pancakes with ginger-date syrup."
 date: 2022-11-25 17:10:06+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/ClZD36srFpW"
 image: "img/pierceabernathy_25-11-2022_1711.png"

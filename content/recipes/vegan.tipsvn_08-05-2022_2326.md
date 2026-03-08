@@ -2,6 +2,7 @@
 title: "\"GET The Complete Plant Based Cookbook - Over 100+ Delicious Vegan Recipes Including 30-day Meal Plans\" LINK IN BIO 🔗 @vegan.tipsvn"
 date: 2022-05-08 23:26:40+00:00
 author_handle: "vegan.tipsvn"
+authors: ["vegan.tipsvn"]
 author_name: "Vegan Tips"
 post_url: "https://instagram.com/p/CdUMGwzLEfU"
 image: "img/vegan.tipsvn_08-05-2022_2326.png"

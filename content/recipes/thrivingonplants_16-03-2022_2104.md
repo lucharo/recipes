@@ -2,6 +2,7 @@
 title: "Sticky Sesame Soy Cauliflower 😍👏 Battered baked cauliflower tossed in a sweet & tangy sauce, yes please!!! Make sure you SAVE this post and try it, this recipe is an absolute winner!"
 date: 2022-03-16 21:04:39+00:00
 author_handle: "thrivingonplants"
+authors: ["thrivingonplants"]
 author_name: "Cherie"
 post_url: "https://instagram.com/p/CbLdX_KhVZK"
 image: "img/thrivingonplants_16-03-2022_2104.png"

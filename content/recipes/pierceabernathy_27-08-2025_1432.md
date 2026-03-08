@@ -2,6 +2,7 @@
 title: "Cucumber-Tomato Salad with Sesame Whipped Tofu. My latest recipe for @nytcooking"
 date: 2025-08-27 14:32:03+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/DN3KYUO2H0w"
 image: "img/pierceabernathy_27-08-2025_1432.png"

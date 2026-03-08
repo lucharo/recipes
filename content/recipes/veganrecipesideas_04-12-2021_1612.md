@@ -2,6 +2,7 @@
 title: "Pretzel Bites 🥨 by @that.veganbabe"
 date: 2021-12-04 16:19:26+00:00
 author_handle: "veganrecipesideas"
+authors: ["veganrecipesideas"]
 author_name: "Vegan Recipes"
 post_url: "https://instagram.com/p/CXET7CqgFgC"
 image: "img/veganrecipesideas_04-12-2021_1612.png"

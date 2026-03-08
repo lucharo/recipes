@@ -2,6 +2,7 @@
 title: "Miso Sesame Udon Soup 🍜 made with @lechia.co’s unsweetened macadamia nut milk that’s really rich, silky, and neutral-tasting making it perfect for savoury dishes and recipes. It’s also a great source of heart-healthy omega 3s, fibre, and has 0 added sugars. 👌🏻"
 date: 2022-08-03 13:44:25+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CgzKdHHJVCo"
 image: "img/thefoodietakesflight_03-08-2022_1344.png"

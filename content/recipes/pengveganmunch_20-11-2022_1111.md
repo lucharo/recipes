@@ -2,6 +2,7 @@
 title: "AUTUMN (🇬🇧) FALL (🇺🇸) SALAD 🥶🥗 a warming, filling salad because I want salad all year round pls 🤝"
 date: 2022-11-20 11:16:19+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/ClLj0TSKbFo"
 image: "img/pengveganmunch_20-11-2022_1111.png"

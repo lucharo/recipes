@@ -2,6 +2,7 @@
 title: "Chilli garlic lunchtime noodles 🍜⠀"
 date: 2022-01-06 16:49:33+00:00
 author_handle: "__southofsomewhere"
+authors: ["__southofsomewhere"]
 author_name: "meg"
 post_url: "https://instagram.com/p/CYZVnW5JCmO"
 image: "img/__southofsomewhere_06-01-2022_1649.png"

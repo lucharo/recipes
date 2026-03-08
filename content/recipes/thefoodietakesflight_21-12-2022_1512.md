@@ -2,6 +2,7 @@
 title: "Scalloped Potatoes with a Creamy Lemon Dill Sauce 🍋"
 date: 2022-12-21 15:07:42+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CmbzY46hIAZ"
 image: "img/thefoodietakesflight_21-12-2022_1512.png"

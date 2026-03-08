@@ -2,6 +2,7 @@
 title: "Instant ramen jars on a monday🍜 Add more sriracha for 🔥"
 date: 2024-08-26 13:28:38+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C_In8twKiB5"
 image: "img/eatmoreplants.no_26-08-2024_1328.png"

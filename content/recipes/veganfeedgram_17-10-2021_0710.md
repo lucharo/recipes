@@ -2,6 +2,7 @@
 title: "ROASTED RED PEPPER PASTA 🍝 by @sovegan A classic SO VEGAN recipe. A creamy, tangy and wonderful roasted red pepper sauce with spaghetti ✌️"
 date: 2021-10-17 07:31:24+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CVHxV4hJoPV"
 image: "img/veganfeedgram_17-10-2021_0710.png"

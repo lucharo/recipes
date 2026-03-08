@@ -2,6 +2,7 @@
 title: "Kare pan カレーパン— Japanese curry bread for episode one of the Japanese bakery series !! 🍛🍩🍞"
 date: 2026-01-02 16:37:28+00:00
 author_handle: "okonomikitchen"
+authors: ["okonomikitchen"]
 author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DTA-S7wjskR"
 image: "img/okonomikitchen_02-01-2026_1637.png"

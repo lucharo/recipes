@@ -2,6 +2,7 @@
 title: "HOMEMADE GNOCCHI 🇮🇹"
 date: 2022-05-09 13:14:22+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CdVqxxjKsuv"
 image: "img/plantbased.green_09-05-2022_1305.png"

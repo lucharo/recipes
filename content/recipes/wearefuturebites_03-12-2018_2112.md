@@ -2,6 +2,7 @@
 title: "Check out this plant based take on traditional mac and cheese, made with roasted miso butternut squash 😍 🧀 ⠀"
 date: 2018-12-03 21:00:31+00:00
 author_handle: "wearefuturebites"
+authors: ["wearefuturebites"]
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/Bq8IKDyjs1Y"
 image: "img/wearefuturebites_03-12-2018_2112.png"

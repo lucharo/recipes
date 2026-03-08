@@ -2,6 +2,7 @@
 title: "SPAGHETTI AGLIO OLIO 🧄🛢 a classic Italian dish that is simple but full of flavour 🤩 RECIPE BELOW 👇🏾"
 date: 2022-02-03 17:00:34+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CZhdARSh59B"
 image: "img/pengveganmunch_03-02-2022_1702.png"

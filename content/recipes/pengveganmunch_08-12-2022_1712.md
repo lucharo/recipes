@@ -2,6 +2,7 @@
 title: "VEGAN CALAMARI 🦑 written recipe below 👇🏾"
 date: 2022-12-08 17:08:34+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/Cl6iQ7SqWmX"
 image: "img/pengveganmunch_08-12-2022_1712.png"

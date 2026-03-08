@@ -2,6 +2,7 @@
 title: "ᵂᴱᴿᴮᵁᴺᴳ ᴬᴰ VEGAN BURRITO SAMOSAS - this NEW RECIPE is now on my blog 😍 👉🏻 Link in my bio and insta-story👆🏻🌯🌶 + Cashew-Dip & Guacamole 👌🏻"
 date: 2018-08-22 18:05:39+00:00
 author_handle: "biancazapatka"
+authors: ["biancazapatka"]
 author_name: "Bianca Zapatka"
 post_url: "https://instagram.com/p/BmymRPGlgBM"
 image: "img/biancazapatka_22-08-2018_1805.png"

@@ -2,6 +2,7 @@
 title: "Pan-Fried Tofu with Chili Miso Sauce"
 date: 2022-08-16 14:25:42+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ChUtnc3JUbT"
 image: "img/thefoodietakesflight_16-08-2022_1425.png"

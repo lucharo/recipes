@@ -2,6 +2,7 @@
 title: "Spicy Garlic & Herb Mushroom Foil Bake!"
 date: 2024-08-31 15:13:26+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/C_VsDRvJ6x4"
 image: "img/thefoodietakesflight_31-08-2024_1508.png"

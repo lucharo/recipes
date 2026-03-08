@@ -2,6 +2,7 @@
 title: "PERI PERI CHICK’N + RICE🐓 doing up Nandos at home with some tofu 🤝"
 date: 2022-11-02 17:06:57+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/Ckd1SyUqH_T"
 image: "img/pengveganmunch_02-11-2022_1711.png"

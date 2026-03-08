@@ -2,6 +2,7 @@
 title: "Tahina rolls! Many variations of these rolls are popular in Armenia and surrounding countries. Simple to make and the perfect breakfast pastry."
 date: 2022-10-31 14:25:32+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CkYaDPGshf6"
 image: "img/pierceabernathy_31-10-2022_1425.png"

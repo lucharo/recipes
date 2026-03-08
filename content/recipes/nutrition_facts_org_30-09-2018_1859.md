@@ -2,6 +2,7 @@
 title: "Dr. Greger's Caesar salad dressing from How Not to Die is a simple and tangy dressing for your Daily Dozen inspired bowls! Try it this weekend!"
 date: 2018-09-30 18:59:18+00:00
 author_handle: "nutrition_facts_org"
+authors: ["nutrition_facts_org"]
 author_name: "NutritionFacts.org"
 post_url: "https://instagram.com/p/BoXHaUgn9gv"
 image: "img/nutrition_facts_org_30-09-2018_1859.png"

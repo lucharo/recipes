@@ -2,6 +2,7 @@
 title: "High Protein Chickpea Popcorn 🍿. Yes or NO? Recipe 👇"
 date: 2025-06-13 07:38:09+00:00
 author_handle: "tomseniorfitness"
+authors: ["tomseniorfitness"]
 author_name: "Tom Senior"
 post_url: "https://instagram.com/p/DK1TKqeimw-"
 image: "img/tomseniorfitness_13-06-2025_0738.png"

@@ -2,6 +2,7 @@
 title: "VEGAN FRIED ‘CHICKEN’ 😍🤤"
 date: 2021-11-28 18:22:53+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CW1FGNwKoR_"
 image: "img/plantbased.green_28-11-2021_1811.png"

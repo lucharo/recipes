@@ -2,6 +2,7 @@
 title: "Sweet Potato, peppers and cucumber with corn-infused tahini. A seasonal variety of seared and stir-fried veggies with a rich balanced sauce. Stir fried cucumbers are common in Chinese and Korean cuisine. They soften slightly while still holding a lot of moisture giving the dish a refreshing juicy crunch. I absolutely love the taste of raw juiced corn. It’s sweet, a bit nutty, and a perfect partner to tahini."
 date: 2022-08-22 16:22:14+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/ChkXvnQJAAH"
 image: "img/pierceabernathy_22-08-2022_1622.png"

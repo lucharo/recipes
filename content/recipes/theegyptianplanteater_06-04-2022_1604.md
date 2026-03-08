@@ -2,6 +2,7 @@
 title: "GOCHUJANG HUMMUS RIGATONI🍝🌶"
 date: 2022-04-06 16:32:47+00:00
 author_handle: "theegyptianplanteater"
+authors: ["theegyptianplanteater"]
 author_name: "Farida🌸 plant-based foooodie🌱"
 post_url: "https://instagram.com/p/CcBDPFjqUZt"
 image: "img/theegyptianplanteater_06-04-2022_1604.png"

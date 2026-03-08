@@ -2,6 +2,7 @@
 title: "PEANUT BUTTER TOFU CURRY 🍛"
 date: 2022-02-21 13:42:11+00:00
 author_handle: "bosh.tv"
+authors: ["bosh.tv"]
 author_name: "BOSH! - 🚀 Flavour | 💪🏻 Protein | 🌱 Fibre"
 post_url: "https://instagram.com/p/CaPcmHHjhNX"
 image: "img/bosh.tv_21-02-2022_1342.png"

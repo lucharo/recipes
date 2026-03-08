@@ -2,6 +2,7 @@
 title: "bookmark this GOLDEN GODDESS SALAD🌞🧡✨episode 11 of life-changing salads ✨follow @healthygirlkitchen for more vegan recipes!"
 date: 2022-05-04 23:31:44+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/CdJ5aMXp8j1"
 image: "img/healthygirlkitchen_04-05-2022_2331.png"

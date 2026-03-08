@@ -2,6 +2,7 @@
 title: "A vegan Saag Paneer, with a handful of wild garlic - my favourite way to use up the abundance of fresh spinach that spring brings along."
 date: 2022-04-15 10:18:06+00:00
 author_handle: "bakinghermann"
+authors: ["bakinghermann"]
 author_name: "Julius Fiedler"
 post_url: "https://instagram.com/p/CcXi285IQVq"
 image: "img/bakinghermann_15-04-2022_1004.png"

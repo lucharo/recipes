@@ -2,6 +2,7 @@
 title: "APPLE ROSE TARTE TATIN - all you need for this luxurious dessert are 3 ingredients you probably already have in your home: apples, store-bought puff pastry and sugar, very minimalistic, but oh, so wonderful"
 date: 2021-10-26 16:57:48+00:00
 author_handle: "bestfruitvideos"
+authors: ["bestfruitvideos"]
 author_name: "Best Fruit Videos"
 post_url: "https://instagram.com/p/CVf9JMKKIIS"
 image: "img/bestfruitvideos_26-10-2021_1657.png"

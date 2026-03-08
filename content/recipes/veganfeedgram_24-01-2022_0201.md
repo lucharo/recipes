@@ -2,6 +2,7 @@
 title: "Vegan Lemon Loaf"
 date: 2022-01-24 02:16:56+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CZGG3_Spoi3"
 image: "img/veganfeedgram_24-01-2022_0201.png"

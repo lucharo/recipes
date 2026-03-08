@@ -6,14 +6,14 @@
     <h1>{{ .Title }}</h1>
     <div class="recipe-meta">
       <span class="recipe-author">
-        Recipe by <a href="https://www.instagram.com/{{ .Params.author_handle }}/" target="_blank" rel="noopener">@{{ .Params.author_handle }}</a>
+        Recipe by {{ with .Params.author_handle }}<a href="/authors/{{ . }}/">@{{ . }}</a>{{ end }}
         {{ with .Params.author_name }}({{ . }}){{ end }}
       </span>
       <a href="{{ .Params.post_url }}" class="btn btn-sm" target="_blank" rel="noopener">View on Instagram</a>
     </div>
     {{ if eq .Params.recipe_quality "video_only" }}
     <div class="recipe-notice notice-video">
-      This recipe's instructions are in the video. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Watch on Instagram</a>
+      This post doesn't contain a useful recipe description — the instructions are in the video. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Watch the video on Instagram</a>
     </div>
     {{ else if eq .Params.recipe_quality "minimal" }}
     <div class="recipe-notice notice-minimal">

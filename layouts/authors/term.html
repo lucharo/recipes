@@ -1,0 +1,17 @@
+{{ define "title" }}@{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<section class="author-page">
+  <div class="author-header">
+    <h1>@{{ .Title }}</h1>
+    <p class="author-stats">{{ len .Pages }} recipe{{ if ne (len .Pages) 1 }}s{{ end }}</p>
+    <a href="https://www.instagram.com/{{ .Title }}/" class="btn btn-sm" target="_blank" rel="noopener">View on Instagram</a>
+  </div>
+
+  <section class="recipe-grid">
+    {{ range .Pages.ByDate.Reverse }}
+    {{ partial "recipe-card.html" . }}
+    {{ end }}
+  </section>
+</section>
+{{ end }}

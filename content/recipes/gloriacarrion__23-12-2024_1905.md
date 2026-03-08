@@ -2,6 +2,7 @@
 title: "ROSCÓN DE REYES VEGANO"
 date: 2024-12-23 19:05:54+00:00
 author_handle: "gloriacarrion_"
+authors: ["gloriacarrion_"]
 author_name: ""
 post_url: "https://instagram.com/p/DD7pRv4IexK"
 image: "img/gloriacarrion__23-12-2024_1905.png"

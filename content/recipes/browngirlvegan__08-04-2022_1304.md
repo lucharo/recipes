@@ -2,6 +2,7 @@
 title: "cilantro lime chilli noodles 🌿🌶 yes please! it's also vegan with a gluten free option ✨"
 date: 2022-04-08 13:06:20+00:00
 author_handle: "browngirlvegan_"
+authors: ["browngirlvegan_"]
 author_name: "Ramya | vegan recipes ✨"
 post_url: "https://instagram.com/p/CcF1M-RDlg-"
 image: "img/browngirlvegan__08-04-2022_1304.png"

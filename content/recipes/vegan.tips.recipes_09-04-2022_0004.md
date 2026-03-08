@@ -2,6 +2,7 @@
 title: "Follow us @Smoothie.recipe.21day for more tips and recipes about healthy smoothie weight loss every day 💚"
 date: 2022-04-09 00:55:14+00:00
 author_handle: "vegan.tips.recipes"
+authors: ["vegan.tips.recipes"]
 author_name: "Vegan.World"
 post_url: "https://instagram.com/p/CcHGX46gm5Y"
 image: "img/vegan.tips.recipes_09-04-2022_0004.png"

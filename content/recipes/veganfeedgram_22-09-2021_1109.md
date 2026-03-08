@@ -2,6 +2,7 @@
 title: "SEARED NAPA CABBAGE with miso butter or  SMASHED BRUSSELS SPROUTS with garlic chili oil 🌶?Which one would you pick?👇"
 date: 2021-09-22 11:18:53+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CUHzmFAJSpX"
 image: "img/noimage.jpg"

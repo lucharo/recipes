@@ -2,6 +2,7 @@
 title: "Maitake Mushroom Pot Rice with Black Garlic Miso Sauce!"
 date: 2025-12-10 15:58:50+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DSFrhwmifp3"
 image: "img/thefoodietakesflight_10-12-2025_1558.png"

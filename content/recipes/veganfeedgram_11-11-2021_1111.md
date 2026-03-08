@@ -2,6 +2,7 @@
 title: "SPICY GARLIC TOFU 🧄 the recipe that might turn you into a tofu lover! by @herbifoods"
 date: 2021-11-11 11:52:01+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CWInEUZpRjL"
 image: "img/veganfeedgram_11-11-2021_1111.png"

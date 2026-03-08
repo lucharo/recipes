@@ -2,6 +2,7 @@
 title: "MANGO LIME SORBET 🥭🍨 Island way sorbet who?? Make it yourself with wayyy less sugar and no dairy for the cutest (and most delicious!) summer treat. Serve it up in a mango half or just freeze it in a regular container (it’s equally delicious both ways 😉)"
 date: 2023-06-12 14:57:01+00:00
 author_handle: "crowded_kitchen"
+authors: ["crowded_kitchen"]
 author_name: "Lexi Harrison & Beth Sinclair"
 post_url: "https://instagram.com/p/CtZPutcgHSi"
 image: "img/crowded_kitchen_12-06-2023_1406.png"

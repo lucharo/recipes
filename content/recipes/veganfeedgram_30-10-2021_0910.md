@@ -2,6 +2,7 @@
 title: "What I Eat For Dinner (most nights) — Tofu Noodle Stir-Fry🍝 by @maxlamanna"
 date: 2021-10-30 09:11:35+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CVpbJPXKOX6"
 image: "img/veganfeedgram_30-10-2021_0910.png"

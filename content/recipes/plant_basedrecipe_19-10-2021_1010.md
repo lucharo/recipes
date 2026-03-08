@@ -2,6 +2,7 @@
 title: "TERIYAKI TOFU 😋✨ Tofu is boring? NAAAH!"
 date: 2021-10-19 10:45:13+00:00
 author_handle: "plant_basedrecipe"
+authors: ["plant_basedrecipe"]
 author_name: "vegan recipe"
 post_url: "https://instagram.com/p/CVNRK6OpLNA"
 image: "img/plant_basedrecipe_19-10-2021_1010.png"

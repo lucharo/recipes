@@ -2,6 +2,7 @@
 title: "These crispy Rice Paper Dumplings have become my new obsession! by @cookingwithayeh"
 date: 2021-10-07 08:02:06+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CUuE8uCJ2EG"
 image: "img/veganfeedgram_07-10-2021_0810.png"

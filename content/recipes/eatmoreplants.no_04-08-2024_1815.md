@@ -2,6 +2,7 @@
 title: "Ad. @veri"
 date: 2024-08-04 18:15:07+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C-QfTkEqiws"
 image: "img/eatmoreplants.no_04-08-2024_1815.png"

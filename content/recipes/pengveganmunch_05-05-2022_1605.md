@@ -2,6 +2,7 @@
 title: "VEGAN LEMON CHICK’N 🍋🐓 a tangy Chinese takeaway classic 🔥"
 date: 2022-05-05 16:03:13+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CdLqnGSKl7h"
 image: "img/pengveganmunch_05-05-2022_1605.png"

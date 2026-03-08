@@ -2,6 +2,7 @@
 title: "Looks yummy! Have you tried making this?"
 date: 2022-03-05 16:18:47+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CauoOofFvkV"
 image: "img/veganfeedgram_05-03-2022_1603.png"

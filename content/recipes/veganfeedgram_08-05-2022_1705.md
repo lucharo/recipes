@@ -2,6 +2,7 @@
 title: "Do you like eggplants? If you do, then take a look at this delicious recipe! What do you think? Would you try it?"
 date: 2022-05-08 17:19:32+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CdTiB-ppjIu"
 image: "img/veganfeedgram_08-05-2022_1705.png"

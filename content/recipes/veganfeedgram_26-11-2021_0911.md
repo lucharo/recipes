@@ -2,6 +2,7 @@
 title: "Lazy noodles 🍝 5-minute meal here we go! 🤓 by @fitgreenmind"
 date: 2021-11-26 09:39:03+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CWu_wfwpE4j"
 image: "img/veganfeedgram_26-11-2021_0911.png"

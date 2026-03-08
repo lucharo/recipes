@@ -2,6 +2,7 @@
 title: "Comment “SALAD COOKBOOK” and I’ll send ya a link to my new cookbook Life Changing Salads!! 🥗🫛🥕🩷it has 100 healthy salad recipes and dressings!"
 date: 2025-04-03 20:18:10+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/DH_15rdpiDg"
 image: "img/healthygirlkitchen_03-04-2025_2018.png"

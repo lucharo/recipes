@@ -2,6 +2,7 @@
 title: "EAT OR PASS?? 😍"
 date: 2023-04-15 13:47:14+00:00
 author_handle: "lance.converse"
+authors: ["lance.converse"]
 author_name: "Nutrition & Health"
 post_url: "https://instagram.com/p/CrDxrc2qhDp"
 image: "img/lance.converse_15-04-2023_1347.png"

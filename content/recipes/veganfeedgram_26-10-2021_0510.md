@@ -2,6 +2,7 @@
 title: "BROWNIE BAKED OATMEAL 🍫 Aka. an excuse to eat cake for breakfast! 😜 by @fitgreenmind"
 date: 2021-10-26 05:12:14+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CVesltTptpK"
 image: "img/veganfeedgram_26-10-2021_0510.png"

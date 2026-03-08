@@ -2,6 +2,7 @@
 title: "Hong Kong Mango Pancakes!! 🥭🌞✨"
 date: 2022-03-01 18:28:18+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/Cakj0ReKKw1"
 image: "img/plantbased.green_01-03-2022_1803.png"

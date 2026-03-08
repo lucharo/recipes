@@ -2,6 +2,7 @@
 title: "My kind of easy no-cook meal: soy sauce udon with cucumber & wakame salad 🥢🥒"
 date: 2022-07-24 15:08:00+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CgZkNB2Isiy"
 image: "img/thefoodietakesflight_24-07-2022_1508.png"

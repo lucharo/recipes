@@ -2,6 +2,7 @@
 title: "Cacio e Pepe inspired spaghetti squash dip. In this house, spaghetti squash is not a replacement for spaghetti BUT that doesn’t mean it is not delicious."
 date: 2023-03-03 17:18:27+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CpVbI2LMuqm"
 image: "img/pierceabernathy_03-03-2023_1703.png"

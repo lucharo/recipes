@@ -2,6 +2,7 @@
 title: "you need to try OLIVE OIL + ICE CREAM!🍨✨Follow @healthygirlkitchen for more recipes!"
 date: 2022-05-31 15:25:43+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/CeOig9VjwHM"
 image: "img/healthygirlkitchen_31-05-2022_1525.png"

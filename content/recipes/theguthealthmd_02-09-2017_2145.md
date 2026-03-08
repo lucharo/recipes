@@ -2,6 +2,7 @@
 title: "Now that the kids 👧🏼 are once again bringing home 🏡 cooties from school 🤧, it's time to unleash my secret weapon -- GARLIC!"
 date: 2017-09-02 21:45:46+00:00
 author_handle: "theguthealthmd"
+authors: ["theguthealthmd"]
 author_name: "Will Bulsiewicz MD MSCI | Gastroenterologist"
 post_url: "https://instagram.com/p/BYjeDqWn8rR"
 image: "img/theguthealthmd_02-09-2017_2145.png"

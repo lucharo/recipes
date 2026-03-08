@@ -2,6 +2,7 @@
 title: "🍣🌿 VEGAN SALMON 🌿🍣"
 date: 2022-02-17 18:54:44+00:00
 author_handle: "curatethischaos"
+authors: ["curatethischaos"]
 author_name: "Melissa | previously @lissa.elle"
 post_url: "https://instagram.com/p/CaFtPehK2_i"
 image: "img/curatethischaos_17-02-2022_1854.png"

@@ -2,6 +2,7 @@
 title: "DIP O’CLOCK! Squash dip with gochujang and homemade sesame paste."
 date: 2022-09-16 14:26:59+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/Cikh3wJAw-o"
 image: "img/pierceabernathy_16-09-2022_1426.png"

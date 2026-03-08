@@ -2,6 +2,7 @@
 title: "Wood Ear Mushroom Salad 🍄🥗"
 date: 2023-04-12 14:16:44+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Cq8Ggq0pP_0"
 image: "img/thefoodietakesflight_12-04-2023_1404.png"

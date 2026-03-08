@@ -2,6 +2,7 @@
 title: "You scream, I scream we all scream for NICE CREAM! 🍦 Yep, banana ice-cream, another treat-yourself and your microbiome dessert. Directions below. 👇🏻"
 date: 2019-02-28 00:09:44+00:00
 author_handle: "theguthealthmd"
+authors: ["theguthealthmd"]
 author_name: ""
 post_url: "https://instagram.com/p/BuZ6LOjBQtD"
 image: "img/noimage.jpg"

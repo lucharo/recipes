@@ -2,6 +2,7 @@
 title: "Warm hugs for you all 🤗🍜"
 date: 2023-01-07 14:14:26+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CnHew2PBAws"
 image: "img/thefoodietakesflight_07-01-2023_1414.png"

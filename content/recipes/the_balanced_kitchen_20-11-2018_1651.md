@@ -2,6 +2,7 @@
 title: "BLACK BEAN, TAHINI & MOLASSES CHOCOLATE BROWNIES"
 date: 2018-11-20 16:51:50+00:00
 author_handle: "the_balanced_kitchen"
+authors: ["the_balanced_kitchen"]
 author_name: "Joanne|Healthy|Wholefood|Recipes"
 post_url: "https://instagram.com/p/BqaNXUznQNu"
 image: "img/the_balanced_kitchen_20-11-2018_1651.png"

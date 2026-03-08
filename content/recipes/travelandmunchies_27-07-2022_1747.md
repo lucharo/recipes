@@ -2,6 +2,7 @@
 title: "Buss Up Shut! I have shared this before but here it is again! This recipe never fails me, even when I rush it, it is always deliciously flaky! Had the pleasure of visiting Trinidad for two weeks this year and so happy I can recreate one of my favourite treats from the trip! 👌🏿"
 date: 2022-07-27 17:47:44+00:00
 author_handle: "travelandmunchies"
+authors: ["travelandmunchies"]
 author_name: "Travelandmunchies"
 post_url: "https://instagram.com/p/Cghkuqxl-b2"
 image: "img/travelandmunchies_27-07-2022_1747.png"

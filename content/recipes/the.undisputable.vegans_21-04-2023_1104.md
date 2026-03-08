@@ -2,6 +2,7 @@
 title: "🥭 Mangum"
 date: 2023-04-21 11:17:14+00:00
 author_handle: "the.undisputable.vegans"
+authors: ["the.undisputable.vegans"]
 author_name: "The Undisputable Vegans"
 post_url: "https://instagram.com/p/CrS9J-HguC8"
 image: "img/the.undisputable.vegans_21-04-2023_1104.png"

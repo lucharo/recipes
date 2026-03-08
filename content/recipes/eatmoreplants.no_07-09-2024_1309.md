@@ -2,6 +2,7 @@
 title: "There are moments where you need to eat an entire sweet potato, and this is how you get it done 🍠 Still making these after seeing them at @itsvegansis a year ago!🤤"
 date: 2024-09-07 13:00:19+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C_ndl1pIXdY"
 image: "img/eatmoreplants.no_07-09-2024_1309.png"

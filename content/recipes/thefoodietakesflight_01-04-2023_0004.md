@@ -2,6 +2,7 @@
 title: "Maple Hoisin Tempeh using @lightlifelifefoods original tempeh ✨ #lightlifepartner #ad"
 date: 2023-04-01 00:23:43+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CqeSeeppsnC"
 image: "img/thefoodietakesflight_01-04-2023_0004.png"

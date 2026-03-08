@@ -2,6 +2,7 @@
 title: "BEANS ALLA VODKA, just like penne alla vodka, but beans - creamy butter beans coated in a silky, spicy vodka sauce served with garlic-rubbed toast, a 20-minute dinner that feels like a hug in a bowl. Find the full recipe in the link in my bio"
 date: 2023-01-06 21:13:31+00:00
 author_handle: "carolinagelen"
+authors: ["carolinagelen"]
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CnFp3mSLe6k"
 image: "img/carolinagelen_06-01-2023_2113.png"

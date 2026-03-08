@@ -2,6 +2,7 @@
 title: "Time to step your smoothie game up, y’all! 💪🏻 Here are my 3 SECRETS TO ROCKIN’ SMOOTHIES!!!👅"
 date: 2018-12-04 01:17:21+00:00
 author_handle: "theguthealthmd"
+authors: ["theguthealthmd"]
 author_name: "Will Bulsiewicz MD MSCI | Gastroenterologist"
 post_url: "https://instagram.com/p/Bq8lUvuBYOr"
 image: "img/theguthealthmd_04-12-2018_0117.png"

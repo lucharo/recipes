@@ -2,6 +2,7 @@
 title: "Cozy & super satisfying recipes 🧡 — from noodle soups to one pot recipes and stir-fries!"
 date: 2025-09-30 15:15:18+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DPOyGiwCeUP"
 image: "img/thefoodietakesflight_30-09-2025_1515.png"

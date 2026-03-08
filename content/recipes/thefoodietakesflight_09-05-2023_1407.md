@@ -2,6 +2,7 @@
 title: "Teriyaki Eggplant & Mushroom Bowl 🍄🍆🍚"
 date: 2023-05-09 14:07:51+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CsBnB4DOTGM"
 image: "img/thefoodietakesflight_09-05-2023_1407.png"

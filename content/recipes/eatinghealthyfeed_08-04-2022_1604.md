@@ -2,6 +2,7 @@
 title: "Pasta Salad🥬 The dressing and feta cheese makes this salad!! I will be making this every week from now on🤤 by @eatmoreplants.no"
 date: 2022-04-08 16:15:22+00:00
 author_handle: "eatinghealthyfeed"
+authors: ["eatinghealthyfeed"]
 author_name: "Eating Healthy"
 post_url: "https://instagram.com/p/CcGK4ORDqsZ"
 image: "img/eatinghealthyfeed_08-04-2022_1604.png"

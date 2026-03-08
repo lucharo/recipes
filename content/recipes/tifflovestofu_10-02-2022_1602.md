@@ -2,6 +2,7 @@
 title: "Vietnamese-inspired Sate Sauce (aka Lemongrass chili oil) 🌶"
 date: 2022-02-10 16:34:28+00:00
 author_handle: "tifflovestofu"
+authors: ["tifflovestofu"]
 author_name: "Tiffany Bach"
 post_url: "https://instagram.com/p/CZzbr9iJgfg"
 image: "img/tifflovestofu_10-02-2022_1602.png"

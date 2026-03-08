@@ -2,6 +2,7 @@
 title: "🌮TACO “MEAT”"
 date: 2021-11-16 14:38:53+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CWVyIYElKCx"
 image: "img/veganfeedgram_16-11-2021_1411.png"

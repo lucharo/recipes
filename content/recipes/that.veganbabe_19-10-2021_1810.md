@@ -2,6 +2,7 @@
 title: "🙌😍 How to Make CRISPY TOFU!!!"
 date: 2021-10-19 18:15:31+00:00
 author_handle: "that.veganbabe"
+authors: ["that.veganbabe"]
 author_name: "Stephanie Manzinali"
 post_url: "https://instagram.com/p/CVODo7VMMY8"
 image: "img/that.veganbabe_19-10-2021_1810.png"

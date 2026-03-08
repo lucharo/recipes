@@ -2,6 +2,7 @@
 title: "Quarter of a century today ✌🏼🖐🏼"
 date: 2022-12-23 15:27:00+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Cmg_J4JhUgw"
 image: "img/thefoodietakesflight_23-12-2022_1512.png"

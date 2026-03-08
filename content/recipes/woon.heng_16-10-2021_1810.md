@@ -2,6 +2,7 @@
 title: "Roti Pisang (Banana) with sweet caramelized banana on the inside with a crispy crunch on the outside is one of the sweet versions of roti canai. We get this often at Mamak stalls - my teenager hangs out place. It's like Starbucks here but with no air-conditioning.😄 Most roti canai is vegetarian but not vegan friendly. This roti pisang is! If you like banana, I hope you give this delicious roti a try too. Don't forget a cup of teh tarik (pulled tea) to go with it😋⁣"
 date: 2021-10-16 18:26:14+00:00
 author_handle: "woon.heng"
+authors: ["woon.heng"]
 author_name: "WoonHeng Chia"
 post_url: "https://instagram.com/p/CVGXCx2pbVN"
 image: "img/woon.heng_16-10-2021_1810.png"

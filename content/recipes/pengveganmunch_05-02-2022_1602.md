@@ -2,6 +2,7 @@
 title: "TOFU BIBIMBAP 🇰🇷🥣 a Korean rice bowl full of flavour, protein + veggies 🤩 WRITTEN RECIPE BELOW 👇🏾"
 date: 2022-02-05 16:02:31+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CZmf9gKKopg"
 image: "img/pengveganmunch_05-02-2022_1602.png"

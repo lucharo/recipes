@@ -2,6 +2,7 @@
 title: "✔️ SAVE this Post to make later"
 date: 2021-10-25 14:00:21+00:00
 author_handle: "the.vegan.inspiration"
+authors: ["the.vegan.inspiration"]
 author_name: "The Vegan Inspiration"
 post_url: "https://instagram.com/p/CVdESB_BkD2"
 image: "img/the.vegan.inspiration_25-10-2021_1410.png"

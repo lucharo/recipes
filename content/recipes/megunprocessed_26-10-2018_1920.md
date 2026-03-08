@@ -2,6 +2,7 @@
 title: "Sweet Potato Brownies 😍"
 date: 2018-10-26 19:20:11+00:00
 author_handle: "megunprocessed"
+authors: ["megunprocessed"]
 author_name: "Megan Evans | recipes 🌱 low-toxic living & holistic mom life"
 post_url: "https://instagram.com/p/BpaGUFxFj1u"
 image: "img/megunprocessed_26-10-2018_1920.png"

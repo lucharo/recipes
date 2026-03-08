@@ -2,6 +2,7 @@
 title: "🍌No-waste Banana Bread by @maxlamanna"
 date: 2021-10-27 09:56:54+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CVhx_hQJDFI"
 image: "img/veganfeedgram_27-10-2021_0910.png"

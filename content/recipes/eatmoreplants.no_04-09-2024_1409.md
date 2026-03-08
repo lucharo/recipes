@@ -2,6 +2,7 @@
 title: "Ad. I’ve been using the @veri method to educate myself on why stabilizing my blood glucose levels can be a powerful tool to take control of my health. Glucose levels rise and fall throughout the day, and it’s perfectly normal. It’s a sign that your metabolism is working!"
 date: 2024-09-04 14:57:12+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C_f9I_zoIKW"
 image: "img/eatmoreplants.no_04-09-2024_1409.png"

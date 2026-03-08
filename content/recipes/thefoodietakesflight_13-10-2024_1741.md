@@ -2,6 +2,7 @@
 title: "Possibly one of my favorite tofu dishes: Mapo Tofu!"
 date: 2024-10-13 17:41:10+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DBEq4G9Si8D"
 image: "img/thefoodietakesflight_13-10-2024_1741.png"

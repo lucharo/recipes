@@ -2,6 +2,7 @@
 title: "Twice-Fried Crispy Maitake Mushrooms 🍄"
 date: 2025-08-03 14:23:47+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DM5VGsfypbT"
 image: "img/thefoodietakesflight_03-08-2025_1423.png"

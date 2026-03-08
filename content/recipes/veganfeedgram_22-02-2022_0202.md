@@ -2,6 +2,7 @@
 title: "Sweet Potatoes are the best! Don’t you agree? They’re crispy on the outside yet soft on the inside! Do you wanna try this?"
 date: 2022-02-22 02:19:00+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CaQzYdclo7H"
 image: "img/veganfeedgram_22-02-2022_0202.png"

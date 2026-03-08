@@ -2,6 +2,7 @@
 title: "Filipino Mushroom Tocino with tofu scramble and sinangag (fried garlic rice) 🫶🏼"
 date: 2022-05-15 13:50:39+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CdlLj2JpgMX"
 image: "img/thefoodietakesflight_15-05-2022_1305.png"

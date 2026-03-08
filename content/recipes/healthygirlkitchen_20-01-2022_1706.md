@@ -2,6 +2,7 @@
 title: "add this vegan lasagna to this weekend’s dinner menu ♥️✨follow @healthygirlkitchen for more vegan recipes!"
 date: 2022-01-20 17:06:52+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/CY9ZvlSBQNS"
 image: "img/healthygirlkitchen_20-01-2022_1706.png"

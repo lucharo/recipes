@@ -2,6 +2,7 @@
 title: "bookmark this vegan ONE-POT CREAMY MUSHROOM RICE 🍚✨follow @healthygirlkitchen for more healthy recipes!"
 date: 2022-04-11 22:29:19+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/CcOkDyrpHkD"
 image: "img/healthygirlkitchen_11-04-2022_2229.png"

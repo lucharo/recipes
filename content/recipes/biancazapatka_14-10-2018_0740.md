@@ -2,6 +2,7 @@
 title: "🎃🍰 A NEW RECIPE for this Vegan Pumpkin Cake with Cheesecake Swirl is on my Blog! 😍"
 date: 2018-10-14 07:40:06+00:00
 author_handle: "biancazapatka"
+authors: ["biancazapatka"]
 author_name: "Bianca Zapatka"
 post_url: "https://instagram.com/p/Bo58z-Kgl7O"
 image: "img/biancazapatka_14-10-2018_0740.png"

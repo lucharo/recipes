@@ -2,6 +2,7 @@
 title: "Pistachio Pesto Pasta by @sovegan! 😋"
 date: 2021-10-25 09:50:04+00:00
 author_handle: "vegancommunity"
+authors: ["vegancommunity"]
 author_name: "Vegan Community"
 post_url: "https://instagram.com/p/CVcnnBgKVFo"
 image: "img/vegancommunity_25-10-2021_0950.png"

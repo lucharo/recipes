@@ -2,6 +2,7 @@
 title: "If you live in Charleston or Charlotte then you may know of or have tried out my collaboration with @eatatverde on Buddha’s Belly Bowl."
 date: 2019-02-09 17:16:43+00:00
 author_handle: "theguthealthmd"
+authors: ["theguthealthmd"]
 author_name: "Will Bulsiewicz MD MSCI | Gastroenterologist"
 post_url: "https://instagram.com/p/Btq0mZThx40"
 image: "img/theguthealthmd_09-02-2019_1716.png"

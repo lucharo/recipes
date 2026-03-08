@@ -2,6 +2,7 @@
 title: "I got lost in the sauce with this whole braised cauliflower with tarragon mustard labneh."
 date: 2022-11-15 16:47:48+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/Ck_R5tSJDao"
 image: "img/pierceabernathy_15-11-2022_1647.png"

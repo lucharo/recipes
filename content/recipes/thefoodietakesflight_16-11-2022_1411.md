@@ -2,6 +2,7 @@
 title: "Vegan Tom Yum Soup 🥣"
 date: 2022-11-16 14:14:36+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ClBlX4OJNek"
 image: "img/thefoodietakesflight_16-11-2022_1411.png"

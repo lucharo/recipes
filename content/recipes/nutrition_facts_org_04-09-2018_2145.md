@@ -2,6 +2,7 @@
 title: "Here's a tasty way to check off some marks on the Daily Dozen!"
 date: 2018-09-04 21:45:16+00:00
 author_handle: "nutrition_facts_org"
+authors: ["nutrition_facts_org"]
 author_name: "NutritionFacts.org"
 post_url: "https://instagram.com/p/BnUdvLpnGUg"
 image: "img/nutrition_facts_org_04-09-2018_2145.png"

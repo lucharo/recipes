@@ -2,6 +2,7 @@
 title: "Spicy Eggplant & Miso Tahini Sauce 👌🏻❤️ I topped it with a bunch of herbs & it was delicious By @foodmymuse"
 date: 2022-03-08 16:04:35+00:00
 author_handle: "veganrecipesideas"
+authors: ["veganrecipesideas"]
 author_name: "Vegan Recipes"
 post_url: "https://instagram.com/p/Ca2UkprJjRT"
 image: "img/veganrecipesideas_08-03-2022_1603.png"

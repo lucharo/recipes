@@ -2,6 +2,7 @@
 title: "Miso Balls 味噌玉 (Miso-dama) ⁣"
 date: 2023-01-25 15:57:45+00:00
 author_handle: "okonomikitchen"
+authors: ["okonomikitchen"]
 author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/Cn2A6B9D9pu"
 image: "img/okonomikitchen_25-01-2023_1501.png"

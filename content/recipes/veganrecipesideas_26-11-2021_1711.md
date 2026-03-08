@@ -2,6 +2,7 @@
 title: "VEGAN STEAK 🌱 by @fitgreenmind Yes, it’s vegan! 😜"
 date: 2021-11-26 17:14:20+00:00
 author_handle: "veganrecipesideas"
+authors: ["veganrecipesideas"]
 author_name: "Vegan Recipes"
 post_url: "https://instagram.com/p/CWvz04SBaG4"
 image: "img/veganrecipesideas_26-11-2021_1711.png"

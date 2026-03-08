@@ -2,6 +2,7 @@
 title: "Sunchoke and Porcini pasta. This one is special; an easy plant-based, umami-rich recipe. A vegan riff on cacio e pepe."
 date: 2022-05-05 14:27:24+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CdLf8jUpfUV"
 image: "img/pierceabernathy_05-05-2022_1405.png"

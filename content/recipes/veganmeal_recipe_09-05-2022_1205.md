@@ -2,6 +2,7 @@
 title: "A classic but a good one!"
 date: 2022-05-09 12:37:28+00:00
 author_handle: "veganmeal_recipe"
+authors: ["veganmeal_recipe"]
 author_name: ""
 post_url: "https://instagram.com/p/CdVmkuWJm4X"
 image: "img/veganmeal_recipe_09-05-2022_1205.png"

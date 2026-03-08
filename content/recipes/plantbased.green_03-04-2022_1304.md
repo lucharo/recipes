@@ -2,6 +2,7 @@
 title: "Vegan Korean Japchae Noodles 😋"
 date: 2022-04-03 13:44:38+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/Cb5BeLsKKpU"
 image: "img/plantbased.green_03-04-2022_1304.png"

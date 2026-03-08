@@ -2,6 +2,7 @@
 title: "Salt and Pepper Tofu"
 date: 2022-09-03 14:07:29+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CiDBULFJflZ"
 image: "img/thefoodietakesflight_03-09-2022_1407.png"

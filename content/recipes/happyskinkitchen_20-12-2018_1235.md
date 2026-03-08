@@ -2,6 +2,7 @@
 title: "Choccy & Orange Truffle because Christmas if you ask me it’s all about the chocolate 😀🍫These babies couldn’t be any simpler, only a handful of ingredients and 5 minutes to make them 👌🏻 -"
 date: 2018-12-20 12:35:41+00:00
 author_handle: "happyskinkitchen"
+authors: ["happyskinkitchen"]
 author_name: "Elisa Rossi - Happyskinkitchen"
 post_url: "https://instagram.com/p/Brm_5gRgdsT"
 image: "img/happyskinkitchen_20-12-2018_1235.png"

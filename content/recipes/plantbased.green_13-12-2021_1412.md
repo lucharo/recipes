@@ -2,6 +2,7 @@
 title: "Is there anything better than homemade Tomato Soup & Grilled Cheese?"
 date: 2021-12-13 14:34:17+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CXbS1jxK03q"
 image: "img/plantbased.green_13-12-2021_1412.png"

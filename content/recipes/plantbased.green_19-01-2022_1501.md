@@ -2,6 +2,7 @@
 title: "🔥 Chickpea Meatballs 🤤"
 date: 2022-01-19 15:09:58+00:00
 author_handle: "plantbased.green"
+authors: ["plantbased.green"]
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CY6ogOzo8w-"
 image: "img/plantbased.green_19-01-2022_1501.png"

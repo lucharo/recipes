@@ -2,6 +2,7 @@
 title: "ORANGE CARDAMOM OLIVE OIL CAKE - this upside down cake olive oil is the best dessert you’ll make all season, perfect for Hanukkah, the holidays, or the New Years Eve, it’s so delicious, festive, yet easy to make."
 date: 2022-12-11 21:49:31+00:00
 author_handle: "carolinagelen"
+authors: ["carolinagelen"]
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CmCxM0CrBaA"
 image: "img/carolinagelen_11-12-2022_2112.png"

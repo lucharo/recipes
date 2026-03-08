@@ -2,6 +2,7 @@
 title: "Save this VEGAN GLUTEN-FREE CARROT CAKE (1-bowl)🥕✨follow  @healthygirlkitchen for more recipes!"
 date: 2022-04-08 21:43:31+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/CcGvjpqBfTY"
 image: "img/healthygirlkitchen_08-04-2022_2143.png"

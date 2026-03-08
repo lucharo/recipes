@@ -2,6 +2,7 @@
 title: "CHARRED CORN PASTA 🌽 the combination you never knew you needed 🤝"
 date: 2022-11-18 17:05:43+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/ClHCFf8qk1S"
 image: "img/pengveganmunch_18-11-2022_1711.png"

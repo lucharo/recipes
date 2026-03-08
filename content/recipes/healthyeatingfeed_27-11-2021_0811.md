@@ -2,6 +2,7 @@
 title: "Roast Carrot Soup🥕 by @healthyfitbella_"
 date: 2021-11-27 08:56:33+00:00
 author_handle: "healthyeatingfeed"
+authors: ["healthyeatingfeed"]
 author_name: "Healthy Eating"
 post_url: "https://instagram.com/p/CWxfslthaOK"
 image: "img/healthyeatingfeed_27-11-2021_0811.png"

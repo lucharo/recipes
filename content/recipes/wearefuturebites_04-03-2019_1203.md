@@ -2,6 +2,7 @@
 title: "Check out these delicious chocolate fudge cookies using TAHINI and Almond Flour...the perfect indulgent treat that’s made with healthy ingredients 😋 from @nadiashealthykitchen 🌱⠀"
 date: 2019-03-04 12:00:24+00:00
 author_handle: "wearefuturebites"
+authors: ["wearefuturebites"]
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/Buler2xDbJr"
 image: "img/wearefuturebites_04-03-2019_1203.png"

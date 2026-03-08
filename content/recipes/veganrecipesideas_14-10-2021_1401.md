@@ -2,6 +2,7 @@
 title: "TERIYAKI MUSHROOM UDON NOODLE STIR-FRY 🍜 😍 by @run2food Save this saucy & delicious noodle dish onto your to-do list! Seriously one of the yummiest dishes ever 😋⁣"
 date: 2021-10-14 14:01:24+00:00
 author_handle: "veganrecipesideas"
+authors: ["veganrecipesideas"]
 author_name: "Vegan Recipes"
 post_url: "https://instagram.com/p/CVAvrtjpcuM"
 image: "img/veganrecipesideas_14-10-2021_1401.png"

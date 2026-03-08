@@ -2,6 +2,7 @@
 title: "Take 5s are slept on"
 date: 2021-10-30 16:18:57+00:00
 author_handle: "wholesomehedonista"
+authors: ["wholesomehedonista"]
 author_name: "Emily Daniels"
 post_url: "https://instagram.com/p/CVqMBWoJTBQ"
 image: "img/wholesomehedonista_30-10-2021_1610.png"

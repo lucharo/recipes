@@ -2,6 +2,7 @@
 title: "TERIYAKI BITES 🥡 a sweet + sticky one still 👀"
 date: 2022-03-21 17:05:43+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CbX6Q4RKaB2"
 image: "img/pengveganmunch_21-03-2022_1703.png"

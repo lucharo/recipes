@@ -2,6 +2,7 @@
 title: "Save this one pan ANTIOXIDANT BERRY MUFFIN BAKED OATMEAL 🌰🫐🍓follow @healthygirlkitchen for more!!"
 date: 2025-10-21 23:23:48+00:00
 author_handle: "healthygirlkitchen"
+authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/DQFu9VuEftI"
 image: "img/healthygirlkitchen_21-10-2025_2323.png"

@@ -2,6 +2,7 @@
 title: "VEGAN ‘HONEY’ GARLIC WINGS 🍯🧄 delicious + no need for the bees or chickens to be involved 😊 WRITTEN RECIPE BELOW ⭐️"
 date: 2022-01-11 17:00:20+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CYmOxuchl5E"
 image: "img/pengveganmunch_11-01-2022_1701.png"

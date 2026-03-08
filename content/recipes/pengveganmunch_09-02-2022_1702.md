@@ -2,6 +2,7 @@
 title: "WONTON SOUP 🥟🥣 a delicious way to slurp up some dumplings 🤩 RECIPE BELOW ⬇️"
 date: 2022-02-09 17:03:44+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CZw53-RquFI"
 image: "img/pengveganmunch_09-02-2022_1702.png"

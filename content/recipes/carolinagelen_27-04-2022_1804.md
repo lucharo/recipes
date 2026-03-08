@@ -2,6 +2,7 @@
 title: "SALT BAKED POTATOES - the butteriest, creamiest potatoes you’ll ever try."
 date: 2022-04-27 18:20:53+00:00
 author_handle: "carolinagelen"
+authors: ["carolinagelen"]
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/Cc3ToNauzaF"
 image: "img/carolinagelen_27-04-2022_1804.png"

@@ -2,6 +2,7 @@
 title: "What could be better than tender, buttery, sweet goodness all wrapped up in a beautifully healthy cookie? Absolutely nothing! These Healthy Vegan Pecan Sandies are what cookie deliciousness is all about.  Absolutely irresistible and perfect for holiday gatherings, these delightful cookies are sure to be a hit.⁣"
 date: 2018-12-18 20:38:13+00:00
 author_handle: "monkeyandmekitchenadventures"
+authors: ["monkeyandmekitchenadventures"]
 author_name: "Ameera and Robin | Monkey & Me"
 post_url: "https://instagram.com/p/Brith7kB2fm"
 image: "img/monkeyandmekitchenadventures_18-12-2018_2038.png"

@@ -2,6 +2,7 @@
 title: "Flowers power."
 date: 2022-04-14 10:57:31+00:00
 author_handle: "brotundsauerteig"
+authors: ["brotundsauerteig"]
 author_name: "Raphaelle - Brot und Sauerteig"
 post_url: "https://instagram.com/p/CcVCpKoj87l"
 image: "img/brotundsauerteig_14-04-2022_1057.png"

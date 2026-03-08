@@ -2,6 +2,7 @@
 title: "These Garlic noodles turned out soo good!! Been trying to add some creaminess to my noodle dishes, without having to use peanut butter in every recipe. We did it!"
 date: 2022-05-06 11:36:47+00:00
 author_handle: "vegancarnival"
+authors: ["vegancarnival"]
 author_name: "🍅 Vegan Foodie 💚 Green Life"
 post_url: "https://instagram.com/p/CdNxKFlqqpM"
 image: "img/vegancarnival_06-05-2022_1105.png"

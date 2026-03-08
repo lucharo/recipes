@@ -2,6 +2,7 @@
 title: "ONIGIRAZU aka sushi sandwich 😮‍💨"
 date: 2022-05-02 15:36:19+00:00
 author_handle: "myriadrecipes"
+authors: ["myriadrecipes"]
 author_name: "Emily Roz"
 post_url: "https://instagram.com/p/CdD5Vn1voS4"
 image: "img/myriadrecipes_02-05-2022_1536.png"

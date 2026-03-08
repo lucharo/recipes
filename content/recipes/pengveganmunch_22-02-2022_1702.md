@@ -2,6 +2,7 @@
 title: "VEGAN CARBONARA 🌱🍝 a plant based take in an Italian classic 🇮🇹 RECIPE BELOW 👇🏾"
 date: 2022-02-22 17:04:27+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CaSYVejqjOT"
 image: "img/pengveganmunch_22-02-2022_1702.png"

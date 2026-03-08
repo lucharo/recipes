@@ -2,6 +2,7 @@
 title: "This harvest was a year and a half in the making. 🥹"
 date: 2022-11-15 14:12:17+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Ck_AYjeJOpa"
 image: "img/thefoodietakesflight_15-11-2022_1412.png"

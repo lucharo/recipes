@@ -2,6 +2,7 @@
 title: "Warming curry Bowl💛"
 date: 2024-10-13 13:55:13+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/DBEQxIwo_BF"
 image: "img/eatmoreplants.no_13-10-2024_1355.png"

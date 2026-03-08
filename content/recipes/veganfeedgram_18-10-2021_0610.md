@@ -2,6 +2,7 @@
 title: "CHIMICHURRI SMASHED POTATOES 🇦🇷 by @sovegan Golden, fluffy and crispy new potatoes, topped with a tangy, slightly spicy parsley dressing from Argentina called chi-chi-chimichurri. Divine!"
 date: 2021-10-18 06:25:53+00:00
 author_handle: "veganfeedgram"
+authors: ["veganfeedgram"]
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CVKOr2rJaKV"
 image: "img/veganfeedgram_18-10-2021_0610.png"

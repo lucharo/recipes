@@ -2,6 +2,7 @@
 title: "For me this is memory lane, when I use to work in a coffee shop. Chef @aaronmcneice1 use to whip this bańh mí with the most amazing mushroom pâté and a flavourful mushroom with it. My brother @pengveganmunch has smashed content over the pass year and couldn’t be happier to finally do a collab with him, let us know if you make it and see your creations!"
 date: 2022-07-08 16:07:56+00:00
 author_handle: "johnnymorilloo"
+authors: ["johnnymorilloo"]
 author_name: "Johnny Morillo"
 post_url: "https://instagram.com/p/CfweF-PK5w4"
 image: "img/johnnymorilloo_08-07-2022_1607.png"

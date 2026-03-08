@@ -2,6 +2,7 @@
 title: "No-Bake Choc Raspberry Tarts 🍫 by @chloeevegan"
 date: 2022-05-05 01:04:50+00:00
 author_handle: "veganrecipesideas"
+authors: ["veganrecipesideas"]
 author_name: "Vegan Recipes"
 post_url: "https://instagram.com/p/CdKEDJdAdCY"
 image: "img/veganrecipesideas_05-05-2022_0105.png"

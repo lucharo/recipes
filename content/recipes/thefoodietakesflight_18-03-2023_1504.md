@@ -2,6 +2,7 @@
 title: "This one’s for my fellow garlic and gochujang-lovers 🧄🌶️"
 date: 2023-03-18 15:04:22+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Cp70EXlJO5j"
 image: "img/thefoodietakesflight_18-03-2023_1504.png"

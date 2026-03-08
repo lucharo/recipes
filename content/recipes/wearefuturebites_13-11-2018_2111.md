@@ -2,6 +2,7 @@
 title: "Fancy an impressive dessert this weekend? These  tiramisu cups from @elavegan with gingerbread & brownies are the perfect plant-based twist on the Italian classic 😍🌱🇮🇹 ⠀"
 date: 2018-11-13 21:00:40+00:00
 author_handle: "wearefuturebites"
+authors: ["wearefuturebites"]
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/BqIoRryHXOt"
 image: "img/wearefuturebites_13-11-2018_2111.png"

@@ -2,6 +2,7 @@
 title: "Follow @carolinagelen for more recipes"
 date: 2023-05-25 19:05:04+00:00
 author_handle: "carolinagelen"
+authors: ["carolinagelen"]
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CsrVzg0tN7P"
 image: "img/carolinagelen_25-05-2023_1905.png"

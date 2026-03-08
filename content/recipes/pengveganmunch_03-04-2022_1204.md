@@ -2,6 +2,7 @@
 title: "CREAMY BEANY DIP 💦 it’s like hummus except it’s made with beans, you’ll love it 🥰"
 date: 2022-04-03 12:36:23+00:00
 author_handle: "pengveganmunch"
+authors: ["pengveganmunch"]
 author_name: "Jacob"
 post_url: "https://instagram.com/p/Cb45yG9KJkQ"
 image: "img/pengveganmunch_03-04-2022_1204.png"

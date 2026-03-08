@@ -2,6 +2,7 @@
 title: "3 Ingredients Vegan Dark Chocolate Truffles 😍"
 date: 2018-10-17 16:00:44+00:00
 author_handle: "everyday.vegan.food"
+authors: ["everyday.vegan.food"]
 author_name: "Everyday Vegan Food"
 post_url: "https://instagram.com/p/BpCkfXygyAa"
 image: "img/everyday.vegan.food_17-10-2018_1600.png"

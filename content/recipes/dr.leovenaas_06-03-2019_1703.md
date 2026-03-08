@@ -2,6 +2,7 @@
 title: "You guys asked for it so here is one of the simplest, healthiest yet most delicious dishes I know how to make:"
 date: 2019-03-06 17:57:21+00:00
 author_handle: "dr.leovenaas"
+authors: ["dr.leovenaas"]
 author_name: "Dr. Leo"
 post_url: "https://instagram.com/p/BurRH6snV0s"
 image: "img/dr.leovenaas_06-03-2019_1703.png"

@@ -2,6 +2,7 @@
 title: "SNICKERS PROTEIN BARS 🍫🥜"
 date: 2022-03-03 17:11:28+00:00
 author_handle: "callascleaneats"
+authors: ["callascleaneats"]
 author_name: "Calla Ramont"
 post_url: "https://instagram.com/p/Capkh76JSem"
 image: "img/callascleaneats_03-03-2022_1703.png"

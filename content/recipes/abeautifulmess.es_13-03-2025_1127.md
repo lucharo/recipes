@@ -2,6 +2,7 @@
 title: "Tu Masa madre desde cero en casa 🥖✨"
 date: 2025-03-13 11:27:10+00:00
 author_handle: "abeautifulmess.es"
+authors: ["abeautifulmess.es"]
 author_name: "Victoria Smith"
 post_url: "https://instagram.com/p/DHIzKs7t8rz"
 image: "img/abeautifulmess.es_13-03-2025_1127.png"

@@ -2,6 +2,7 @@
 title: "Greens are everywhere at the market and I’ve been buying dandelions non-stop. Slightly bitter, a bit earthy and packed full of nutrients I think they lend themselves perfectly to a simple pasta sauce. Feel free to use spinach, chard, mustard, kale, or any other greens you can get your hands on."
 date: 2023-05-31 16:53:24+00:00
 author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/Cs6jcweO2z1"
 image: "img/pierceabernathy_31-05-2023_1653.png"

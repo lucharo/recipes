@@ -2,6 +2,7 @@
 title: "Start 2025 with chef-crafted meals designed for your health and lifestyle 🎯🍽"
 date: 2024-12-31 16:42:44+00:00
 author_handle: "simmer.eats"
+authors: ["simmer.eats"]
 author_name: "Simmer Eats 🍲🧡"
 post_url: "https://instagram.com/p/DEP_YlqMLsH"
 image: "img/simmer.eats_31-12-2024_1642.png"

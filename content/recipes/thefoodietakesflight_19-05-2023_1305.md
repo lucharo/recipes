@@ -2,6 +2,7 @@
 title: "Garlic Pepper Tofu! 🥢"
 date: 2023-05-19 13:57:38+00:00
 author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CsbVuH9OtHR"
 image: "img/thefoodietakesflight_19-05-2023_1305.png"

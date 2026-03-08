@@ -2,6 +2,7 @@
 title: "VEGGIE TOFU SOUP 青菜豆腐湯. 🥬 Complex dishes can entice, but I often find myself moved by some of the simplest. This one is a family favorite when we want something light, healthy, and warm to accompany the meal. A humble soup like this has a nourishing and heart-warming quality that you just can’t quite get tired of."
 date: 2022-02-23 14:54:32+00:00
 author_handle: "chez.jorge"
+authors: ["chez.jorge"]
 author_name: "George Lee"
 post_url: "https://instagram.com/p/CaUtgOLj2fT"
 image: "img/chez.jorge_23-02-2022_1402.png"

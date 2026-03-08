@@ -2,6 +2,7 @@
 title: "Take 5s are slept on"
 date: 2021-10-30 16:18:57+00:00
 author_handle: "emilygracecote"
+authors: ["emilygracecote"]
 author_name: "Emily Grace Coté"
 post_url: "https://instagram.com/p/CVqMBWoJTBQ"
 image: "img/emilygracecote_30-10-2021_1618.png"

@@ -2,6 +2,7 @@
 title: "The classic never fails 🤝 Just a regular choccy spread filled baked oats 😌"
 date: 2022-03-02 17:37:29+00:00
 author_handle: "minimin.eats"
+authors: ["minimin.eats"]
 author_name: "Min 🍩"
 post_url: "https://instagram.com/p/CanC0_HKKoh"
 image: "img/minimin.eats_02-03-2022_1737.png"

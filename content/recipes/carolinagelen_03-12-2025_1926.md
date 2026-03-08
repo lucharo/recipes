@@ -2,6 +2,7 @@
 title: "PICKLE LATKES — you know ‘em, you love ‘em and they’re now available on @nytcooking at this free link:"
 date: 2025-12-03 19:26:33+00:00
 author_handle: "carolinagelen"
+authors: ["carolinagelen"]
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/DR0B05xj30K"
 image: "img/carolinagelen_03-12-2025_1926.png"

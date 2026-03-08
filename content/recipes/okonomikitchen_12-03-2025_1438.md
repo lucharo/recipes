@@ -2,6 +2,7 @@
 title: "Sometimes you need to eat a head of cabbage, this is one of my favourite ways to do it: yamitsuki cabbage !! 🥬"
 date: 2025-03-12 14:38:28+00:00
 author_handle: "okonomikitchen"
+authors: ["okonomikitchen"]
 author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DHGlVzwAvtM"
 image: "img/okonomikitchen_12-03-2025_1438.png"

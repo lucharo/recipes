@@ -2,6 +2,7 @@
 title: "Noodle Salad🥗 With a peanut butter, garlic and ginger dressing. It’s a good combo!"
 date: 2022-02-28 16:02:45+00:00
 author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/CahuD23KX6c"
 image: "img/eatmoreplants.no_28-02-2022_1602.png"
