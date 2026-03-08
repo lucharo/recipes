@@ -5,7 +5,7 @@ author_handle: "wellmadebykiley"
 author_name: "Kiley O'Donnell"
 post_url: "https://instagram.com/p/Ca-_FSPjkrd"
 image: "img/wellmadebykiley_12-03-2022_0003.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Foolproof plans for a very good Friday night. There are no words. Just make it this weekend, trust me.   

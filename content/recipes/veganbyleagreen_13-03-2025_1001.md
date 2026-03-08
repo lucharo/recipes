@@ -5,7 +5,7 @@ author_handle: "veganbyleagreen"
 author_name: "Zimmer ♡ Vegan by Lea Green ♡"
 post_url: "https://instagram.com/p/DHIqR_BoPw1"
 image: "img/veganbyleagreen_13-03-2025_1001.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 .  

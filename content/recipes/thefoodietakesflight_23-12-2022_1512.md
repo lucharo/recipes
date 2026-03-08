@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Cmg_J4JhUgw"
 image: "img/thefoodietakesflight_23-12-2022_1512.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Also a happy holidays to all of you! Hope you get to spend some quality time with your friends and loved ones while being surrounded by lots of amazing food. ✨🍝  

@@ -5,7 +5,7 @@ author_handle: "plantbased.green"
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CZNAODtow2D"
 image: "img/plantbased.green_26-01-2022_1801.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 I could eat this every day!  

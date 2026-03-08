@@ -5,7 +5,7 @@ author_handle: "brekkyattiffanys"
 author_name: "tiff | living in san francisco"
 post_url: "https://instagram.com/p/CaYLT7eD3A3"
 image: "img/brekkyattiffanys_24-02-2022_2302.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 #silkentofu #koreantofu #tofurecipes #tofulover #koreanfood #koreancooking #homecooking #homecook #cookingreels #reelsvideo

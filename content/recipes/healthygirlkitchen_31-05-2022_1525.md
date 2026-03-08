@@ -5,7 +5,7 @@ author_handle: "healthygirlkitchen"
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/CeOig9VjwHM"
 image: "img/healthygirlkitchen_31-05-2022_1525.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 #aldenspartner  

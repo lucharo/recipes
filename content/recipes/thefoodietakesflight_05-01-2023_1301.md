@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CnCRECKB5fX"
 image: "img/thefoodietakesflight_05-01-2023_1301.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 👉🏼full recipe for the popcorn 🍄 is on www.thefoodietakesflight.com - you can also click the link in my bio @thefoodietakesflight for the direct recipe!  

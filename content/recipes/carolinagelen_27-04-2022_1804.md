@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/Cc3ToNauzaF"
 image: "img/carolinagelen_27-04-2022_1804.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 You know how baked potatoes can turn really dry? All the moisture’s gone and you’re left with this crumbly, dry, potato fluff? These salt baked potatoes are the opposite of that!  

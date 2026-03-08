@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CVesltTptpK"
 image: "img/veganfeedgram_26-10-2021_0510.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 This baked oatmeal is made with the same ingredients I usually put in my porridge but it really tastes like a brownie...😍  

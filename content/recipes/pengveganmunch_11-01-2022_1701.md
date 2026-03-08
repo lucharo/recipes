@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CYmOxuchl5E"
 image: "img/pengveganmunch_11-01-2022_1701.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 This one is tangy + delicious, thanks to the ‘honey’ maple/garlic infused glaze and there’s crispy chickeny vibes thanks to the oyster mushrooms 🤩   

@@ -5,7 +5,7 @@ author_handle: "nourishing.niki"
 author_name: "Nikita Messina - Easy & Healthy Recipes"
 post_url: "https://instagram.com/p/CaSiCl8qW0F"
 image: "img/nourishing.niki_22-02-2022_1827.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 This is a fun one to make after a workout or just for a lil dessert 😬  

@@ -5,7 +5,7 @@ author_handle: "nutrition_facts_org"
 author_name: "NutritionFacts.org"
 post_url: "https://instagram.com/p/BnUdvLpnGUg"
 image: "img/nutrition_facts_org_04-09-2018_2145.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Caesar’s lunch plate with whole grains, beans, veggies, nuts, and a delicious dressing.   

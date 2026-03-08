@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CmRres6MCqI"
 image: "img/pierceabernathy_17-12-2022_1647.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 #cookingtips #garlic #cookinghacks

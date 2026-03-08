@@ -5,7 +5,7 @@ author_handle: "thefrenchiegardener"
 author_name: "Patrick Vernuccio"
 post_url: "https://instagram.com/p/CoaKWxqK2Lz"
 image: "img/thefrenchiegardener_08-02-2023_1652.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 You would be surprised how easy it is to grow your own organic ginger in pots & containers! It requires patience but almost no maintenance.   

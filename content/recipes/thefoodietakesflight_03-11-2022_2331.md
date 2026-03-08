@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CkhG4l5uZDg"
 image: "img/thefoodietakesflight_03-11-2022_2331.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 www.thefoodietakesflight.com/vegan-potato-salad  

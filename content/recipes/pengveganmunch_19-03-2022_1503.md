@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CbSiNdkqqoh"
 image: "img/pengveganmunch_19-03-2022_1503.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Inspiration from a creation by @sophiewyburd over at @mobkitchen / @veganmob 🫂  

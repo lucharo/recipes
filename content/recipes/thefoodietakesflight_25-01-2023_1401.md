@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Cn11fLvpjql"
 image: "img/thefoodietakesflight_25-01-2023_1401.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Easy Spicy Miso Noodles recipe on www.thefoodietakesflight.com - direct link is in my bio @thefoodietakesflight! 🌶  

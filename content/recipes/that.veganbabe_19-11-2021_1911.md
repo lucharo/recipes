@@ -5,7 +5,7 @@ author_handle: "that.veganbabe"
 author_name: "Stephanie Manzinali"
 post_url: "https://instagram.com/p/CWeAeQWl9h2"
 image: "img/that.veganbabe_19-11-2021_1911.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 👌The perfect healthier dessert option with only 8 simple ingredients! The dough can also be eaten raw! 🤤   

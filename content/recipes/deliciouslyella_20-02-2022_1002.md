@@ -5,7 +5,7 @@ author_handle: "deliciouslyella"
 author_name: "Deliciously Ella"
 post_url: "https://instagram.com/p/CaMguvhjITt"
 image: "img/deliciouslyella_20-02-2022_1002.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 - 200g orzo  

@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/Cq1QgWyPGOz"
 image: "img/carolinagelen_09-04-2023_2204.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 FONDANT POTATOES or MELTING POTATOES - tender, custardy potatoes seared in butter and cooked in stock, they’re so flavorful and jammy, they melt in your mouth   

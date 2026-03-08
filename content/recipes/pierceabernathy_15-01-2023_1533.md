@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CncOG3dI0Bc"
 image: "img/pierceabernathy_15-01-2023_1533.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 For the pasta-  

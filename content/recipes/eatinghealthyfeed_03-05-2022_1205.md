@@ -5,7 +5,7 @@ author_handle: "eatinghealthyfeed"
 author_name: "Eating Healthy"
 post_url: "https://instagram.com/p/CdGMFYkjx9e"
 image: "img/eatinghealthyfeed_03-05-2022_1205.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 .  

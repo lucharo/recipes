@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CdLf8jUpfUV"
 image: "img/pierceabernathy_05-05-2022_1427.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Sunchokes are the tuberous root of certain types of sunflowers. They are buttery, nutty, sweet and absolutely delicious.  

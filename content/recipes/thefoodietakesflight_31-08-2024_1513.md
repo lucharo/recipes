@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/C_VsDRvJ6x4"
 image: "img/thefoodietakesflight_31-08-2024_1513.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Mixed mushrooms cooked down with a mix of fresh herbs and garlic before being finished off with a miso-chili sauce and fresh lemon juice!   

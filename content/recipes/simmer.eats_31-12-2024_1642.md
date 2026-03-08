@@ -5,7 +5,7 @@ author_handle: "simmer.eats"
 author_name: "Simmer Eats 🍲🧡"
 post_url: "https://instagram.com/p/DEP_YlqMLsH"
 image: "img/simmer.eats_31-12-2024_1642.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 💰 Get 25% Off Your First 4 Orders!  

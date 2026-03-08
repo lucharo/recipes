@@ -5,7 +5,7 @@ author_handle: "theplantbasedmeal"
 author_name: "Plant Based Meal"
 post_url: "https://instagram.com/p/CcEmG2EMcn8"
 image: "img/theplantbasedmeal_08-04-2022_0104.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 The most saved recipe I have ever posted- For a reason! It's SO good 💚have you tried it yet??   

@@ -5,7 +5,7 @@ author_handle: "vegandemocracy"
 author_name: "Healthy | Plant Based | Recipes"
 post_url: "https://instagram.com/p/CrDxrc2qhDp"
 image: "img/noimage.jpg"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 The complete plant based bundle feature over 300 delicious vegan recipes + a 28 day vegan meal plan! LlNK lN Bl0 ⬆️  

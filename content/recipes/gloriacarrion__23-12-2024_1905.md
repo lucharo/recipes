@@ -5,7 +5,7 @@ author_handle: "gloriacarrion_"
 author_name: ""
 post_url: "https://instagram.com/p/DD7pRv4IexK"
 image: "img/gloriacarrion__23-12-2024_1905.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 .  

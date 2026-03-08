@@ -5,7 +5,7 @@ author_handle: "plantbased.green"
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CcLCPirKk3k"
 image: "img/plantbased.green_10-04-2022_1304.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 📸: Recipe by @sepps_eats  

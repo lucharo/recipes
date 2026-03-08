@@ -5,7 +5,7 @@ author_handle: "eatinghealthyfeed"
 author_name: "Eating Healthy"
 post_url: "https://instagram.com/p/CcGK4ORDqsZ"
 image: "img/eatinghealthyfeed_08-04-2022_1604.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Ingredients (4 servings)  

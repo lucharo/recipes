@@ -5,7 +5,7 @@ author_handle: "that.veganbabe"
 author_name: "Stephanie De Angelis"
 post_url: "https://instagram.com/p/CVODo7VMMY8"
 image: "img/that.veganbabe_19-10-2021_1815.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 1. Use Extra Firm Tofu  

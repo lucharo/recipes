@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CUHzmFAJSpX"
 image: "img/noimage.jpg"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 ...  

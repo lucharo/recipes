@@ -5,7 +5,7 @@ author_handle: "poorlondonvegan"
 author_name: "meg"
 post_url: "https://instagram.com/p/CYZVnW5JCmO"
 image: "img/poorlondonvegan_06-01-2022_1601.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 ⠀  

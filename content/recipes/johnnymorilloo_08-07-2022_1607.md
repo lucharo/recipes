@@ -5,7 +5,7 @@ author_handle: "johnnymorilloo"
 author_name: "Johnny Morillo"
 post_url: "https://instagram.com/p/CfweF-PK5w4"
 image: "img/johnnymorilloo_08-07-2022_1607.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Tofu Bańh mí  

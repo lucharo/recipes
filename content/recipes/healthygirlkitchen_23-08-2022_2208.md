@@ -5,7 +5,7 @@ author_handle: "healthygirlkitchen"
 author_name: "Danielle Brown | vegan recipes"
 post_url: "https://instagram.com/p/ChnmBJtJDrq"
 image: "img/healthygirlkitchen_23-08-2022_2208.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 #GoRawPartner  

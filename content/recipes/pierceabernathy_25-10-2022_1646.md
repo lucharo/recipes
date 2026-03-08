@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CkJNXKYtMth"
 image: "img/pierceabernathy_25-10-2022_1646.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 These stuffed peppers are one of my favorite appetizers. So easy to riff on and a treat to eat.  

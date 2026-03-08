@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/Cbp0xZiqD7D"
 image: "img/pengveganmunch_28-03-2022_1603.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 👉🏾INGREDIENTS👈🏾   

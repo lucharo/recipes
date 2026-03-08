@@ -5,7 +5,7 @@ author_handle: "thefeedfeed.vegan"
 author_name: "FeedFeed | Vegan"
 post_url: "https://instagram.com/p/DIB2aSJRYxm"
 image: "img/thefeedfeed.vegan_04-04-2025_1500.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Comment ‘recipe’ to have the details sent to your DMs and keep tagging #feedfeed for a chance to be featured.   

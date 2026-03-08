@@ -5,7 +5,7 @@ author_handle: "smallpointseast"
 author_name: ": small points east | acupuncture"
 post_url: "https://instagram.com/p/CVVPoU6NwLR"
 image: "img/smallpointseast_22-10-2021_1305.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 .  

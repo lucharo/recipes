@@ -5,7 +5,7 @@ author_handle: "that.veganbabe"
 author_name: "Stephanie De Angelis"
 post_url: "https://instagram.com/p/CVbAmAAP2T4"
 image: "img/that.veganbabe_24-10-2021_1900.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 🙌These brownies are fudgey, filling & satisfying - and no you can’t taste the sweet potato at al! 🤯  

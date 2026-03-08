@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CVpbJPXKOX6"
 image: "img/veganfeedgram_30-10-2021_0910.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 This is a simple, quick & easy dish that I like to whip up during the week. What I like most about this dish is that the noodles, tofu and sauce always stays the same, but I can always add different veg depending on what I have in the fridge.  

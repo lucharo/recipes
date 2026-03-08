@@ -5,7 +5,7 @@ author_handle: "everyday.vegan.food"
 author_name: "Everyday Vegan Food"
 post_url: "https://instagram.com/p/BpCkfXygyAa"
 image: "img/everyday.vegan.food_17-10-2018_1600.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 .  

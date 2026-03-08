@@ -5,7 +5,7 @@ author_handle: "the_balanced_kitchen"
 author_name: "Joanne|Food|Photography"
 post_url: "https://instagram.com/p/BqaNXUznQNu"
 image: "img/the_balanced_kitchen_20-11-2018_1611.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 I love tahini.  I love chocolate. I love anything which sneaks a bit of extra goodness in 🤫 it’s hard to believe that a chocolate brownie could be so good for you as these are and still taste so deeelicious 😋  

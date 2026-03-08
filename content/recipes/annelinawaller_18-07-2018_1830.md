@@ -5,7 +5,7 @@ author_handle: "annelinawaller"
 author_name: "Annelina - Longevity Yogi"
 post_url: "https://instagram.com/p/BlYhT8Ngkzn"
 image: "img/annelinawaller_18-07-2018_1830.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 

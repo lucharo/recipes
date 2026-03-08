@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CqeWlcnpYKn"
 image: "img/carolinagelen_01-04-2023_0059.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 BRAZILIAN LEMONADE AKA SWISS LEMONADE - a creamy, refreshing Brazilian drink made with only 3 ingredients: limes, sweetened condensed milk and water, it’s so gooood  

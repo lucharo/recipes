@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CjYCIIGJkfM"
 image: "img/thefoodietakesflight_06-10-2022_1424.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Have you ever tried freezing tofu? I sliced blocks of tofu into 1” thick slabs (without pressing) before freezing these overnight.  

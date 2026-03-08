@@ -5,7 +5,7 @@ author_handle: "vegancommunity"
 author_name: "Vegan Community"
 post_url: "https://instagram.com/p/CVcnnBgKVFo"
 image: "img/vegancommunity_25-10-2021_0950.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Check out Ben & Roxy's amazing recipe below:  

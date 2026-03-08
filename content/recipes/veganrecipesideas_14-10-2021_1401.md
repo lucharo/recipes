@@ -5,7 +5,7 @@ author_handle: "veganrecipesideas"
 author_name: "Vegan Recipes"
 post_url: "https://instagram.com/p/CVAvrtjpcuM"
 image: "img/veganrecipesideas_14-10-2021_1401.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Follow us @veganrecipesideas for more vegan recipes 💚🌱  

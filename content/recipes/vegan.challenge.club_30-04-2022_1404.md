@@ -5,7 +5,7 @@ author_handle: "vegan.challenge.club"
 author_name: ""
 post_url: "https://instagram.com/p/Cc-pnYfJI9K"
 image: "img/vegan.challenge.club_30-04-2022_1404.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 🌱THE BIG VEGAN CRUNCH BOWL BY @plantyou  

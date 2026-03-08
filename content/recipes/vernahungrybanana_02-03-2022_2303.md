@@ -5,7 +5,7 @@ author_handle: "vernahungrybanana"
 author_name: "Verna | eating and cooking around the world"
 post_url: "https://instagram.com/p/CantDI4I372"
 image: "img/vernahungrybanana_02-03-2022_2303.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Really busy these days to cook longer meals so been living off quick and easy recipes like this. A classic and can’t ever go wrong hehe.  

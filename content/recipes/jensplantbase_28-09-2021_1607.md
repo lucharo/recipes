@@ -5,7 +5,7 @@ author_handle: "jensplantbase"
 author_name: "Jenna | Plant Based Food"
 post_url: "https://instagram.com/p/CUXxcUBKz7a"
 image: "img/jensplantbase_28-09-2021_1607.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Go checkout my reel for the recipe!  

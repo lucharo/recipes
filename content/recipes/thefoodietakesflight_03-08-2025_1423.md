@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DM5VGsfypbT"
 image: "img/thefoodietakesflight_03-08-2025_1423.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 The batter is made with a simple mix of flour, cornstarch, and baking powder that creates and light and crispy bite :)  

@@ -5,7 +5,7 @@ author_handle: "vegancarnival"
 author_name: "🍅 Vegan Foodie 💚 Green Life"
 post_url: "https://instagram.com/p/CdNxKFlqqpM"
 image: "img/vegancarnival_06-05-2022_1105.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Ingredients (3 servings)  

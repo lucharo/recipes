@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CpVbI2LMuqm"
 image: "img/pierceabernathy_03-03-2023_1718.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Ingredients:  

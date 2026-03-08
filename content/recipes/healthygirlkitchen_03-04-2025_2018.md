@@ -5,7 +5,7 @@ author_handle: "healthygirlkitchen"
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/DH_15rdpiDg"
 image: "img/healthygirlkitchen_03-04-2025_2018.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Get this salad chopper on Amazon! Love it!! Linked in my bio too for you guys.   

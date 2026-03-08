@@ -5,7 +5,7 @@ author_handle: "nutrition_facts_org"
 author_name: "NutritionFacts.org"
 post_url: "https://instagram.com/p/Bn9vTeUno2C"
 image: "img/nutrition_facts_org_20-09-2018_2227.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 http://bit.ly/SpicyAsianVegetableSoup (link in bio)  

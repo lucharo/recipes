@@ -5,7 +5,7 @@ author_handle: "healthyeatingfeed"
 author_name: "Healthy Eating"
 post_url: "https://instagram.com/p/CWxfslthaOK"
 image: "img/healthyeatingfeed_27-11-2021_0811.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 It’s a hug in a bowl basically🧡   

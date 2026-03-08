@@ -5,7 +5,7 @@ author_handle: "okonomikitchen"
 author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DHBgYjJg4j5"
 image: "img/okonomikitchen_10-03-2025_1517.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 I got this idea from our yakitori night when we made yasakmaki 😋   

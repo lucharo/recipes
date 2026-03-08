@@ -5,7 +5,7 @@ author_handle: "vegan.planvn"
 author_name: "Vegan Plan"
 post_url: "https://instagram.com/p/CdFMSAYpPD7"
 image: "img/vegan.planvn_03-05-2022_0305.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 LINK IN BIO 🔗 @vegan.planvn  

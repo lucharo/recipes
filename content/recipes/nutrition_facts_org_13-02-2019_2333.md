@@ -5,7 +5,7 @@ author_handle: "nutrition_facts_org"
 author_name: "NutritionFacts.org"
 post_url: "https://instagram.com/p/Bt1yy7XDYQn"
 image: "img/nutrition_facts_org_13-02-2019_2333.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 #DailyDozenChallenge #HowNotToDie #LifestyleMedicine #NutritionFactsOrg #HowNotToDieCookbook

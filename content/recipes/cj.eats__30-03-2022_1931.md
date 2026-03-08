@@ -5,7 +5,7 @@ author_handle: "cj.eats_"
 author_name: "Chris Joe"
 post_url: "https://instagram.com/p/CbvWOaylTSA"
 image: "img/cj.eats__30-03-2022_1931.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 The full written recipe with all my tips is up on the blog now - link in bio! Or at https://www.cjeatsrecipes.com/post/bok-choy-with-garlic-sauce  

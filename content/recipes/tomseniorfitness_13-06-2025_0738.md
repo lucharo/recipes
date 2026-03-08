@@ -5,7 +5,7 @@ author_handle: "tomseniorfitness"
 author_name: "Tom Senior"
 post_url: "https://instagram.com/p/DK1TKqeimw-"
 image: "img/tomseniorfitness_13-06-2025_0738.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 240g Chickpeas   

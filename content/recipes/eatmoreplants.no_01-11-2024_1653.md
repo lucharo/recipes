@@ -5,7 +5,7 @@ author_handle: "eatmoreplants.no"
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/DB1gm_2oVO2"
 image: "img/eatmoreplants.no_01-11-2024_1653.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Ingredients (4 servings) 1 small head cauliflower 1 cup all-purpose flour 1 cup almond milk 1 tsp garlic powder 0.5 tsp salt 1 cup breadcrumbs  

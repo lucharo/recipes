@@ -5,7 +5,7 @@ author_handle: "the.undisputable.vegans"
 author_name: "The Undisputable Vegans"
 post_url: "https://instagram.com/p/CrS9J-HguC8"
 image: "img/the.undisputable.vegans_21-04-2023_1104.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Easy. Fun. Nutritious  

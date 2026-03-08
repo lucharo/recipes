@@ -5,7 +5,7 @@ author_handle: "jensplantbase"
 author_name: "Jenna | Plant Based Food"
 post_url: "https://instagram.com/p/Cq04u1fqQDE"
 image: "img/jensplantbase_09-04-2023_1901.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Shout out to @jacobking for the fried enoki mushroom inspo ✨  

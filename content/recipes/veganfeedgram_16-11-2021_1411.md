@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CWVyIYElKCx"
 image: "img/veganfeedgram_16-11-2021_1411.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 🌮A dusty tin of lentils in the cupboard and an unloved broccoli stem are the perfect combo to have with my potato tortillas and mock the texture of meat. by @maxlamanna  

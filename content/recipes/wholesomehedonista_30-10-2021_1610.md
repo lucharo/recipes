@@ -5,7 +5,7 @@ author_handle: "wholesomehedonista"
 author_name: "Emily Daniels"
 post_url: "https://instagram.com/p/CVqMBWoJTBQ"
 image: "img/wholesomehedonista_30-10-2021_1610.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Soft Medjool Dates  

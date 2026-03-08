@@ -5,7 +5,7 @@ author_handle: "eatinghealthymag"
 author_name: "Healthy Eating Magazine"
 post_url: "https://instagram.com/p/CcEDVseDjh3"
 image: "img/eatinghealthymag_07-04-2022_2004.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 ingredients:   

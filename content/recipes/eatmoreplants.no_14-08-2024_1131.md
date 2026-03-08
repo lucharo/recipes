@@ -5,7 +5,7 @@ author_handle: "eatmoreplants.no"
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C-pg4rrquME"
 image: "img/eatmoreplants.no_14-08-2024_1131.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Shaken Cucumber salad  

@@ -5,7 +5,7 @@ author_handle: "vegancarnival"
 author_name: "🍅 Vegan Foodie 💚 Green Life"
 post_url: "https://instagram.com/p/CbwrV0dqkfX"
 image: "img/vegancarnival_31-03-2022_0756.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Recipe Google “addicted to dates biscoff cheesecake”  

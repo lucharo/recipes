@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CgzKdHHJVCo"
 image: "img/thefoodietakesflight_03-08-2022_1344.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 They also have sweetened chia & flax milks available on Amazon as well.  

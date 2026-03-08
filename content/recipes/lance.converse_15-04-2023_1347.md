@@ -5,7 +5,7 @@ author_handle: "lance.converse"
 author_name: "Nutrition & Health"
 post_url: "https://instagram.com/p/CrDxrc2qhDp"
 image: "img/lance.converse_15-04-2023_1347.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 The complete plant based bundle feature over 300 delicious vegan recipes + a 28 day vegan meal plan! LlNK lN Bl0 ⬆️  

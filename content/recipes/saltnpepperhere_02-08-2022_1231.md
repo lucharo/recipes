@@ -5,7 +5,7 @@ author_handle: "saltnpepperhere"
 author_name: "sonia wong"
 post_url: "https://instagram.com/p/Cgwc1Uoga22"
 image: "img/saltnpepperhere_02-08-2022_1231.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 It’s a blender batter where everything is simply blended until smooth, making it so fast and fool-proof. inspired by Hawai’i-style butter mochi, these things are ~addictive~   

@@ -5,7 +5,7 @@ author_handle: "tifflovestofu"
 author_name: "Tiffany Bach"
 post_url: "https://instagram.com/p/CZzbr9iJgfg"
 image: "img/tifflovestofu_10-02-2022_1602.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 You might be familiar with Lao Gan Ma but have you tried sate sauce? It’s a mix between a chili sauce and chili oil.    

@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CauoOofFvkV"
 image: "img/veganfeedgram_05-03-2022_1603.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Miso-Roasted Cabbage  

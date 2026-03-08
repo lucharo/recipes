@@ -5,7 +5,7 @@ author_handle: "bestfruitvideos"
 author_name: "Best Fruit Videos"
 post_url: "https://instagram.com/p/CVf9JMKKIIS"
 image: "img/bestfruitvideos_26-10-2021_1610.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Ingredients (makes 6 tarts)  

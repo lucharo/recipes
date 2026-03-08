@@ -5,7 +5,7 @@ author_handle: "plantbased.green"
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CVIaQ0wqg7Q"
 image: "img/plantbased.green_17-10-2021_1310.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 You can’t taste the chickpeas at all. You need these  

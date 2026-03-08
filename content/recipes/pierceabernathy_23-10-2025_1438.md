@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/DQJ8akPDcD7"
 image: "img/pierceabernathy_23-10-2025_1438.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 

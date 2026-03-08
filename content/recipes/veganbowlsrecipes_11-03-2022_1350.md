@@ -5,7 +5,7 @@ author_handle: "veganbowlsrecipes"
 author_name: "Vegan Bowls Recipes"
 post_url: "https://instagram.com/p/Ca9z_JgqVoH"
 image: "img/veganbowlsrecipes_11-03-2022_1350.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 THE RECIPE (for two):  

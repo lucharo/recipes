@@ -5,7 +5,7 @@ author_handle: "brekkyattiffanys"
 author_name: "tiffany yang"
 post_url: "https://instagram.com/p/Cbd7h_ZAQBl"
 image: "img/brekkyattiffanys_24-03-2022_0112.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 • 2-3 servings spaghetti noods  

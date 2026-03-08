@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CnHew2PBAws"
 image: "img/thefoodietakesflight_07-01-2023_1401.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 👉🏼Miso Udon Noodle Soup recipe’s linked in my bio @thefoodietakesflight or over on www.thefoodietakesflight.com!  

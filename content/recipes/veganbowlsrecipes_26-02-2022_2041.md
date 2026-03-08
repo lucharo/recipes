@@ -5,7 +5,7 @@ author_handle: "veganbowlsrecipes"
 author_name: "Vegan Bowls Recipes"
 post_url: "https://instagram.com/p/CadErBcqzDy"
 image: "img/veganbowlsrecipes_26-02-2022_2041.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Super simple, easy, minimal ingredients and it’s ONE POT which means less washing up!  

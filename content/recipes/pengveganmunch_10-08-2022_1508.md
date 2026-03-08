@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/ChFbng2KV64"
 image: "img/pengveganmunch_10-08-2022_1508.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 *for 2 servings*  

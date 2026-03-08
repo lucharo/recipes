@@ -5,7 +5,7 @@ author_handle: "vegan.tips.recipes"
 author_name: "Vegan.World"
 post_url: "https://instagram.com/p/CcHGX46gm5Y"
 image: "img/vegan.tips.recipes_09-04-2022_0004.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 The best fruit salad you’ll ever have 🍓🍊🍌🥝🫐🍇  

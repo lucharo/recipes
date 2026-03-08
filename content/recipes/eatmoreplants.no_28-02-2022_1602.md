@@ -5,7 +5,7 @@ author_handle: "eatmoreplants.no"
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/CahuD23KX6c"
 image: "img/eatmoreplants.no_28-02-2022_1602.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Ingredients (2-3 servings)  

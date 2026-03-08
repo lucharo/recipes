@@ -5,7 +5,7 @@ author_handle: "crowded_kitchen"
 author_name: "Lexi Harrison & Beth Sinclair"
 post_url: "https://instagram.com/p/CtZPutcgHSi"
 image: "img/crowded_kitchen_12-06-2023_1457.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Bookmark the RECIPE:  

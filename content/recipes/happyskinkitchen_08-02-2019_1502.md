@@ -5,7 +5,7 @@ author_handle: "happyskinkitchen"
 author_name: "Elisa Rossi - Happyskinkitchen"
 post_url: "https://instagram.com/p/BtoA21NBP7C"
 image: "img/happyskinkitchen_08-02-2019_1502.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 

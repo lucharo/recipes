@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CdTiB-ppjIu"
 image: "img/veganfeedgram_08-05-2022_1705.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Miso Glazed Eggplant  

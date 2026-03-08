@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/DG6GFdzyVZ8"
 image: "img/carolinagelen_07-03-2025_1814.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 #cooking #cookingoutdoors #pizza #flatbread #lake

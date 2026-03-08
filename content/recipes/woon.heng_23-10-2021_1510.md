@@ -5,7 +5,7 @@ author_handle: "woon.heng"
 author_name: "WoonHeng Chia"
 post_url: "https://instagram.com/p/CVYDxvRFbGq"
 image: "img/woon.heng_23-10-2021_1510.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 ⁣  

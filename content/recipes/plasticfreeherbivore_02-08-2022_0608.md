@@ -5,7 +5,7 @@ author_handle: "plasticfreeherbivore"
 author_name: "Jess | vegan recipes and eco tips"
 post_url: "https://instagram.com/p/Cgv0725JuEP"
 image: "img/plasticfreeherbivore_02-08-2022_0608.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Do you remember the first time you tried tofu?   

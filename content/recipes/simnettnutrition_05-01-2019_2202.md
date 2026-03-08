@@ -5,7 +5,7 @@ author_handle: "simnettnutrition"
 author_name: "Derek Simnett, CNP"
 post_url: "https://instagram.com/p/BsRNerOAyjF"
 image: "img/simnettnutrition_05-01-2019_2202.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 1 tbsp tamari  

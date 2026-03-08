@@ -5,7 +5,7 @@ author_handle: "deliciouslyella"
 author_name: "Deliciously Ella"
 post_url: "https://instagram.com/p/CauGqSWDT_P"
 image: "img/deliciouslyella_05-03-2022_1103.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 - 400g macaroni pasta  

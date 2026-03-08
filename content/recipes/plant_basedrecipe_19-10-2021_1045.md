@@ -5,7 +5,7 @@ author_handle: "plant_basedrecipe"
 author_name: "vegan recipe"
 post_url: "https://instagram.com/p/CVNRK6OpLNA"
 image: "img/plant_basedrecipe_19-10-2021_1045.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 recipe by @fitgreenmind  

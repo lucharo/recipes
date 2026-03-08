@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CZPikIchh1J"
 image: "img/pengveganmunch_27-01-2022_1801.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Traditionally kimchi is made using fish sauce but to make sure it’s plant-based we are using @abakusfoods seaweed ‘sea salt’ crisps to help add that UMAMI FLAVOUR 🌊   

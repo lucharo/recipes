@@ -5,7 +5,7 @@ author_handle: "vegancarnival"
 author_name: "🍅 Vegan Foodie 💚 Green Life"
 post_url: "https://instagram.com/p/CY8kE2yJmXj"
 image: "img/vegancarnival_20-01-2022_0916.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Recipe linked in stories or Google “vegan richa lentil brownies “  

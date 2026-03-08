@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CoH4oNmJObN"
 image: "img/thefoodietakesflight_01-02-2023_1402.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 I love using a mix of zucchini, cabbage, carrots, and some green onions but you can really add other vegetables of your choice.  

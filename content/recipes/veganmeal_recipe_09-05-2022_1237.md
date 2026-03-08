@@ -5,7 +5,7 @@ author_handle: "veganmeal_recipe"
 author_name: ""
 post_url: "https://instagram.com/p/CdVmkuWJm4X"
 image: "img/veganmeal_recipe_09-05-2022_1237.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Follow @veganmeal_recipe  

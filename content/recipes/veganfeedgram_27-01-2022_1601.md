@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CZPZyAAJyQz"
 image: "img/veganfeedgram_27-01-2022_1601.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 By @bakesby.britt   

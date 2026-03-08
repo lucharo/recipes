@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CqAsEk3rXq7"
 image: "img/thefoodietakesflight_20-03-2023_1203.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Anyhow, these are super easy to put together and you can leave the rest to your air-fryer or oven to cook down. Great as a finger food or snack with your dipping sauce of choice or cooked down in a sauce/glaze of your choice!  

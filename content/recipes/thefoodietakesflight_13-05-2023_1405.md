@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CsL_SBOP7Yp"
 image: "img/thefoodietakesflight_13-05-2023_1405.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Light and fluffy buns with a crispy bottom, packed with an aromatic blend of scallions, sesame seeds, and five spice powder. 🫶🏼  

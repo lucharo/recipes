@@ -5,7 +5,7 @@ author_handle: "healthygirlkitchen"
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/DACCkaqSiJd"
 image: "img/healthygirlkitchen_17-09-2024_2036.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 1 can chickpeas, drained and rinsed   

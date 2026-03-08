@@ -5,7 +5,7 @@ author_handle: "eatmoreplants.no"
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C_f9I_zoIKW"
 image: "img/eatmoreplants.no_04-09-2024_1409.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 It’s the rapid spikes and crashes throughout the day that can lead to poor metabolic health in the future, low energy, cravings and weight gain. Those are the ones we want to avoid, according to the Veri method 📈  

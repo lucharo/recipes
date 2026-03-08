@@ -5,7 +5,7 @@ author_handle: "minimin.eats"
 author_name: "🍩 Min 🍩"
 post_url: "https://instagram.com/p/CanC0_HKKoh"
 image: "img/minimin.eats_02-03-2022_1703.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 🥣Recipe🥣  

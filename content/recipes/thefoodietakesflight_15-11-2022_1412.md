@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Ck_AYjeJOpa"
 image: "img/thefoodietakesflight_15-11-2022_1412.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Fresh galangal is difficult to come by in Manila 🇵🇭 so I’m rly grateful for this plant no growing in my backyard 🌿  

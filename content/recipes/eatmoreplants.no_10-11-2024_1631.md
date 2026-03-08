@@ -5,7 +5,7 @@ author_handle: "eatmoreplants.no"
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/DCMpRoqqZWe"
 image: "img/eatmoreplants.no_10-11-2024_1631.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 

@@ -5,7 +5,7 @@ author_handle: ""
 author_name: ""
 post_url: ""
 image: ""
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Ingredienti:

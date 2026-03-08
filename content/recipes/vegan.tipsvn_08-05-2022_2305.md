@@ -5,7 +5,7 @@ author_handle: "vegan.tipsvn"
 author_name: "Vegan Tips"
 post_url: "https://instagram.com/p/CdUMGwzLEfU"
 image: "img/vegan.tipsvn_08-05-2022_2305.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Yummiest way to have a 🍌? Either way, these are DELICIOUS, gluten free, a healthier and fun pancake version 😍 They can even be stored to the day after in the fridge, just pop them into a bread toaster 👍🏽 tag someone who should try have their banana like this 🍌  

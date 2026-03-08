@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CrvtNy4uJH-"
 image: "img/thefoodietakesflight_02-05-2023_1515.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 This is a great no-cook recipe perfect for those busy and hot days (esp in this Philippine heat 🥵) since it can be incredibly refreshing yet hearty at the same time + it’s ready in 10 mins or less!  

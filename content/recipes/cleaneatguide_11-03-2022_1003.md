@@ -5,7 +5,7 @@ author_handle: "cleaneatguide"
 author_name: "Clean Eating Guide"
 post_url: "https://instagram.com/p/Ca9a2R8jssb"
 image: "img/cleaneatguide_11-03-2022_1003.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 .  

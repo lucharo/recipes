@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Cp70EXlJO5j"
 image: "img/thefoodietakesflight_18-03-2023_1504.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Roasted Garlic Gochujang Udon recipe’s on www.thefoodietakesflight.com - direct link is in my bio @thefoodietakesflight ◡̈   

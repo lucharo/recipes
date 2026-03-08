@@ -5,7 +5,7 @@ author_handle: "plantbased.green"
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/Cb5BeLsKKpU"
 image: "img/plantbased.green_03-04-2022_1304.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 On a vegan streak this week with all the vegetables there are in my household so here’s one of my all time fave dishes made vegan! Basically just removed steak and replaced it with shiitake mushrooms.  

@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CsjigH5tq4K"
 image: "img/carolinagelen_22-05-2023_1822.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 RASPBERRY LEMON DRESSING - a delicious, sweet and fruity vinaigrette to toss your salad in. Recipe in bio  

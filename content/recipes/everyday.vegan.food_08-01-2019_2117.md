@@ -5,7 +5,7 @@ author_handle: "everyday.vegan.food"
 author_name: "Everyday Vegan Food"
 post_url: "https://instagram.com/p/BsY2uw3g2N9"
 image: "img/everyday.vegan.food_08-01-2019_2117.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 1 3/4 cup water  

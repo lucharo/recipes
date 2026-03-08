@@ -5,7 +5,7 @@ author_handle: "okonomikitchen"
 author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/Cn2A6B9D9pu"
 image: "img/okonomikitchen_25-01-2023_1557.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 ⁣  

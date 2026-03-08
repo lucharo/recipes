@@ -5,7 +5,7 @@ author_handle: "foodisonelove"
 author_name: "Healthy Eating"
 post_url: "https://instagram.com/p/CVQgEF6oquo"
 image: "img/foodisonelove_20-10-2021_1653.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 @strictlythriving  

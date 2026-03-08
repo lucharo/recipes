@@ -5,7 +5,7 @@ author_handle: "fu.fighters"
 author_name: "Aye Mya Oo"
 post_url: "https://instagram.com/p/CVVPoU6NwLR"
 image: "img/noimage.jpg"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 .  

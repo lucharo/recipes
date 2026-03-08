@@ -5,7 +5,7 @@ author_handle: "plantbased.io"
 author_name: "Vegan Recipes | Plantbased"
 post_url: "https://instagram.com/p/CbXriuujXtf"
 image: "img/plantbased.io_21-03-2022_1403.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Would you try this?   

@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/C_s3BEIOHbJ"
 image: "img/pierceabernathy_09-09-2024_1509.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 What started as a gazpacho from the veg trim turned into this extremely flavorful strained and clarified liquid. A perfect base for a simple vinaigrette.

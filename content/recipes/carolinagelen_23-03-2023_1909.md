@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CqJHeicDQx6"
 image: "img/carolinagelen_23-03-2023_1909.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 CHOCOLATE SALAMI - a tender, fudgy no-bake cake I grew up with, it comes together in 10 minutes, all you need to bring it together is a spoon and a pan. You’ve got crunchy biscuits, bright green pistachios surrounded by velvety chocolate. It’s an Italian and Portuguese dessert popular all over the world, there are so many versions of it, but here’s mine!  

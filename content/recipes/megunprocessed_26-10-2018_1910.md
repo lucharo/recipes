@@ -5,7 +5,7 @@ author_handle: "megunprocessed"
 author_name: "Megan Evans"
 post_url: "https://instagram.com/p/BpaGUFxFj1u"
 image: "img/megunprocessed_26-10-2018_1910.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 A healthier sweet treat that is sure to be a crowd pleaser 😋 They are dairy-free, gluten-free and no refined sugar 👏  Make them with or without the icing on top 💁🏻‍♀️  

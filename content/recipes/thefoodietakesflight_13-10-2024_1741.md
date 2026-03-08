@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DBEq4G9Si8D"
 image: "img/thefoodietakesflight_13-10-2024_1741.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Best enjoyed with rice of course :)  

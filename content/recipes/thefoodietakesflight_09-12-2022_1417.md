@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Cl80HNVpp6H"
 image: "img/thefoodietakesflight_09-12-2022_1417.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 www.thefoodietakesflight.com/chinese-corn-soup  

@@ -5,7 +5,7 @@ author_handle: "rootedinspice"
 author_name: "chaheti"
 post_url: "https://instagram.com/p/Cbix33jsRqq"
 image: "img/rootedinspice_25-03-2022_2203.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Roasted Garlic & Red Pepper Baingan Bharta  

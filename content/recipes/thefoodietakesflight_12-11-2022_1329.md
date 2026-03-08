@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Ck3M8SEJTJo"
 image: "img/thefoodietakesflight_12-11-2022_1329.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Chickpeas in a rich, earthy, and aromatic spiced tomato-based curry sauce inspired by Indian Butter Chicken.   

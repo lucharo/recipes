@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CU9TvzxJUiq"
 image: "img/veganfeedgram_13-10-2021_0610.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 I gotta say, this was my first time making gyozas myself and they’re BEYOND DELICIOUS! 🤤  

@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CZw53-RquFI"
 image: "img/pengveganmunch_09-02-2022_1702.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 I love wontons in all their shapes, sizes and servings (SSS) and this no exception, I could eat bowl after bowl of this soup 😊   

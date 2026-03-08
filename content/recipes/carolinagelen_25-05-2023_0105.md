@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CspdiX7uAOX"
 image: "img/carolinagelen_25-05-2023_0105.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 HOMEMADE FLOUR TORTILLAS - all you need is 5 ingredients to make flour tortillas at home that are so much better than the ones you can buy at a store   

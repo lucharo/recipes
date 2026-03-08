@@ -5,7 +5,7 @@ author_handle: "chez.jorge"
 author_name: "George Lee"
 post_url: "https://instagram.com/p/CaUtgOLj2fT"
 image: "img/chez.jorge_23-02-2022_1402.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 :) It’s been a while!  

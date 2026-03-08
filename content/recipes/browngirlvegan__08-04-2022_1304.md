@@ -5,7 +5,7 @@ author_handle: "browngirlvegan_"
 author_name: "Ramya | vegan recipes ✨"
 post_url: "https://instagram.com/p/CcF1M-RDlg-"
 image: "img/browngirlvegan__08-04-2022_1304.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 This is another rendition of my peanut chilli noodles, but instead I wanted something that was zesty, tangy and spicy all at the same time. And let's just take a moment to appreciate knife cut noodles...the texture and taste is insane! you've got to try it 😍  

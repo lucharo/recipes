@@ -5,7 +5,7 @@ author_handle: "eatmoreplants.no"
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C-QfTkEqiws"
 image: "img/eatmoreplants.no_04-08-2024_1808.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Testing out new recipes that gives me a better glucose response has been so much fun!  

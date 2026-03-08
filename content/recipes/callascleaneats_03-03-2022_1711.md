@@ -5,7 +5,7 @@ author_handle: "callascleaneats"
 author_name: "Calla Ramont"
 post_url: "https://instagram.com/p/Capkh76JSem"
 image: "img/callascleaneats_03-03-2022_1711.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 A higher protein, lower sugar, gluten-free, vegan version of the fave you grew up with and tbh, they taste even better 😏 makes 7 bars!   

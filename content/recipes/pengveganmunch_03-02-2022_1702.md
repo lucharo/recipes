@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CZhdARSh59B"
 image: "img/pengveganmunch_03-02-2022_1702.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 As simple as it is tasty, this recipe consists only of ingredients you will find in your cupboards 😊  

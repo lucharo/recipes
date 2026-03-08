@@ -5,7 +5,7 @@ author_handle: "bosh.tv"
 author_name: "BOSH! - 🚀 Flavour | 💪🏻 Protein | 🌱 Fibre"
 post_url: "https://instagram.com/p/CaPcmHHjhNX"
 image: "img/bosh.tv_21-02-2022_1342.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 So crunchy, so creamy, so delicious.  

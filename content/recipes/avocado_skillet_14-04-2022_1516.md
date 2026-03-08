@@ -5,7 +5,7 @@ author_handle: "avocado_skillet"
 author_name: "Kristi Roeder"
 post_url: "https://instagram.com/p/CcVg8uzAISF"
 image: "img/avocado_skillet_14-04-2022_1516.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 This is one of my favorite recipes. The spicy and sweet combo is out of this world.   

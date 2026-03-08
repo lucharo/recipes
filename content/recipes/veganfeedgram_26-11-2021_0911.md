@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CWu_wfwpE4j"
 image: "img/veganfeedgram_26-11-2021_0911.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 These noodles are made within 5 minutes but don’t be fooled they taste amazing! 😍  

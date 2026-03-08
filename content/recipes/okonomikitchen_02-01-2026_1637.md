@@ -5,7 +5,7 @@ author_handle: "okonomikitchen"
 author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DTA-S7wjskR"
 image: "img/okonomikitchen_02-01-2026_1637.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 This series has been over a year in the making. I tasted, researched, and tested countless doughs and fillings to create recipes that are approachable for home bakers but just as delicious as the ones you find at bakeries—and approved by a very bread-devoted Japanese mother 😵‍💫  

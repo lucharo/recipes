@@ -5,7 +5,7 @@ author_handle: "biancazapatka"
 author_name: "Bianca Zapatka"
 post_url: "https://instagram.com/p/Bo58z-Kgl7O"
 image: "img/biancazapatka_14-10-2018_0740.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 It’s super moist, fudgy, perfectly spiced and so delicious. The recipe is very easy and can be made sugar-free and gluten-free! 😊  

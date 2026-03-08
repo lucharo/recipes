@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DPOyGiwCeUP"
 image: "img/thefoodietakesflight_30-09-2025_1515.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Comment ‘recipes’ to get the link sent straight to your DMs :) 💌  

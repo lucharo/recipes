@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/ClHCFf8qk1S"
 image: "img/pengveganmunch_18-11-2022_1711.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Saw @zenaskitchen make a corn pasta over on @mob and wanted to make a vegan version for myself 😊   

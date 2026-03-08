@@ -5,7 +5,7 @@ author_handle: "get.plant.ed"
 author_name: "planted"
 post_url: "https://instagram.com/p/CbuwYp9hQey"
 image: "img/get.plant.ed_30-03-2022_1403.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 ⁣  

@@ -5,7 +5,7 @@ author_handle: "okonomikitchen"
 author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DHGlVzwAvtM"
 image: "img/okonomikitchen_12-03-2025_1438.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Yamitsuki means addictive in Japanese and it truly lives up to its name. Recommended to have at izakaya and popular for home cooks because it takes 5 minutes to make! You can use other vegetables like cucumber, lettuce, broccoli or carrots too.   

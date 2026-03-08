@@ -5,7 +5,7 @@ author_handle: "gregsvegangourmet"
 author_name: "Greg | Vegan Comfort Food Recipes"
 post_url: "https://instagram.com/p/CZCtXv-sdTx"
 image: "img/gregsvegangourmet_22-01-2022_1801.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 •  

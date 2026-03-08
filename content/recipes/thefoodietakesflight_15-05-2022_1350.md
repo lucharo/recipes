@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CdlLj2JpgMX"
 image: "img/thefoodietakesflight_15-05-2022_1350.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 What did you grow up eating for breakfast? 🌞   

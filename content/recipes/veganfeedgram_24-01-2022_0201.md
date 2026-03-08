@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CZGG3_Spoi3"
 image: "img/veganfeedgram_24-01-2022_0201.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 By @thrivingonplants   

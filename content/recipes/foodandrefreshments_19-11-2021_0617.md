@@ -5,7 +5,7 @@ author_handle: "foodandrefreshments"
 author_name: "Food And Refreshments"
 post_url: "https://instagram.com/p/CWcnLaWo-0e"
 image: "img/foodandrefreshments_19-11-2021_0617.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 👉🏼 Follow @foodandrefreshments for more 👍🏼  

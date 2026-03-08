@@ -5,7 +5,7 @@ author_handle: "healthymealgram"
 author_name: "Heathy Eating"
 post_url: "https://instagram.com/p/CZE-VripUVS"
 image: "img/healthymealgram_23-01-2022_1532.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Simple & beautiful! A drizzle of Truffle Oil finishes it off perfectly👌🏻  

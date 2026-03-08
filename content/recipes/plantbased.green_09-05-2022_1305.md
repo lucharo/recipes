@@ -5,7 +5,7 @@ author_handle: "plantbased.green"
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CdVqxxjKsuv"
 image: "img/plantbased.green_09-05-2022_1305.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Making gnocchi takes only 30mins and 3 ingredients… So join me making these delicious, fluffy pillows drenched in garlicky tomato sauce! 🤤  

@@ -5,7 +5,7 @@ author_handle: "sweetsimplevegan"
 author_name: "Jasmine Briones"
 post_url: "https://instagram.com/p/CYuMKKnBnlM"
 image: "img/sweetsimplevegan_14-01-2022_1911.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Perfect vegan + gf flatbread ready in about 30 minutes! It’s great as an appetizer and also perfect to use as a base for pizza 🍕  

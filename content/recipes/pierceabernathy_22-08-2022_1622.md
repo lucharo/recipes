@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/ChkXvnQJAAH"
 image: "img/pierceabernathy_22-08-2022_1622.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 I teamed up with @seed to highlight microbiome-friendly foods, like sweet potato and corn (in this recipe)! Foods that are fiber-rich and/or good for your gut. By diversifying the number of fruits and vegetables you consume you're incorporating plenty of macro- and micronutrients that support your microbiome.   

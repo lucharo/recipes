@@ -5,7 +5,7 @@ author_handle: "biancazapatka"
 author_name: "Bianca Zapatka"
 post_url: "https://instagram.com/p/BmymRPGlgBM"
 image: "img/biancazapatka_22-08-2018_1805.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 .  

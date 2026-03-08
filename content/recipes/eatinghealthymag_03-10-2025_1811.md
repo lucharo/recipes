@@ -5,7 +5,7 @@ author_handle: "eatinghealthymag"
 author_name: "Healthy Eating Magazine"
 post_url: "https://instagram.com/p/DPW06uJD9dK"
 image: "img/eatinghealthymag_03-10-2025_1811.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Post by @healthyeatingfeed   

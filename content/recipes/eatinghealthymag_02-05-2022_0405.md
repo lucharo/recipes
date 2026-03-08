@@ -5,7 +5,7 @@ author_handle: "eatinghealthymag"
 author_name: "Healthy Eating Magazine"
 post_url: "https://instagram.com/p/CdCu0HxDJFG"
 image: "img/eatinghealthymag_02-05-2022_0405.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Simple & beautiful! A drizzle of Truffle Oil finishes it off perfectly👌🏻  

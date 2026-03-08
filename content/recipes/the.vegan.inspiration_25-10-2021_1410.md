@@ -5,7 +5,7 @@ author_handle: "the.vegan.inspiration"
 author_name: "The Vegan Inspiration"
 post_url: "https://instagram.com/p/CVdESB_BkD2"
 image: "img/the.vegan.inspiration_25-10-2021_1410.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 ✔️ TAG a friend who needa try this today!  

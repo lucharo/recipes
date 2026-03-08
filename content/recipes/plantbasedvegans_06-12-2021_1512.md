@@ -5,7 +5,7 @@ author_handle: "plantbasedvegans"
 author_name: "Plant Based Vegan"
 post_url: "https://instagram.com/p/CXJYoJzKyRG"
 image: "img/plantbasedvegans_06-12-2021_1512.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Behind the 5th window of the Christmas calendar is this Red Lentil Soup🍲💃 It’s packed with veggies and is such a comfort meal!  

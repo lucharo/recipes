@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CZmf9gKKopg"
 image: "img/pengveganmunch_05-02-2022_1602.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Translating roughly to ‘mixed rice’, this Korean rice bowl is so tasty + has so much colour thanks to the variety of fresh vegetables, dressings + garnishes 🌈   

@@ -5,7 +5,7 @@ author_handle: "__southofsomewhere"
 author_name: "meg"
 post_url: "https://instagram.com/p/CYZVnW5JCmO"
 image: "img/__southofsomewhere_06-01-2022_1649.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 ⠀  

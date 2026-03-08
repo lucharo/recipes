@@ -5,7 +5,7 @@ author_handle: "symproveyourlife"
 author_name: "Symprove | UK's No.1..."
 post_url: "https://instagram.com/p/DRPu2DNDbVM"
 image: "img/symproveyourlife_19-11-2025_1706.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 With seven plant points, this easy supper comes together in under 30 minutes. With a creamy coconut miso, crispy tofu, lots of garlic and ginger, plus a squeeze of lime, it’s as healthy as it is delicious.  

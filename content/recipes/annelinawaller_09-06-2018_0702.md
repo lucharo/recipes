@@ -5,7 +5,7 @@ author_handle: "annelinawaller"
 author_name: "Annelina - Longevity Yogi"
 post_url: "https://instagram.com/p/Bjy3jJTDf-y"
 image: "img/annelinawaller_09-06-2018_0702.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 APPLE STRUDEL Cookie dough. It's the only one I'm making so far. Let me know your thoughts if you make it <3 Seeending love!   

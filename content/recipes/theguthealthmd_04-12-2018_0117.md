@@ -5,7 +5,7 @@ author_handle: "theguthealthmd"
 author_name: "Will Bulsiewicz MD MSCI | Gastroenterologist"
 post_url: "https://instagram.com/p/Bq8lUvuBYOr"
 image: "img/theguthealthmd_04-12-2018_0117.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 .  

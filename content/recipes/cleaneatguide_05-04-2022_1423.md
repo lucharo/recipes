@@ -5,7 +5,7 @@ author_handle: "cleaneatguide"
 author_name: "Clean Eating Guide | Inspiring Millions to Eat Clean"
 post_url: "https://instagram.com/p/Cb-PjCQDpqR"
 image: "img/cleaneatguide_05-04-2022_1423.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Start this right now, spring is almost here! 🤩  

@@ -5,7 +5,7 @@ author_handle: "travelandmunchies"
 author_name: "Travelandmunchies"
 post_url: "https://instagram.com/p/Cghkuqxl-b2"
 image: "img/travelandmunchies_27-07-2022_1707.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Flat bread like this has many names and many countries of origin. Depending where you are from, flat bread may be predominantly called paratha, roti, buss up shut, chapati, M'semen to name a few. Though these flat breads may be named AND prepared differently depending on country and region, in Trinidad paratha, roti and buss up shut are often used interchangeably to refer to what I am making here!   

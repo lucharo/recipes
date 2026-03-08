@@ -5,7 +5,7 @@ author_handle: "eatinghealthyfeed"
 author_name: "Eating Healthy"
 post_url: "https://instagram.com/p/CchS27fIA4a"
 image: "img/noimage.jpg"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 ✅ Macros for 1/4th of the Fries (you saw 1/2 of the fries in this bowl!):  

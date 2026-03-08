@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CiDBULFJflZ"
 image: "img/thefoodietakesflight_03-09-2022_1407.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 👉🏼full detailed recipe is linked in my bio @thefoodietakesflight or you can also visit my blog www.thefoodietakesflight.com and search ‘salt and pepper tofu’ ◡̈  

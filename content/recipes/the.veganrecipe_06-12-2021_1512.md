@@ -5,7 +5,7 @@ author_handle: "the.veganrecipe"
 author_name: "Vegan Recipe"
 post_url: "https://instagram.com/p/CXJZn6lq2qh"
 image: "img/the.veganrecipe_06-12-2021_1512.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Behind the 5th window of the Christmas calendar is this Red Lentil Soup🍲💃 It’s packed with veggies and is such a comfort meal!  

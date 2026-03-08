@@ -5,7 +5,7 @@ author_handle: "plantbased.green"
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CY9H8x2IvyA"
 image: "img/plantbased.green_20-01-2022_1401.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 An easy + delicious way to use up any veg in your cupboards/fridge, I used onion/tomato/red pepper as the base of my sauce but you can use whatever vegetables you have to hand ✋🏽   

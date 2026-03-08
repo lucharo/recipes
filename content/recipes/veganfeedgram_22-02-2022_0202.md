@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CaQzYdclo7H"
 image: "img/veganfeedgram_22-02-2022_0202.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Pesto Hasselback Sweet Potato  

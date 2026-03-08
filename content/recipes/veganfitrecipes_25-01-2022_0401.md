@@ -5,7 +5,7 @@ author_handle: "veganfitrecipes"
 author_name: "Eliza H."
 post_url: "https://instagram.com/p/CZI6EdwjwGp"
 image: "img/veganfitrecipes_25-01-2022_0401.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 You need:  

@@ -5,7 +5,7 @@ author_handle: "gregbellefontaine"
 author_name: "Greg | Vegan Comfort Food Recipes"
 post_url: "https://instagram.com/p/CbiLuVagHXq"
 image: "img/gregbellefontaine_25-03-2022_1656.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 •  

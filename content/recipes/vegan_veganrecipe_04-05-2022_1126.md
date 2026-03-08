@@ -5,7 +5,7 @@ author_handle: "vegan_veganrecipe"
 author_name: "Vegan Recipes"
 post_url: "https://instagram.com/p/CdImf8JJxiS"
 image: "img/vegan_veganrecipe_04-05-2022_1126.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Follow us @vegan_veganrecipe for daily vegan inspiration 🌱💚  

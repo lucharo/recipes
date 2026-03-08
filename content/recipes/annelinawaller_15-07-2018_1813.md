@@ -5,7 +5,7 @@ author_handle: "annelinawaller"
 author_name: "Annelina - Longevity Yogi"
 post_url: "https://instagram.com/p/BlQw_AHgKI2"
 image: "img/annelinawaller_15-07-2018_1813.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 So in case you always want to have a healthy sweet treat with your to be prepared for unbemerkt cravings, you might try it. It takes 5 minutes to prepare, just the baking time is a bit longer.  Recipe in my bio #ontheblog ☝️  

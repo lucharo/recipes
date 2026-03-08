@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CWYnGkNKbFL"
 image: "img/pengveganmunch_17-11-2021_1711.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Dahl is one of my favourite curries, so simple but full of flavour and when paired with this fragrant rice it makes it EVEN BETTER 🔥   

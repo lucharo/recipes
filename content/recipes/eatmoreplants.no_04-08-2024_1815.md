@@ -5,7 +5,7 @@ author_handle: "eatmoreplants.no"
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C-QfTkEqiws"
 image: "img/eatmoreplants.no_04-08-2024_1815.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Ingredients   

@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/Cikh3wJAw-o"
 image: "img/pierceabernathy_16-09-2022_1426.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Gochujang is a Korean fermented chili paste. It is a fundamental ingredient in Korean cooking and has a deep, rich, spicy and slightly sweet flavor. The homemade sesame paste is inspired by Chinese sesame paste. Not to be confused with tahini, which typically the sesame is not toasted or very lightly toasted. This paste has a deeper roasty flavor compared to tahini. The two are not typically interchangeable.   

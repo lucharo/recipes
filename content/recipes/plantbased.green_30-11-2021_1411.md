@@ -5,7 +5,7 @@ author_handle: "plantbased.green"
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CW5y8evqE7j"
 image: "img/plantbased.green_30-11-2021_1411.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 ⠀  

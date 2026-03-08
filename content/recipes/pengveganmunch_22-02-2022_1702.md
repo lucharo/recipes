@@ -5,7 +5,7 @@ author_handle: "pengveganmunch"
 author_name: "Jacob"
 post_url: "https://instagram.com/p/CaSYVejqjOT"
 image: "img/pengveganmunch_22-02-2022_1702.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 A go to when ordering from an Italian restaurant except this version doesn’t contain any animal products because we love them 🐖🐔🫂  

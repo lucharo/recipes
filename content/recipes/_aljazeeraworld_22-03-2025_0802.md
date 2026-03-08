@@ -5,7 +5,7 @@ author_handle: "_aljazeeraworld"
 author_name: "Al Jazeera World"
 post_url: "https://instagram.com/p/DHfoDNSNUxb"
 image: "img/_aljazeeraworld_22-03-2025_0802.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 .  

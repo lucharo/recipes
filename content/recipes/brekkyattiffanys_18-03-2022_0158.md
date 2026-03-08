@@ -5,7 +5,7 @@ author_handle: "brekkyattiffanys"
 author_name: "tiffany yang"
 post_url: "https://instagram.com/p/CbOkHB8DOLV"
 image: "img/brekkyattiffanys_18-03-2022_0158.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 cooking instructions:  

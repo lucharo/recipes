@@ -5,7 +5,7 @@ author_handle: "linas_vegan_kitchen"
 author_name: "Lina☀️"
 post_url: "https://instagram.com/p/CV0DNZolnan"
 image: "img/linas_vegan_kitchen_03-11-2021_1215.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 🚨🚨SAVE RECIPE FOR LATER🚨🚨  

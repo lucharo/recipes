@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DCKANVOyulw"
 image: "img/thefoodietakesflight_09-11-2024_1555.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 We made a very garlicky miso soup recipe in culinary school (using our homemade chickpea miso too!) that I really enjoyed so I knew I had to make something similar and pair it with noodles. So here we are!  

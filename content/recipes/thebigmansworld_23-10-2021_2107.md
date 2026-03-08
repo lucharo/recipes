@@ -5,7 +5,7 @@ author_handle: "thebigmansworld"
 author_name: "Arman Liew"
 post_url: "https://instagram.com/p/CVYrmp-hZhn"
 image: "img/thebigmansworld_23-10-2021_2107.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 

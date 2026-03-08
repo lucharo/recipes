@@ -5,7 +5,7 @@ author_handle: "vegancarnival"
 author_name: "🍅 Vegan Foodie 💚 Green Life"
 post_url: "https://instagram.com/p/CU-7MSxKwj4"
 image: "img/vegancarnival_13-10-2021_2110.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 .  

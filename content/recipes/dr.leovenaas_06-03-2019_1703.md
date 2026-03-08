@@ -5,7 +5,7 @@ author_handle: "dr.leovenaas"
 author_name: "Dr. Leo"
 post_url: "https://instagram.com/p/BurRH6snV0s"
 image: "img/dr.leovenaas_06-03-2019_1703.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 .  

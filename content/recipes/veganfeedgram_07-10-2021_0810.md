@@ -5,7 +5,7 @@ author_handle: "veganfeedgram"
 author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CUuE8uCJ2EG"
 image: "img/veganfeedgram_07-10-2021_0810.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 They’re are a combination of two of my favourite things combined… Dumplings & Rice Paper rolls!  

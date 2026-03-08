@@ -5,7 +5,7 @@ author_handle: "plantbased.green"
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CXbS1jxK03q"
 image: "img/plantbased.green_13-12-2021_1412.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 This might be the best recipe you make this week! In need of a stress-free recipe with minimum ingredients this week?   

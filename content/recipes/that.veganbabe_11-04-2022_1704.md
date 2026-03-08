@@ -5,7 +5,7 @@ author_handle: "that.veganbabe"
 author_name: "Stephanie Manzinali"
 post_url: "https://instagram.com/p/CcODkGztXqI"
 image: "img/that.veganbabe_11-04-2022_1704.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 My latest obsession is my Ninja® TWISTI™️ High-Speed Blender DUO!! 🙌 It’s SO powerful I know it can handle any new crazy or viral recipe I throw at it and blend through it with ease 😎   

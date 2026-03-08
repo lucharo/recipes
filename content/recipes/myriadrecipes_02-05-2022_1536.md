@@ -5,7 +5,7 @@ author_handle: "myriadrecipes"
 author_name: "Emily Roz"
 post_url: "https://instagram.com/p/CdD5Vn1voS4"
 image: "img/myriadrecipes_02-05-2022_1536.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 This is a simple Japanese sushi sandwich filled with tuna mayo, omelette, and avocado 🥑   

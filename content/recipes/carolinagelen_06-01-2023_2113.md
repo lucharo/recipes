@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CnFp3mSLe6k"
 image: "img/carolinagelen_06-01-2023_2113.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 #penneallavodka #vodkasauce #beans #butterbeans #quickdinner #vegetarianrecipes #cookingvideo #food #comfortfood #easyrecipes  

@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CmrFAVmBZEt"
 image: "img/thefoodietakesflight_27-12-2022_1330.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 Recipe for my all-time fav Korean vegetable pancakes or Yachaejeon & dipping sauce can be found on www.thefoodietakesflight.com 🥢  

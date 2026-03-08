@@ -5,7 +5,7 @@ author_handle: "wearefuturebites"
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/BqnhwLDF3-n"
 image: "img/wearefuturebites_25-11-2018_2111.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 ⠀  

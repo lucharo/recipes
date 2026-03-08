@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CsrVzg0tN7P"
 image: "img/carolinagelen_25-05-2023_1905.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 2 INGREDIENT OREO ICE CREAM - all you need are Oreos and cream for this fun summer treat  

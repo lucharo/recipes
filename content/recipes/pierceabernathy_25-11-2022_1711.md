@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/ClZD36srFpW"
 image: "img/pierceabernathy_25-11-2022_1711.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 This is a great way to use up any leftover squash. Whipping your egg whites and incorporating them in at the last minute ensure an airy batter resulting in fluffy decadent pancakes. Do not skip the syrup.   

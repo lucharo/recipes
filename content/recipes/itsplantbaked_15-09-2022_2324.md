@@ -5,7 +5,7 @@ author_handle: "itsplantbaked"
 author_name: ""
 post_url: "https://instagram.com/p/Cii7NV6v3lW"
 image: "img/itsplantbaked_15-09-2022_2324.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 Have a great day! 🤗

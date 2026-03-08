@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CqeSeeppsnC"
 image: "img/thefoodietakesflight_01-04-2023_0004.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Each serving of tempeh has 18 grams of protein, plus it’s a fermented food making it good for gut health. This recipe is really simple and easy to prepare but packs so much flavor!  

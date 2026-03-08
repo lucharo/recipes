@@ -5,7 +5,7 @@ author_handle: "cleaneatguide"
 author_name: "Clean Eating Guide"
 post_url: "https://instagram.com/p/CauSKiljUlA"
 image: "img/cleaneatguide_05-03-2022_1303.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 👌The perfect healthier dessert option with only 8 simple ingredients! The dough can also be eaten raw! 🤤   

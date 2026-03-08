@@ -5,7 +5,7 @@ author_handle: "healthygirlkitchen"
 author_name: "Danielle Brown | vegan recipes"
 post_url: "https://instagram.com/p/CY9ZvlSBQNS"
 image: "img/healthygirlkitchen_20-01-2022_1701.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 ingredients:  

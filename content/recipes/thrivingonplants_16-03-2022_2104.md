@@ -5,7 +5,7 @@ author_handle: "thrivingonplants"
 author_name: "Cherie"
 post_url: "https://instagram.com/p/CbLdX_KhVZK"
 image: "img/thrivingonplants_16-03-2022_2104.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Serves: 4   

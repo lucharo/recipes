@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DF0aqXISXCM"
 image: "img/thefoodietakesflight_08-02-2025_1658.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 With scallion oil, fried shallots, and toasted sesame seeds too for extra flavor and textures!  

@@ -5,7 +5,7 @@ author_handle: "curatethischaos"
 author_name: "Melissa | previously @lissa.elle"
 post_url: "https://instagram.com/p/CaFtPehK2_i"
 image: "img/curatethischaos_17-02-2022_1854.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 CC: You've seen my vegan cod, now it's time for vegan salmon! The recipe below in the caption will make 1 and a bit large or 2 small fillets of salmon. You can make it (which only takes 30mins or less), freeze them and use when necessary. Look at that texture! You can have it in a multitude of meals; I had mine with lemon and garlic creamy spaghetti, check my last reel for the recipe.  

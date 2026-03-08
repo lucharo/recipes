@@ -5,7 +5,7 @@ author_handle: "abeautifulmess.es"
 author_name: "Victoria Smith"
 post_url: "https://instagram.com/p/DHIzKs7t8rz"
 image: "img/abeautifulmess.es_13-03-2025_1127.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 La masa madre es un fermento natural compuesto por harina y agua, que desarrolla una comunidad de levaduras y bacterias beneficiosas.  

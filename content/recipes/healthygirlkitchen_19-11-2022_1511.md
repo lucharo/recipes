@@ -5,7 +5,7 @@ author_handle: "healthygirlkitchen"
 author_name: "Danielle Brown | vegan recipes"
 post_url: "https://instagram.com/p/ClJa2npjt1H"
 image: "img/healthygirlkitchen_19-11-2022_1511.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 ingredients: (2 servings)   

@@ -5,7 +5,7 @@ author_handle: "okonomikitchen"
 author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DFLJU3igQl-"
 image: "img/okonomikitchen_23-01-2025_1605.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 🔗 full recipe on okonomikitchen blog or google ‘okonomi mushroom rice’~   

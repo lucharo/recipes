@@ -5,7 +5,7 @@ author_handle: "theguthealthmd"
 author_name: ""
 post_url: "https://instagram.com/p/BuZ6LOjBQtD"
 image: "img/noimage.jpg"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 .  

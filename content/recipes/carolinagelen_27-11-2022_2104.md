@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CleojKQuhNx"
 image: "img/carolinagelen_27-11-2022_2104.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 #cooking #cookingvideos #cookingathome #asmr #asmrfood #comfortfood #comfortfoods #stew #polenta #dinnerideas #dinner

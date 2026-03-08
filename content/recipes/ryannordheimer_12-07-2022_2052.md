@@ -5,7 +5,7 @@ author_handle: "ryannordheimer"
 author_name: "Ryan Nordheimer"
 post_url: "https://instagram.com/p/Cf7SEScFmuj"
 image: "img/ryannordheimer_12-07-2022_2052.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 RECIPE LINK IN MY BIO  

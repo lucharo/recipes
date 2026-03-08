@@ -5,7 +5,7 @@ author_handle: "theegyptianplanteater"
 author_name: "Farida🌸 plant-based foooodie🌱"
 post_url: "https://instagram.com/p/CcBDPFjqUZt"
 image: "img/theegyptianplanteater_06-04-2022_1604.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 I love creamy pasta. I love gochujang. I love hummus. Soooo really this pasta just makes sense, right??! And TRUST me it’s SOOOO good and makes the perfect weeknight dinner! You can thank me later :):)  

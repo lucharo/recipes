@@ -5,7 +5,7 @@ author_handle: "that.veganbabe"
 author_name: "Stephanie Manzinali"
 post_url: "https://instagram.com/p/CcqSD0EMS9k"
 image: "img/that.veganbabe_22-04-2022_1604.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 I absolutely love 😍 the #OatsomeOatMilk & what a perfect swap to help reduce your environmental impact this #EarthDay !🌱 Oatsome’s milks are ULTRA creamy, great for frothing and made with 100% organic whole grains!   

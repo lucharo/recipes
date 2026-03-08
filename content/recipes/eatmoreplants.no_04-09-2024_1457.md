@@ -5,7 +5,7 @@ author_handle: "eatmoreplants.no"
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C_f9I_zoIKW"
 image: "img/eatmoreplants.no_04-09-2024_1457.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Recipe (6 wraps)  

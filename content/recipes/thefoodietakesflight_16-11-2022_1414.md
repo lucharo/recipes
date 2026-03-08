@@ -5,7 +5,7 @@ author_handle: "thefoodietakesflight"
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ClBlX4OJNek"
 image: "img/thefoodietakesflight_16-11-2022_1414.png"
-recipe_quality: ""
+recipe_quality: "ingredients_only"
 ---
 
 I made creamy version of this by adding vegan evaporated milk.  

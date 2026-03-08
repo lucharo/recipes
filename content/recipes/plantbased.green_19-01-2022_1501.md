@@ -5,7 +5,7 @@ author_handle: "plantbased.green"
 author_name: "Vegan | Healthy | Recipe"
 post_url: "https://instagram.com/p/CY6ogOzo8w-"
 image: "img/plantbased.green_19-01-2022_1501.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Great for snacking or with a meal, it doesn’t take much time to make these.   

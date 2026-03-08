@@ -5,7 +5,7 @@ author_handle: "carolinagelen"
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CmCxM0CrBaA"
 image: "img/carolinagelen_11-12-2022_2112.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 I developed this recipe over a year ago and it hasn’t stopped receiving love from you ever since. It’s been such an honor seeing you make this recipe, so I decided to give it a little upgrade technique-wise.   

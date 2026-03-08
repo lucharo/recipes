@@ -5,7 +5,7 @@ author_handle: "emilygracecote"
 author_name: "Emily Grace Coté"
 post_url: "https://instagram.com/p/CVqMBWoJTBQ"
 image: "img/emilygracecote_30-10-2021_1618.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 Soft Medjool Dates  

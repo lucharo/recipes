@@ -5,7 +5,7 @@ author_handle: "eatmoreplants.no"
 author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/C_In8twKiB5"
 image: "img/eatmoreplants.no_26-08-2024_1328.png"
-recipe_quality: ""
+recipe_quality: "complete"
 ---
 
 Ingredients (3 jars)  

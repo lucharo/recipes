@@ -5,7 +5,7 @@ author_handle: "pierceabernathy"
 author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CdGmmjOJ-pQ"
 image: "img/pierceabernathy_03-05-2022_1605.png"
-recipe_quality: ""
+recipe_quality: "video_only"
 ---
 
 No real recipe here but have been playing around with a few different asparagus dishes. This seasonal dip would be perfect for any crudités though.

@@ -5,7 +5,7 @@ author_handle: "primal_gourmet"
 author_name: "Ronny Lvovski"
 post_url: "https://instagram.com/p/CqYQrQZjFaR"
 image: "img/primal_gourmet_29-03-2023_1603.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 .  

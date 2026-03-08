@@ -5,7 +5,7 @@ author_handle: "ersingunduzcakestudio"
 author_name: "Ersin Gündüz"
 post_url: "https://instagram.com/p/CdBfVJCqBC5"
 image: "img/ersingunduzcakestudio_01-05-2022_1711.png"
-recipe_quality: ""
+recipe_quality: "minimal"
 ---
 
 
