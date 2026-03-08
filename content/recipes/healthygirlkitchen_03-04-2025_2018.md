@@ -6,6 +6,7 @@ authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | healthy recipes"
 post_url: "https://instagram.com/p/DH_15rdpiDg"
 image: "img/healthygirlkitchen_03-04-2025_2018.png"
+recipe_link: "https://healthygirlkitchen.com"
 recipe_quality: "video_only"
 ---
 

@@ -6,6 +6,7 @@ authors: ["healthygirlkitchen"]
 author_name: "Danielle Brown | vegan recipes"
 post_url: "https://instagram.com/p/CcGvjpqBfTY"
 image: "img/healthygirlkitchen_08-04-2022_2104.png"
+recipe_link: "https://healthygirlkitchen.com"
 recipe_quality: "video_only"
 ---
 

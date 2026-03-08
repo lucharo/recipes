@@ -6,6 +6,7 @@ authors: ["nourishing.niki"]
 author_name: "Nikita Messina - Easy & Healthy Recipes"
 post_url: "https://instagram.com/p/CaFu2Vaqh3t"
 image: "img/nourishing.niki_17-02-2022_1902.png"
+recipe_link: "https://nourishingniki.com"
 recipe_quality: "complete"
 ---
 

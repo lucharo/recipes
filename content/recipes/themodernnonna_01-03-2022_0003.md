@@ -6,6 +6,7 @@ authors: ["themodernnonna"]
 author_name: "Snejana Andreeva"
 post_url: "https://instagram.com/p/CaipDW4AC4Q"
 image: "img/themodernnonna_01-03-2022_0003.png"
+recipe_link: "https://themodernnonna.com"
 recipe_quality: "complete"
 ---
 

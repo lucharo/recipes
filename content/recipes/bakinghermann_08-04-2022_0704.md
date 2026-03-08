@@ -6,6 +6,7 @@ authors: ["bakinghermann"]
 author_name: "Julius Fiedler"
 post_url: "https://instagram.com/p/CcFQjo0oftf"
 image: "img/bakinghermann_08-04-2022_0704.png"
+recipe_link: "https://bakinghermann.com"
 recipe_quality: "video_only"
 ---
 

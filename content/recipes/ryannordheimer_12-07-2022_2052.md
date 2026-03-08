@@ -6,6 +6,7 @@ authors: ["ryannordheimer"]
 author_name: "Ryan Nordheimer"
 post_url: "https://instagram.com/p/Cf7SEScFmuj"
 image: "img/ryannordheimer_12-07-2022_2052.png"
+recipe_link: "https://www.ryannordheimer.com"
 recipe_quality: "minimal"
 ---
 
