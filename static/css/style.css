@@ -182,6 +182,17 @@ img { max-width: 100%; height: auto; display: block; }
 
 .btn-sm { padding: 0.35rem 0.75rem; font-size: 0.75rem; }
 
+.btn-accent {
+  background: var(--color-accent);
+  color: #fff;
+  border-color: var(--color-accent);
+}
+.btn-accent:hover {
+  background: var(--color-accent-hover);
+  border-color: var(--color-accent-hover);
+  color: #fff;
+}
+
 .filter-btn.active {
   background: var(--color-text);
   color: var(--color-surface);

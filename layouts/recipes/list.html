@@ -16,6 +16,7 @@
     <div id="search"></div>
   </div>
   <div class="filter-bar">
+    <button class="btn btn-accent" id="feeling-lucky" title="Open a random recipe">Feeling Lucky</button>
     <div class="filter-group">
       <label class="filter-label">Filter:</label>
       <button class="btn filter-btn active" data-filter="all">All</button>
@@ -46,6 +47,16 @@
     showSubResults: false,
     showImages: true,
     resetStyles: false
+  });
+
+  // Feeling Lucky
+  document.getElementById('feeling-lucky').addEventListener('click', () => {
+    const cards = document.querySelectorAll('.recipe-card:not([hidden])');
+    if (cards.length > 0) {
+      const random = cards[Math.floor(Math.random() * cards.length)];
+      const link = random.querySelector('a');
+      if (link) window.location.href = link.href;
+    }
   });
 
   // Quality filter
