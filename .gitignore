@@ -1,4 +1,6 @@
 site/
+public/
+resources/
 .venv/
 .env
 .ig_session.json
