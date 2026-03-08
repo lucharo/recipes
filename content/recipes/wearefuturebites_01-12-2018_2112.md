@@ -1,0 +1,24 @@
+---
+title: "Check out these superfood cocoa fudge bites! The perfect on-the-go energy snack or just a simple sweet treat 😋 🍫 ⠀"
+date: 2018-12-01 21:00:23+00:00
+author_handle: "wearefuturebites"
+author_name: "Future Bites"
+post_url: "https://instagram.com/p/Bq2-jWchyBp"
+image: "img/wearefuturebites_01-12-2018_2112.png"
+recipe_quality: ""
+---
+
+⠀  
+Tap the link in our bio for the recipe from @bakeritablog 🌱⠀  
+⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+.⠀  
+#vegan #foodporn #foodstagram #vegansofIG #foodies #veganfoodshare #meatlessmonday #vegansofinstagram #pbnfood #plantbasednutrition #plantbaseddiet #plantbasednews⠀  
+http://bit.ly/2SinoYX
