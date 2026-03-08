@@ -10,7 +10,7 @@
   {{ range .Data.Terms.ByCount }}
   {{ $firstPost := index .Pages 0 }}
   <a href="{{ .Page.RelPermalink }}" class="author-card">
-    <div class="author-card-img">
+    <div class="author-card-thumb">
       {{ with $firstPost.Params.image }}
       <img src="/{{ . }}" alt="@{{ $.Page.Title }}" loading="lazy">
       {{ else }}
