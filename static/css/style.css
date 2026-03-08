@@ -119,7 +119,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .search-row {
   display: flex;
-  align-items: stretch;
+  align-items: center;
   gap: 0.75rem;
   margin-bottom: 0.75rem;
 }
@@ -131,9 +131,9 @@ img { max-width: 100%; height: auto; display: block; }
 .search-row .btn-accent {
   white-space: nowrap;
   font-size: 0.9rem;
-  padding: 0.75rem 1.5rem;
+  padding: 0 1.5rem;
   border-radius: var(--radius);
-  align-self: flex-start;
+  height: var(--pagefind-input-height, 58px);
 }
 
 .search-wrap {

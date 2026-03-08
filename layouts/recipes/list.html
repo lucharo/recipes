@@ -43,6 +43,15 @@
     document.getElementById('search').innerHTML = '<p style="color:#6b7280;font-size:0.9rem;">Search available on the deployed site (requires Pagefind build).</p>';
   }
 
+  // Match Feeling Lucky button height to Pagefind input
+  requestAnimationFrame(function() {
+    var pagefindForm = document.querySelector('.pagefind-ui__form');
+    var luckyBtn = document.getElementById('feeling-lucky');
+    if (pagefindForm && luckyBtn) {
+      luckyBtn.style.height = pagefindForm.offsetHeight + 'px';
+    }
+  });
+
   // Feeling Lucky
   document.getElementById('feeling-lucky').addEventListener('click', function() {
     var cards = document.querySelectorAll('.recipe-card:not([hidden])');
