@@ -391,33 +391,55 @@ img { max-width: 100%; height: auto; display: block; }
   margin: 0 auto;
   padding: 0 1.5rem 3rem;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
   gap: 0.75rem;
 }
 
 .author-card {
   display: flex;
   flex-direction: column;
-  padding: 1rem;
   background: var(--color-surface);
-  border-radius: var(--radius);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
   border: 1px solid var(--color-border);
   color: var(--color-text);
-  transition: all 0.15s;
+  transition: all 0.2s;
 }
 .author-card:hover {
   border-color: var(--color-accent);
-  box-shadow: var(--shadow-sm);
-  color: var(--color-accent);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+  color: var(--color-text);
+}
+
+.author-card-img {
+  aspect-ratio: 3/2;
+  overflow: hidden;
+}
+.author-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+.author-card:hover .author-card-img img {
+  transform: scale(1.05);
+}
+
+.author-card-info {
+  padding: 0.6rem 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
 }
 
 .author-card-handle {
   font-weight: 600;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 
 .author-card-count {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: var(--color-text-muted);
 }
 

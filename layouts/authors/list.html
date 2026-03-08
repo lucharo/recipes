@@ -8,9 +8,19 @@
 
 <section class="author-grid">
   {{ range .Data.Terms.ByCount }}
+  {{ $firstPost := index .Pages 0 }}
   <a href="{{ .Page.RelPermalink }}" class="author-card">
-    <span class="author-card-handle">@{{ .Page.Title }}</span>
-    <span class="author-card-count">{{ .Count }} recipe{{ if ne .Count 1 }}s{{ end }}</span>
+    <div class="author-card-img">
+      {{ with $firstPost.Params.image }}
+      <img src="/{{ . }}" alt="@{{ $.Page.Title }}" loading="lazy">
+      {{ else }}
+      <img src="/img/noimage.jpg" alt="No image" loading="lazy">
+      {{ end }}
+    </div>
+    <div class="author-card-info">
+      <span class="author-card-handle">@{{ .Page.Title }}</span>
+      <span class="author-card-count">{{ .Count }} recipe{{ if ne .Count 1 }}s{{ end }}</span>
+    </div>
   </a>
   {{ end }}
 </section>

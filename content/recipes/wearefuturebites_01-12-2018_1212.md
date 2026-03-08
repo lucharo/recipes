@@ -6,6 +6,7 @@ authors: ["wearefuturebites"]
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/Bq2Axv-D3_q"
 image: "img/wearefuturebites_01-12-2018_1212.png"
+recipe_link: "https://www.lazycatkitchen.com"
 recipe_quality: "video_only"
 ---
 

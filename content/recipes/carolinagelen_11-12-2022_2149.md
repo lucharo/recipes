@@ -6,6 +6,7 @@ authors: ["carolinagelen"]
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CmCxM0CrBaA"
 image: "img/carolinagelen_11-12-2022_2149.png"
+recipe_link: "https://carolinagelen.com"
 recipe_quality: "video_only"
 ---
 

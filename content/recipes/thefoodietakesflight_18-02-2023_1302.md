@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CozmivMJPwC"
 image: "img/thefoodietakesflight_18-02-2023_1302.png"
+recipe_link: "https://thefoodietakesflight.com"
 recipe_quality: "ingredients_only"
 ---
 
