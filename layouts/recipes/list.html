@@ -1,0 +1,97 @@
+{{ define "title" }}Recipes | {{ .Site.Title }}{{ end }}
+
+{{ define "head" }}
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+{{ end }}
+
+{{ define "main" }}
+<section class="hero">
+  <h1>Instagram Recipe Collection</h1>
+  <p class="hero-sub">{{ len .Pages }} saved recipes, searchable and browsable.</p>
+  <p class="hero-note">The "tried and tested" recipes go to <a href="https://cook.luischav.es/">cook.luischav.es</a></p>
+</section>
+
+<section class="controls">
+  <div class="search-wrap">
+    <div id="search"></div>
+  </div>
+  <div class="filter-bar">
+    <button class="btn btn-accent" id="feeling-lucky" title="Open a random recipe">Feeling Lucky</button>
+    <div class="filter-group">
+      <label class="filter-label">Filter:</label>
+      <button class="btn filter-btn active" data-filter="all">All</button>
+      <button class="btn filter-btn" data-filter="complete">Complete</button>
+      <button class="btn filter-btn" data-filter="ingredients_only">Ingredients Only</button>
+      <button class="btn filter-btn" data-filter="video_only">Video Only</button>
+    </div>
+  </div>
+  <div class="ingredient-search-wrap">
+    <input type="text" id="ingredient-filter" placeholder="Filter by ingredient (e.g. chickpea, tofu, lemon...)" class="ingredient-input">
+  </div>
+</section>
+
+<section class="recipe-grid" id="recipe-grid">
+  {{ range .Pages.ByDate.Reverse }}
+  {{ partial "recipe-card.html" . }}
+  {{ end }}
+</section>
+
+{{ end }}
+
+{{ define "scripts" }}
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  // Pagefind search
+  new PagefindUI({
+    element: "#search",
+    showSubResults: false,
+    showImages: true,
+    resetStyles: false
+  });
+
+  // Feeling Lucky
+  document.getElementById('feeling-lucky').addEventListener('click', () => {
+    const cards = document.querySelectorAll('.recipe-card:not([hidden])');
+    if (cards.length > 0) {
+      const random = cards[Math.floor(Math.random() * cards.length)];
+      const link = random.querySelector('a');
+      if (link) window.location.href = link.href;
+    }
+  });
+
+  // Quality filter
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const cards = document.querySelectorAll('.recipe-card');
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      filterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      applyFilters();
+    });
+  });
+
+  // Ingredient filter
+  const ingredientInput = document.getElementById('ingredient-filter');
+  let debounceTimer;
+  ingredientInput.addEventListener('input', () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(applyFilters, 200);
+  });
+
+  function applyFilters() {
+    const quality = document.querySelector('.filter-btn.active').dataset.filter;
+    const ingredient = ingredientInput.value.toLowerCase().trim();
+
+    cards.forEach(card => {
+      const cardQuality = card.dataset.quality || '';
+      const cardText = (card.dataset.text || '').toLowerCase();
+
+      const matchesQuality = quality === 'all' || cardQuality === quality;
+      const matchesIngredient = !ingredient || cardText.includes(ingredient);
+
+      card.hidden = !(matchesQuality && matchesIngredient);
+    });
+  }
+</script>
+{{ end }}

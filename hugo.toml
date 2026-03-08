@@ -1,0 +1,15 @@
+baseURL = "https://recipes.luischav.es/"
+languageCode = "en"
+title = "Instagram Recipe Explorer"
+
+[params]
+  description = "A searchable collection of saved Instagram recipes"
+
+[taxonomies]
+  quality = "qualities"
+
+[outputs]
+  home = ["HTML"]
+
+[markup.goldmark.renderer]
+  unsafe = true

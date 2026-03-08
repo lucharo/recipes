@@ -1,0 +1,20 @@
+<div class="recipe-card" data-quality="{{ .Params.recipe_quality }}" data-text="{{ .Plain | truncate 500 }}">
+  <a href="{{ .RelPermalink }}" class="card-link">
+    <div class="card-img">
+      {{ with .Params.image }}
+      <img src="/{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ else }}
+      <img src="/img/noimage.jpg" alt="No image" loading="lazy">
+      {{ end }}
+      {{ if eq .Params.recipe_quality "video_only" }}
+      <span class="card-badge badge-video">Video</span>
+      {{ else if eq .Params.recipe_quality "complete" }}
+      <span class="card-badge badge-complete">Full Recipe</span>
+      {{ end }}
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{{ .Title | truncate 60 }}</h3>
+      <span class="card-author">@{{ .Params.author_handle }}</span>
+    </div>
+  </a>
+</div>

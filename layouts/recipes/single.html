@@ -1,0 +1,42 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<article class="recipe-page">
+  <div class="recipe-header">
+    <h1>{{ .Title }}</h1>
+    <div class="recipe-meta">
+      <span class="recipe-author">
+        Recipe by <a href="https://www.instagram.com/{{ .Params.author_handle }}/" target="_blank" rel="noopener">@{{ .Params.author_handle }}</a>
+        {{ with .Params.author_name }}({{ . }}){{ end }}
+      </span>
+      <a href="{{ .Params.post_url }}" class="btn btn-sm" target="_blank" rel="noopener">View on Instagram</a>
+    </div>
+    {{ if eq .Params.recipe_quality "video_only" }}
+    <div class="recipe-notice notice-video">
+      This recipe's instructions are in the video. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Watch on Instagram</a>
+    </div>
+    {{ else if eq .Params.recipe_quality "minimal" }}
+    <div class="recipe-notice notice-minimal">
+      This post has minimal recipe content. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Check the original post</a>
+    </div>
+    {{ end }}
+  </div>
+
+  <div class="recipe-content">
+    <div class="recipe-image">
+      {{ with .Params.image }}
+      <img src="/{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ else }}
+      <img src="/img/noimage.jpg" alt="No image available">
+      {{ end }}
+    </div>
+    <div class="recipe-text">
+      {{ .Content }}
+    </div>
+  </div>
+
+  <div class="recipe-footer">
+    <a href="/recipes/" class="btn">&larr; Back to all recipes</a>
+  </div>
+</article>
+{{ end }}
