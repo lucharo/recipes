@@ -6,6 +6,7 @@ authors: ["carolinagelen"]
 author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/DR0B05xj30K"
 image: "img/carolinagelen_03-12-2025_1926.png"
+recipe_link: "https://cooking.nytimes.com/recipes/1027204-pickle-latkes?unlocked_article_code=1.Cl4.cBa2.Lye00iPOPT8n"
 recipe_quality: "video_only"
 ---
 

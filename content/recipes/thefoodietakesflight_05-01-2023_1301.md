@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CnCRECKB5fX"
 image: "img/thefoodietakesflight_05-01-2023_1301.png"
+recipe_link: "https://thefoodietakesflight.com/taiwanese-style-popcorn-mushrooms-vegan-gluten-free-recipe/"
 recipe_quality: "ingredients_only"
 ---
 

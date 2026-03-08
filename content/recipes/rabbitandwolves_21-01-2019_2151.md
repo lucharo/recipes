@@ -6,6 +6,7 @@ authors: ["rabbitandwolves"]
 author_name: "Lauren Boehme"
 post_url: "https://instagram.com/p/Bs6Y_qPAHHo"
 image: "img/rabbitandwolves_21-01-2019_2151.png"
+recipe_link: "https://www.rabbitandwolves.com/vegan-spicy-thai-peanut-ramen/"
 recipe_quality: "minimal"
 ---
 

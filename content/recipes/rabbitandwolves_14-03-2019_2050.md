@@ -6,6 +6,7 @@ authors: ["rabbitandwolves"]
 author_name: "Lauren Boehme"
 post_url: "https://instagram.com/p/BvALS4mAwe7"
 image: "img/rabbitandwolves_14-03-2019_2050.png"
+recipe_link: "https://www.rabbitandwolves.com/vegan-general-"
 recipe_quality: "minimal"
 ---
 

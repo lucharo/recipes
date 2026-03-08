@@ -6,6 +6,7 @@ authors: ["rabbitandwolves"]
 author_name: "Lauren Boehme"
 post_url: "https://instagram.com/p/BvKidtbAbKb"
 image: "img/rabbitandwolves_18-03-2019_2103.png"
+recipe_link: "https://www.rabbitandwolves.com/vegan-creamy-polenta-red-wine-mushrooms/"
 recipe_quality: "minimal"
 ---
 

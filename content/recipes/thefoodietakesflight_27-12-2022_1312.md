@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CmrFAVmBZEt"
 image: "img/thefoodietakesflight_27-12-2022_1312.png"
+recipe_link: "https://thefoodietakesflight.com/korean-vegetable-pancake-yachae-jeon"
 recipe_quality: "ingredients_only"
 ---
 

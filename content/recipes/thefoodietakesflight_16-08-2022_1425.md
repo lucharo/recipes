@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ChUtnc3JUbT"
 image: "img/thefoodietakesflight_16-08-2022_1425.png"
+recipe_link: "https://thefoodietakesflight.com/pan-fried-tofu-with-chili-miso-sauce"
 recipe_quality: "ingredients_only"
 ---
 

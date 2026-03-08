@@ -10,6 +10,9 @@
         {{ with .Params.author_name }}({{ . }}){{ end }}
       </span>
       <a href="{{ .Params.post_url }}" class="btn btn-sm" target="_blank" rel="noopener">View on Instagram</a>
+      {{ with .Params.recipe_link }}
+      <a href="{{ . }}" class="btn btn-sm btn-accent" target="_blank" rel="noopener">Full recipe on website</a>
+      {{ end }}
     </div>
     {{ if eq .Params.recipe_quality "video_only" }}
     <div class="recipe-notice notice-video">

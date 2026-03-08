@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ClqwEnnpf-S"
 image: "img/thefoodietakesflight_02-12-2022_1312.png"
+recipe_link: "https://thefoodietakesflight.com/crispy-eggplant-katsu"
 recipe_quality: "ingredients_only"
 ---
 

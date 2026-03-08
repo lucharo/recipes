@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ClBlX4OJNek"
 image: "img/thefoodietakesflight_16-11-2022_1411.png"
+recipe_link: "https://thefoodietakesflight.com/vegan-thai-tom-yum-soup"
 recipe_quality: "ingredients_only"
 ---
 

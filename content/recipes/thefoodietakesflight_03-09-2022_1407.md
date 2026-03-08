@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CiDBULFJflZ"
 image: "img/thefoodietakesflight_03-09-2022_1407.png"
+recipe_link: "https://thefoodietakesflight.com/crispy-salt-and-pepper-tofu"
 recipe_quality: "ingredients_only"
 ---
 

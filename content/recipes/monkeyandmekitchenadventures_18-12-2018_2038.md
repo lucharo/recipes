@@ -6,6 +6,7 @@ authors: ["monkeyandmekitchenadventures"]
 author_name: "Ameera and Robin | Monkey & Me"
 post_url: "https://instagram.com/p/Brith7kB2fm"
 image: "img/monkeyandmekitchenadventures_18-12-2018_2038.png"
+recipe_link: "https://monkeyandmekitchenadventures.com/healthy-vegan-pecan-sandies/⁣"
 recipe_quality: "video_only"
 ---
 

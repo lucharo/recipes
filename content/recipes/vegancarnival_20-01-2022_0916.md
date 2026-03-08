@@ -6,6 +6,7 @@ authors: ["vegancarnival"]
 author_name: "🍅 Vegan Foodie 💚 Green Life"
 post_url: "https://instagram.com/p/CY8kE2yJmXj"
 image: "img/vegancarnival_20-01-2022_0916.png"
+recipe_link: "https://www.veganricha.com/lentil-brownies/"
 recipe_quality: "video_only"
 ---
 

@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ChKXswVpuiX"
 image: "img/thefoodietakesflight_12-08-2022_1404.png"
+recipe_link: "https://thefoodietakesflight.com/pan-fried-scallion-and-toasted-sesame-buns-vegan-recipe/"
 recipe_quality: "ingredients_only"
 ---
 

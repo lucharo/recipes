@@ -6,6 +6,7 @@ authors: ["wearefuturebites"]
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/BuL0o3rgL_2"
 image: "img/wearefuturebites_22-02-2019_1202.png"
+recipe_link: "https://www.lazycatkitchen.com/vegan-peanut-butter-mousse/?utm_campaign=later-linkinbio-lazycatkitchen&utm_content=later-1761552&utm_medium=social&utm_source=instagram"
 recipe_quality: "video_only"
 ---
 

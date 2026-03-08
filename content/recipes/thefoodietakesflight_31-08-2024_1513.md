@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/C_VsDRvJ6x4"
 image: "img/thefoodietakesflight_31-08-2024_1513.png"
+recipe_link: "https://thefoodietakesflight.com/spicy-garlic-and-herb-mushrooms-foil-bake"
 recipe_quality: "ingredients_only"
 ---
 

@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DPOyGiwCeUP"
 image: "img/thefoodietakesflight_30-09-2025_1515.png"
+recipe_link: "https://thefoodietakesflight.com/15-cozy-vegan-recipes-for-fall/"
 recipe_quality: "ingredients_only"
 ---
 

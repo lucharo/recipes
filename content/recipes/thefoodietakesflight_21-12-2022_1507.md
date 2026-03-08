@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CmbzY46hIAZ"
 image: "img/thefoodietakesflight_21-12-2022_1507.png"
+recipe_link: "https://thefoodietakesflight.com/baked-scalloped-potatoes-in-creamy-lemon-dill-sauce-vegan-recipe/"
 recipe_quality: "ingredients_only"
 ---
 

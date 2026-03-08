@@ -6,6 +6,7 @@ authors: ["sweetsimplevegan"]
 author_name: "Jasmine Briones"
 post_url: "https://instagram.com/p/CYuMKKnBnlM"
 image: "img/sweetsimplevegan_14-01-2022_1911.png"
+recipe_link: "https://sweetsimplevegan.com/2020/07/5-ingredient-gluten-free-flatbread"
 recipe_quality: "complete"
 ---
 

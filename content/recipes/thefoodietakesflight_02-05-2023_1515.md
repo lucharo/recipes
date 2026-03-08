@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CrvtNy4uJH-"
 image: "img/thefoodietakesflight_02-05-2023_1515.png"
+recipe_link: "https://thefoodietakesflight.com/cold-silken-tofu-with-sauce"
 recipe_quality: "ingredients_only"
 ---
 

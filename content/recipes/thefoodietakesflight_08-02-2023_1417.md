@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CoZ4naFJK2H"
 image: "img/thefoodietakesflight_08-02-2023_1417.png"
+recipe_link: "https://thefoodietakesflight.com/one-bowl-shoyu-udon-noodles"
 recipe_quality: "ingredients_only"
 ---
 

@@ -6,6 +6,7 @@ authors: ["thefeedfeed.vegan"]
 author_name: "FeedFeed | Vegan"
 post_url: "https://instagram.com/p/DIB2aSJRYxm"
 image: "img/thefeedfeed.vegan_04-04-2025_1500.png"
+recipe_link: "https://thefeedfeed.com/thefoodietakesflight/bulgogi-style-shredded-tofu"
 recipe_quality: "video_only"
 ---
 

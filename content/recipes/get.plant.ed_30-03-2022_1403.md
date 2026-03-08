@@ -6,6 +6,7 @@ authors: ["get.plant.ed"]
 author_name: "planted"
 post_url: "https://instagram.com/p/CbuwYp9hQey"
 image: "img/get.plant.ed_30-03-2022_1403.png"
+recipe_link: "https://okonomikitchen.com/rice-paper-dumplings/"
 recipe_quality: "ingredients_only"
 ---
 

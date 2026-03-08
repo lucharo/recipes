@@ -6,6 +6,7 @@ authors: ["woon.heng"]
 author_name: "WoonHeng Chia"
 post_url: "https://instagram.com/p/CVGXCx2pbVN"
 image: "img/woon.heng_16-10-2021_1810.png"
+recipe_link: "https://woonheng.com/vegan-roti-pisang-banana/⁣"
 recipe_quality: "complete"
 ---
 

@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CqAsEk3rXq7"
 image: "img/thefoodietakesflight_20-03-2023_1230.png"
+recipe_link: "https://thefoodietakesflight.com/air-fried-tofu-balls/"
 recipe_quality: "ingredients_only"
 ---
 

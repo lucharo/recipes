@@ -6,6 +6,7 @@ authors: ["cj.eats_"]
 author_name: "Chris Joe"
 post_url: "https://instagram.com/p/CbvWOaylTSA"
 image: "img/cj.eats__30-03-2022_1903.png"
+recipe_link: "https://www.cjeatsrecipes.com/post/bok-choy-with-garlic-sauce"
 recipe_quality: "video_only"
 ---
 

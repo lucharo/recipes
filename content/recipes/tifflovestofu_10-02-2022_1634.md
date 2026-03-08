@@ -6,6 +6,7 @@ authors: ["tifflovestofu"]
 author_name: "Tiffany Bach"
 post_url: "https://instagram.com/p/CZzbr9iJgfg"
 image: "img/tifflovestofu_10-02-2022_1634.png"
+recipe_link: "https://tifflovestofu.com/side/vietnamese-sate-sauce-lemongrass-chili-oil/"
 recipe_quality: "video_only"
 ---
 

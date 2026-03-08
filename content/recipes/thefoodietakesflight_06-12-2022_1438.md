@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Cl1FtrXJKIy"
 image: "img/thefoodietakesflight_06-12-2022_1438.png"
+recipe_link: "http://www.thefoodietakesflight.com/tofu-giniling"
 recipe_quality: "ingredients_only"
 ---
 

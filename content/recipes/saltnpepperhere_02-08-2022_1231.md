@@ -6,6 +6,7 @@ authors: ["saltnpepperhere"]
 author_name: "sonia wong"
 post_url: "https://instagram.com/p/Cgwc1Uoga22"
 image: "img/saltnpepperhere_02-08-2022_1231.png"
+recipe_link: "https://www.foodnetwork.ca/recipe/sweet-corn-mochi-cake/"
 recipe_quality: "video_only"
 ---
 

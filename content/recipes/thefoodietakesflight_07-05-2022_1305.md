@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CdQjPstJoCu"
 image: "img/thefoodietakesflight_07-05-2022_1305.png"
+recipe_link: "https://thefoodietakesflight.com/mango-sticky-rice"
 recipe_quality: "ingredients_only"
 ---
 

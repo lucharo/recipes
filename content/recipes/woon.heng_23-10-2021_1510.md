@@ -6,6 +6,7 @@ authors: ["woon.heng"]
 author_name: "WoonHeng Chia"
 post_url: "https://instagram.com/p/CVYDxvRFbGq"
 image: "img/woon.heng_23-10-2021_1510.png"
+recipe_link: "https://woonheng.com/vegan-sesame-chicken/⁣"
 recipe_quality: "ingredients_only"
 ---
 

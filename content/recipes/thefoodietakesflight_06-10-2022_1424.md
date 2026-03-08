@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CjYCIIGJkfM"
 image: "img/thefoodietakesflight_06-10-2022_1424.png"
+recipe_link: "https://thefoodietakesflight.com/tofu-chicken-teriyaki"
 recipe_quality: "ingredients_only"
 ---
 

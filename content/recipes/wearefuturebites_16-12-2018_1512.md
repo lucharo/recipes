@@ -6,6 +6,7 @@ authors: ["wearefuturebites"]
 author_name: "Future Bites"
 post_url: "https://instagram.com/p/BrdBOO0gxgP"
 image: "img/noimage.jpg"
+recipe_link: "https://www.lazycatkitchen.com/vegan-wellington/"
 recipe_quality: "video_only"
 ---
 

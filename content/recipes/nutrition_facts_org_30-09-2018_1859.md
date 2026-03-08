@@ -6,6 +6,7 @@ authors: ["nutrition_facts_org"]
 author_name: "NutritionFacts.org"
 post_url: "https://instagram.com/p/BoXHaUgn9gv"
 image: "img/nutrition_facts_org_30-09-2018_1859.png"
+recipe_link: "https://nutritionfacts.org/book/"
 recipe_quality: "complete"
 ---
 

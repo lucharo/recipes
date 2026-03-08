@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Clbc5-mpcFs"
 image: "img/thefoodietakesflight_26-11-2022_1511.png"
+recipe_link: "https://thefoodietakesflight.com/chinese-green-beans-and-mushroom-stir-fry/"
 recipe_quality: "ingredients_only"
 ---
 

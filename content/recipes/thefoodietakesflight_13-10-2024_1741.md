@@ -6,6 +6,7 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DBEq4G9Si8D"
 image: "img/thefoodietakesflight_13-10-2024_1741.png"
+recipe_link: "http://www.thefoodietakesflight.com/mapo-tofu-vegan"
 recipe_quality: "ingredients_only"
 ---
 
