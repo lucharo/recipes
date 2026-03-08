@@ -1,4 +1,7 @@
 site/
+public/
+resources/
+static/pagefind/
 .venv/
 .env
 .ig_session.json

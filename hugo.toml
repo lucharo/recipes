@@ -1,0 +1,16 @@
+baseURL = "https://testkitchen.luischav.es/"
+languageCode = "en"
+title = "Instagram Recipe Explorer"
+
+[params]
+  description = "A searchable collection of saved Instagram recipes"
+
+[taxonomies]
+  quality = "qualities"
+  author = "authors"
+
+[outputs]
+  home = ["HTML"]
+
+[markup.goldmark.renderer]
+  unsafe = true

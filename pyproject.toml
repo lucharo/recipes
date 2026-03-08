@@ -1,17 +1,13 @@
 [project]
 name = "recipes"
 version = "0.1.0"
-description = "Fetch saved recipes from Instagram, parse the posts and create markdown documents. Then a searchable website is built on top of this."
+description = "Fetch saved recipes from Instagram and build a Hugo static site."
 readme = "README.md"
 requires-python = ">=3.11"
 authors = [{ name = "Luis Chaves" }]
 dependencies = [
-    "instagrapi",
     "jinja2",
-    "mkdocs-git-revision-date-localized-plugin",
-    "mkdocs-material",
     "pillow",
-    "python-dotenv",
     "requests",
     "tqdm",
 ]

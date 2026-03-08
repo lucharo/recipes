@@ -1,0 +1,27 @@
+{{ define "title" }}Authors | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<section class="hero">
+  <h1>Authors</h1>
+  <p class="hero-sub">{{ len .Data.Terms }} Instagram creators whose recipes are saved here.</p>
+</section>
+
+<section class="author-grid">
+  {{ range .Data.Terms.ByCount }}
+  {{ $firstPost := index .Pages 0 }}
+  <a href="{{ .Page.RelPermalink }}" class="author-card">
+    <div class="author-card-thumb">
+      {{ with $firstPost.Params.image }}
+      <img src="/{{ . }}" alt="@{{ $.Page.Title }}" loading="lazy">
+      {{ else }}
+      <img src="/img/noimage.jpg" alt="No image" loading="lazy">
+      {{ end }}
+    </div>
+    <div class="author-card-info">
+      <span class="author-card-handle">@{{ .Page.Title }}</span>
+      <span class="author-card-count">{{ .Count }} recipe{{ if ne .Count 1 }}s{{ end }}</span>
+    </div>
+  </a>
+  {{ end }}
+</section>
+{{ end }}

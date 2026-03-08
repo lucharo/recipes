@@ -1,0 +1,55 @@
+{{ define "title" }}Recipes | {{ .Site.Title }}{{ end }}
+
+{{ define "head" }}
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+{{ end }}
+
+{{ define "main" }}
+<section class="hero hero-left">
+  <h1>Searchable Instagram Recipe Collection</h1>
+  <p class="hero-about">I find Instagram to be a wonderful place to find and save recipes. Alas, Instagram collections are not searchable, so I made this tool to search my personal Instagram recipe collection.</p>
+  <p class="hero-sub">{{ len .Pages }} saved recipes, searchable and browsable. The "tried and tested" recipes go to <a href="https://cook.luischav.es/" target="_blank" rel="noopener">cook.luischav.es ↗</a></p>
+</section>
+
+<section class="controls">
+  <div class="search-wrap">
+    <div id="search"></div>
+  </div>
+  <button class="btn btn-accent" id="feeling-lucky">Feeling Lucky — pick a random recipe</button>
+</section>
+
+<section class="recipe-grid" id="recipe-grid">
+  {{ range .Pages.ByDate.Reverse }}
+  {{ partial "recipe-card.html" . }}
+  {{ end }}
+</section>
+
+{{ end }}
+
+{{ define "scripts" }}
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  // Pagefind search (may not be available in dev)
+  try {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: false,
+      showImages: true,
+      resetStyles: false
+    });
+  } catch(e) {
+    document.getElementById('search').innerHTML = '<p style="color:#6b7280;font-size:0.9rem;">Search available on the deployed site (requires Pagefind build).</p>';
+  }
+
+  // Feeling Lucky
+  document.getElementById('feeling-lucky').addEventListener('click', function() {
+    var cards = document.querySelectorAll('.recipe-card:not([hidden])');
+    if (cards.length > 0) {
+      var random = cards[Math.floor(Math.random() * cards.length)];
+      var link = random.querySelector('a.card-link');
+      if (link) window.location.href = link.href;
+    }
+  });
+
+</script>
+{{ end }}

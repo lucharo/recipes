@@ -4,11 +4,13 @@ I love discovering recipes on Instagram, but they quickly add up and it becomes 
 
 In this repo and website we achieve the following:
 
-* Fetch saved recipes from Instagram collections via `instagrapi`
+* Export saved recipe posts from Instagram via browser API
 * Turn each post into a markdown document using a `jinja2` template
-* Build a minimalist searchable page with `mkdocs-material`
+* Build a searchable static site with Hugo, featuring side-by-side recipe layouts, ingredient filtering, and a "Feeling Lucky" button
 
-The main reason I did this is to get the search bar that mkdocs provides. If you want to explore the recipes I have saved, visit: <https://testkitchen.luischav.es>
+Visit the site: <https://testkitchen.luischav.es>
+
+The "tried and tested" recipes go to [cook.luischav.es](https://cook.luischav.es/).
 
 ## Setup
 
@@ -16,57 +18,40 @@ The main reason I did this is to get the search bar that mkdocs provides. If you
 uv sync
 ```
 
+Requires [Hugo](https://gohugo.io/installation/) for site building.
+
 ## Fetch recipes
 
-Set your Instagram credentials in `.env`:
-
-```
-IG_USER=your_username
-IG_PSWD=your_password
-```
-
-Then fetch:
+1. Log into instagram.com in Chrome
+2. Open browser console (F12)
+3. Paste and run the fetch script (see `fetch_saved_posts.js`)
+4. A JSON file will be downloaded automatically
+5. Run:
 
 ```sh
-# Fetch from all saved collections (skips existing recipes)
-uv run python fetch_recipes.py
+# Process exported JSON into Hugo content
+uv run python fetch_recipes.py --from-json instagram_saved_posts.json
 
-# Fetch from a specific collection only
-uv run python fetch_recipes.py --collection "Recipes"
+# Preview what would be created
+uv run python fetch_recipes.py --from-json instagram_saved_posts.json --dry-run
 
-# Overwrite all existing recipes
-uv run python fetch_recipes.py --force
-
-# Preview what would be fetched
-uv run python fetch_recipes.py --dry-run
-
-# Just rebuild the index without fetching
-uv run python fetch_recipes.py --rebuild-index-only
+# Overwrite existing recipes
+uv run python fetch_recipes.py --from-json instagram_saved_posts.json --force
 ```
 
-## Build & publish site
-
-**Build locally:**
+## Build & preview site
 
 ```sh
-uv run mkdocs build
+# Preview locally
+hugo server
+
+# Build for production
+hugo --minify
+
+# Build with search (requires npx/Node)
+hugo --minify && npx pagefind --site public
 ```
 
-**Preview locally:**
+## Deploy
 
-```sh
-uv run mkdocs serve
-```
-
-**Publish to GitHub Pages:**
-
-```sh
-uv run mkdocs gh-deploy
-```
-
-## TODO
-
-* Add tags to recipes that I have tried, perhaps as markdown metadata
-* Add I'm feeling lucky button
-* Add js/ts logic to easily scale recipes linearly
-* Do more advanced parsing of recipes - maybe with an LLM
+Deployment to GitHub Pages is handled automatically via GitHub Actions on push to `main`.

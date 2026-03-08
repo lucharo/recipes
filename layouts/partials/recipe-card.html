@@ -1,0 +1,27 @@
+<div class="recipe-card">
+  <a href="{{ .RelPermalink }}" class="card-link">
+    <div class="card-img">
+      {{ with .Params.image }}
+      <img src="/{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ else }}
+      <img src="/img/noimage.jpg" alt="No image" loading="lazy">
+      {{ end }}
+      {{ if eq .Params.recipe_quality "complete" }}
+      <span class="card-badge badge-complete">Full Recipe</span>
+      {{ else if eq .Params.recipe_quality "video_only" }}
+      <span class="card-badge badge-video">Video</span>
+      {{ else if eq .Params.recipe_quality "ingredients_only" }}
+      <span class="card-badge badge-ingredients">Has Ingredients</span>
+      {{ end }}
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{{ .Title | truncate 60 }}</h3>
+    </div>
+  </a>
+  {{ with .Params.author_handle }}
+  <div class="card-footer">
+    <a href="/authors/{{ . }}/" class="card-author">@{{ . }}</a>
+    <a href="https://www.instagram.com/{{ . }}/" class="card-ig-link" target="_blank" rel="noopener" title="View on Instagram">IG</a>
+  </div>
+  {{ end }}
+</div>
