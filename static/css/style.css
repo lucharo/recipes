@@ -86,9 +86,18 @@ img { max-width: 100%; height: auto; display: block; }
   margin-bottom: 0.5rem;
 }
 
+.hero-about {
+  max-width: 640px;
+  margin: 0.75rem auto 0;
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+}
+
 .hero-sub {
   font-size: 1.1rem;
   color: var(--color-text-muted);
+  margin-top: 0.75rem;
 }
 
 .hero-note {
@@ -209,7 +218,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .card-img {
   position: relative;
-  aspect-ratio: 1;
+  aspect-ratio: 4/3;
   overflow: hidden;
 }
 .card-img img {

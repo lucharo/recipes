@@ -6,7 +6,8 @@
 
 {{ define "main" }}
 <section class="hero">
-  <h1>Instagram Recipe Collection</h1>
+  <h1>Searchable Instagram Recipe Collection</h1>
+  <p class="hero-about">I find Instagram to be a wonderful place to find and save recipes. Alas, Instagram collections are not searchable, so I made this tool to search my personal Instagram recipe collection.</p>
   <p class="hero-sub">{{ len .Pages }} saved recipes, searchable and browsable.</p>
   <p class="hero-note">The "tried and tested" recipes go to <a href="https://cook.luischav.es/">cook.luischav.es</a></p>
 </section>
@@ -34,34 +35,38 @@
 {{ define "scripts" }}
 <script src="/pagefind/pagefind-ui.js"></script>
 <script>
-  // Pagefind search
-  new PagefindUI({
-    element: "#search",
-    showSubResults: false,
-    showImages: true,
-    resetStyles: false
-  });
+  // Pagefind search (may not be available in dev)
+  try {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: false,
+      showImages: true,
+      resetStyles: false
+    });
+  } catch(e) {
+    document.getElementById('search').innerHTML = '<p style="color:#6b7280;font-size:0.9rem;">Search available on the deployed site (requires Pagefind build).</p>';
+  }
 
   // Feeling Lucky
-  document.getElementById('feeling-lucky').addEventListener('click', () => {
-    const cards = document.querySelectorAll('.recipe-card:not([hidden])');
+  document.getElementById('feeling-lucky').addEventListener('click', function() {
+    var cards = document.querySelectorAll('.recipe-card:not([hidden])');
     if (cards.length > 0) {
-      const random = cards[Math.floor(Math.random() * cards.length)];
-      const link = random.querySelector('a.card-link');
+      var random = cards[Math.floor(Math.random() * cards.length)];
+      var link = random.querySelector('a.card-link');
       if (link) window.location.href = link.href;
     }
   });
 
   // Ingredient filter
-  const cards = document.querySelectorAll('.recipe-card');
-  const ingredientInput = document.getElementById('ingredient-filter');
-  let debounceTimer;
-  ingredientInput.addEventListener('input', () => {
+  var allCards = document.querySelectorAll('.recipe-card');
+  var ingredientInput = document.getElementById('ingredient-filter');
+  var debounceTimer;
+  ingredientInput.addEventListener('input', function() {
     clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => {
-      const ingredient = ingredientInput.value.toLowerCase().trim();
-      cards.forEach(card => {
-        const cardText = (card.dataset.text || '').toLowerCase();
+    debounceTimer = setTimeout(function() {
+      var ingredient = ingredientInput.value.toLowerCase().trim();
+      allCards.forEach(function(card) {
+        var cardText = (card.dataset.text || '').toLowerCase();
         card.hidden = ingredient && !cardText.includes(ingredient);
       });
     }, 200);
