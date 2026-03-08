@@ -117,27 +117,12 @@ img { max-width: 100%; height: auto; display: block; }
   padding: 0 1.5rem 1.5rem;
 }
 
-.search-row {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
+.search-wrap {
   margin-bottom: 0.75rem;
 }
 
-.search-row .search-wrap {
-  flex: 1;
-}
-
-.search-row .btn-accent {
-  white-space: nowrap;
-  font-size: 0.9rem;
-  padding: 0 1.5rem;
-  border-radius: var(--radius);
-  height: var(--pagefind-input-height, 58px);
-}
-
-.search-wrap {
-  margin-bottom: 0;
+#feeling-lucky {
+  margin-bottom: 1rem;
 }
 
 /* Pagefind overrides */
@@ -456,18 +441,6 @@ img { max-width: 100%; height: auto; display: block; }
   .recipe-grid {
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
     gap: 0.75rem;
-  }
-
-  .search-row {
-    flex-direction: column;
-  }
-
-  .search-row .btn-accent {
-    width: 100%;
-    height: auto !important;
-    padding: 0.6rem 1rem;
-    text-align: center;
-    justify-content: center;
   }
 
   .recipe-meta {

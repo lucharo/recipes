@@ -12,12 +12,10 @@
 </section>
 
 <section class="controls">
-  <div class="search-row">
-    <div class="search-wrap">
-      <div id="search"></div>
-    </div>
-    <button class="btn btn-accent" id="feeling-lucky" title="Open a random recipe">Feeling Lucky</button>
+  <div class="search-wrap">
+    <div id="search"></div>
   </div>
+  <button class="btn btn-accent" id="feeling-lucky">Feeling Lucky — pick a random recipe</button>
 </section>
 
 <section class="recipe-grid" id="recipe-grid">
@@ -42,22 +40,6 @@
   } catch(e) {
     document.getElementById('search').innerHTML = '<p style="color:#6b7280;font-size:0.9rem;">Search available on the deployed site (requires Pagefind build).</p>';
   }
-
-  // Match Feeling Lucky button height to Pagefind input (desktop only)
-  function syncButtonHeight() {
-    var pagefindInput = document.querySelector('.pagefind-ui__search-input');
-    var luckyBtn = document.getElementById('feeling-lucky');
-    if (pagefindInput && luckyBtn && window.innerWidth > 768) {
-      var h = pagefindInput.offsetHeight;
-      luckyBtn.style.height = h + 'px';
-      luckyBtn.style.lineHeight = h + 'px';
-    } else if (luckyBtn) {
-      luckyBtn.style.height = '';
-      luckyBtn.style.lineHeight = '';
-    }
-  }
-  setTimeout(syncButtonHeight, 100);
-  window.addEventListener('resize', syncButtonHeight);
 
   // Feeling Lucky
   document.getElementById('feeling-lucky').addEventListener('click', function() {
