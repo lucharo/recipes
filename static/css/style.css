@@ -226,7 +226,6 @@ img { max-width: 100%; height: auto; display: block; }
 .badge-complete { background: var(--color-badge-complete); color: #fff; }
 .badge-video { background: var(--color-badge-video); color: #fff; }
 .badge-ingredients { background: #2563eb; color: #fff; }
-.badge-minimal { background: var(--color-text-muted); color: #fff; }
 
 .card-body { padding: 0.75rem; }
 
@@ -314,6 +313,7 @@ img { max-width: 100%; height: auto; display: block; }
   font-size: 0.875rem;
 }
 .notice-video { background: var(--color-notice-video); color: #5b21b6; }
+.notice-ingredients { background: #dbeafe; color: #1e40af; }
 .notice-minimal { background: var(--color-notice-minimal); color: #92400e; }
 
 /* Side-by-side layout */

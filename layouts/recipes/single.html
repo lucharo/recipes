@@ -21,6 +21,10 @@
     <div class="recipe-notice notice-video">
       This post doesn't contain a useful recipe description — the instructions are in the video. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Watch the video on Instagram ↗</a>
     </div>
+    {{ else if eq .Params.recipe_quality "ingredients_only" }}
+    <div class="recipe-notice notice-ingredients">
+      This post lists the ingredients but not the cooking method — <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">watch the video for instructions ↗</a>
+    </div>
     {{ else if eq .Params.recipe_quality "minimal" }}
     <div class="recipe-notice notice-minimal">
       This post has minimal recipe content. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Check the original post ↗</a>

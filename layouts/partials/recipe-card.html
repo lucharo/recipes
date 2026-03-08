@@ -9,11 +9,9 @@
       {{ if eq .Params.recipe_quality "complete" }}
       <span class="card-badge badge-complete">Full Recipe</span>
       {{ else if eq .Params.recipe_quality "video_only" }}
-      <span class="card-badge badge-video">Video Only</span>
+      <span class="card-badge badge-video">Video</span>
       {{ else if eq .Params.recipe_quality "ingredients_only" }}
-      <span class="card-badge badge-ingredients">Ingredients Only</span>
-      {{ else if eq .Params.recipe_quality "minimal" }}
-      <span class="card-badge badge-minimal">Minimal</span>
+      <span class="card-badge badge-ingredients">Has Ingredients</span>
       {{ end }}
     </div>
     <div class="card-body">
