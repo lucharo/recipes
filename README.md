@@ -6,7 +6,7 @@ In this repo and website we achieve the following:
 
 * Export saved recipe posts from Instagram via browser API
 * Turn each post into a markdown document using a `jinja2` template
-* Build a searchable static site with Hugo, featuring side-by-side recipe layouts and ingredient filtering
+* Build a searchable static site with Hugo, featuring side-by-side recipe layouts, ingredient filtering, and a "Feeling Lucky" button
 
 Visit the site: <https://testkitchen.luischav.es>
 
