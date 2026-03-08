@@ -119,7 +119,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .search-row {
   display: flex;
-  align-items: flex-start;
+  align-items: stretch;
   gap: 0.75rem;
   margin-bottom: 0.75rem;
 }
@@ -130,7 +130,10 @@ img { max-width: 100%; height: auto; display: block; }
 
 .search-row .btn-accent {
   white-space: nowrap;
-  margin-top: 2px;
+  font-size: 0.9rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius);
+  align-self: flex-start;
 }
 
 .search-wrap {
@@ -144,25 +147,6 @@ img { max-width: 100%; height: auto; display: block; }
   --pagefind-ui-border: var(--color-border);
   --pagefind-ui-border-radius: var(--radius);
   --pagefind-ui-font: var(--font-sans);
-}
-
-.ingredient-search-wrap { margin-bottom: 0.5rem; }
-
-.ingredient-input {
-  width: 100%;
-  max-width: 480px;
-  padding: 0.6rem 1rem;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius);
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-  background: var(--color-surface);
-  transition: border-color 0.15s;
-}
-.ingredient-input:focus {
-  outline: none;
-  border-color: var(--color-accent);
-  box-shadow: 0 0 0 3px rgba(217, 119, 6, 0.12);
 }
 
 /* Buttons */

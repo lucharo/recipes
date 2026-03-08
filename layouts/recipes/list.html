@@ -18,9 +18,6 @@
     </div>
     <button class="btn btn-accent" id="feeling-lucky" title="Open a random recipe">Feeling Lucky</button>
   </div>
-  <div class="ingredient-search-wrap">
-    <input type="text" id="ingredient-filter" placeholder="Filter by ingredient (e.g. chickpea, tofu, lemon...)" class="ingredient-input">
-  </div>
 </section>
 
 <section class="recipe-grid" id="recipe-grid">
@@ -56,19 +53,5 @@
     }
   });
 
-  // Ingredient filter
-  var allCards = document.querySelectorAll('.recipe-card');
-  var ingredientInput = document.getElementById('ingredient-filter');
-  var debounceTimer;
-  ingredientInput.addEventListener('input', function() {
-    clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(function() {
-      var ingredient = ingredientInput.value.toLowerCase().trim();
-      allCards.forEach(function(card) {
-        var cardText = (card.dataset.text || '').toLowerCase();
-        card.hidden = ingredient && !cardText.includes(ingredient);
-      });
-    }, 200);
-  });
 </script>
 {{ end }}
