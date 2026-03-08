@@ -9,18 +9,18 @@
         Recipe by {{ with .Params.author_handle }}<a href="/authors/{{ . }}/">@{{ . }}</a>{{ end }}
         {{ with .Params.author_name }}({{ . }}){{ end }}
       </span>
-      <a href="{{ .Params.post_url }}" class="btn btn-sm" target="_blank" rel="noopener">View on Instagram</a>
+      <a href="{{ .Params.post_url }}" class="btn btn-sm" target="_blank" rel="noopener">View on Instagram ↗</a>
       {{ with .Params.recipe_link }}
-      <a href="{{ . }}" class="btn btn-sm btn-accent" target="_blank" rel="noopener">Full recipe on website</a>
+      <a href="{{ . }}" class="btn btn-sm btn-accent" target="_blank" rel="noopener">Full recipe on website ↗</a>
       {{ end }}
     </div>
     {{ if eq .Params.recipe_quality "video_only" }}
     <div class="recipe-notice notice-video">
-      This post doesn't contain a useful recipe description — the instructions are in the video. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Watch the video on Instagram</a>
+      This post doesn't contain a useful recipe description — the instructions are in the video. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Watch the video on Instagram ↗</a>
     </div>
     {{ else if eq .Params.recipe_quality "minimal" }}
     <div class="recipe-notice notice-minimal">
-      This post has minimal recipe content. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Check the original post</a>
+      This post has minimal recipe content. <a href="{{ .Params.post_url }}" target="_blank" rel="noopener">Check the original post ↗</a>
     </div>
     {{ end }}
   </div>
