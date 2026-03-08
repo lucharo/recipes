@@ -44,13 +44,16 @@
   }
 
   // Match Feeling Lucky button height to Pagefind input
-  requestAnimationFrame(function() {
-    var pagefindForm = document.querySelector('.pagefind-ui__form');
+  setTimeout(function() {
+    var pagefindInput = document.querySelector('.pagefind-ui__search-input');
     var luckyBtn = document.getElementById('feeling-lucky');
-    if (pagefindForm && luckyBtn) {
-      luckyBtn.style.height = pagefindForm.offsetHeight + 'px';
+    if (pagefindInput && luckyBtn) {
+      var h = pagefindInput.offsetHeight;
+      luckyBtn.style.height = h + 'px';
+      luckyBtn.style.lineHeight = h + 'px';
+      luckyBtn.style.padding = '0 1.5rem';
     }
-  });
+  }, 100);
 
   // Feeling Lucky
   document.getElementById('feeling-lucky').addEventListener('click', function() {
