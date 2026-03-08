@@ -83,9 +83,14 @@ def process_post(
     thumbnail_url = post.get("thumbnail_url")
     try:
         if thumbnail_url and (not img_path.exists() or force):
-            img_data = requests.get(thumbnail_url, timeout=30).content
-            img_path.write_bytes(img_data)
-    except Exception:
+            resp = requests.get(
+                thumbnail_url, timeout=30,
+                headers={"User-Agent": "Mozilla/5.0"},
+            )
+            resp.raise_for_status()
+            img_path.write_bytes(resp.content)
+    except (requests.RequestException, OSError) as exc:
+        print(f"  Warning: failed to download image for {fname}: {exc}")
         image_rel = "img/noimage.jpg"
 
     if not img_path.exists():
