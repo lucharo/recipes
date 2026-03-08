@@ -6,13 +6,16 @@
     <h1>{{ .Title }}</h1>
     <div class="recipe-meta">
       <span class="recipe-author">
-        Recipe by {{ with .Params.author_handle }}<a href="/authors/{{ . }}/">@{{ . }}</a>{{ end }}
+        Recipe by {{ with .Params.author_handle }}<a href="https://www.instagram.com/{{ . }}/" target="_blank" rel="noopener">@{{ . }}</a>{{ end }}
         {{ with .Params.author_name }}({{ . }}){{ end }}
       </span>
-      <a href="{{ .Params.post_url }}" class="btn btn-sm" target="_blank" rel="noopener">View on Instagram ↗</a>
-      {{ with .Params.recipe_link }}
-      <a href="{{ . }}" class="btn btn-sm btn-accent" target="_blank" rel="noopener">Full recipe on website ↗</a>
-      {{ end }}
+      <span class="recipe-meta-links">
+        {{ with .Params.author_handle }}<a href="/authors/{{ . }}/" class="btn btn-sm">See their other recipes</a>{{ end }}
+        <a href="{{ .Params.post_url }}" class="btn btn-sm" target="_blank" rel="noopener">View on Instagram ↗</a>
+        {{ with .Params.recipe_link }}
+        <a href="{{ . }}" class="btn btn-sm btn-accent" target="_blank" rel="noopener">Full recipe on website ↗</a>
+        {{ end }}
+      </span>
     </div>
     {{ if eq .Params.recipe_quality "video_only" }}
     <div class="recipe-notice notice-video">
