@@ -4,8 +4,8 @@
 <section class="author-page">
   <div class="author-header">
     <h1>@{{ .Title }}</h1>
-    <p class="author-stats">{{ len .Pages }} recipe{{ if ne (len .Pages) 1 }}s{{ end }}</p>
-    <a href="https://www.instagram.com/{{ .Title }}/" class="btn btn-sm" target="_blank" rel="noopener">View on Instagram</a>
+    <p class="author-stats">{{ len .Pages }} recipe{{ if ne (len .Pages) 1 }}s{{ end }} saved from this creator</p>
+    <a href="https://www.instagram.com/{{ .Title }}/" class="btn btn-sm btn-ig" target="_blank" rel="noopener">View @{{ .Title }} on Instagram</a>
   </div>
 
   <section class="recipe-grid">
