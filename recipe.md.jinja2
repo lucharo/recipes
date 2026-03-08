@@ -1,14 +1,11 @@
 ---
-posted on: {{ POST_DATE }}
-hide:
-    - navigation
+title: "{{ TITLE | replace('"', '\\"') }}"
+date: {{ POST_DATE }}
+author_handle: "{{ AUTHOR_HANDLE }}"
+author_name: "{{ AUTHOR_NAME | replace('"', '\\"') }}"
+post_url: "{{ POST_URL }}"
+image: "{{ IMAGE_PATH }}"
+recipe_quality: ""
 ---
 
-# {{ TITLE }} 
-
-> recipe by [@{{ AUTHOR_HANDLE }}](https://www.instagram.com/{{ AUTHOR_HANDLE }}/) 
-({{ AUTHOR_NAME }}) - [see original post]({{ POST_URL }})
-
-![](../{{ IMAGE_PATH }})
-
-{{ RECIPE_BODY }} 
+{{ RECIPE_BODY }}

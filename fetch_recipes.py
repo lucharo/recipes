@@ -1,4 +1,4 @@
-"""Fetch saved Instagram recipes and generate markdown files + index.
+"""Fetch saved Instagram recipes and generate Hugo content.
 
 Primary workflow:
   1. Export saved posts from Instagram via browser (see fetch_saved_posts.js)
@@ -16,12 +16,9 @@ import requests
 import tqdm
 
 ROOT = Path(__file__).parent
-DOCS = ROOT / "docs"
-POSTS_DIR = DOCS / "posts"
-IMG_DIR = DOCS / "img"
+CONTENT_DIR = ROOT / "content" / "recipes"
+IMG_DIR = ROOT / "static" / "img"
 RECIPE_TEMPLATE = ROOT / "recipe.md.jinja2"
-INDEX_TEMPLATE = ROOT / "index.j2"
-INDEX_OUT = DOCS / "index.md"
 
 
 def parse_args() -> argparse.Namespace:
@@ -40,11 +37,6 @@ def parse_args() -> argparse.Namespace:
         "--dry-run",
         action="store_true",
         help="Show what would be fetched without writing anything",
-    )
-    parser.add_argument(
-        "--rebuild-index-only",
-        action="store_true",
-        help="Skip fetching; just rebuild docs/index.md from existing posts",
     )
     return parser.parse_args()
 
@@ -73,11 +65,11 @@ def process_post(
 ) -> str | None:
     """Process a single post. Returns filename if written, None if skipped."""
     fname = make_filename(post)
-    md_path = POSTS_DIR / f"{fname}.md"
+    md_path = CONTENT_DIR / f"{fname}.md"
     img_path = IMG_DIR / f"{fname}.png"
 
     if md_path.exists() and not force:
-        return None  # skip existing
+        return None
 
     caption = post.get("caption_text") or ""
     caption_lines = caption.split("\n")
@@ -87,7 +79,6 @@ def process_post(
         print(f"  [dry-run] Would write: {fname}.md — {title[:60]}")
         return fname
 
-    # Download image
     image_rel = f"img/{fname}.png"
     thumbnail_url = post.get("thumbnail_url")
     try:
@@ -100,19 +91,15 @@ def process_post(
     if not img_path.exists():
         image_rel = "img/noimage.jpg"
 
-    # Parse caption
     body_lines = caption_lines[1:]
-    text = "\n".join(f"{line}  " for line in body_lines)
-    text = text.replace("#", "\\#")
+    text = "\n".join(body_lines)
 
-    # Build post date
     taken_at = post["taken_at"]
     if isinstance(taken_at, (int, float)):
         post_date = datetime.fromtimestamp(taken_at, tz=timezone.utc)
     else:
         post_date = datetime.fromisoformat(str(taken_at))
 
-    # Render markdown
     rendered = template.render(
         POST_DATE=post_date,
         TITLE=title,
@@ -127,53 +114,11 @@ def process_post(
     return fname
 
 
-def rebuild_index() -> int:
-    """Rebuild docs/index.md from all existing post files. Returns recipe count."""
-    posts = sorted(POSTS_DIR.glob("*.md"))
-    cards = []
-    for post_path in posts:
-        fname = post_path.stem
-        img_path = IMG_DIR / f"{fname}.png"
-        image_rel = f"img/{fname}.png" if img_path.exists() else "img/noimage.jpg"
-
-        # Read first heading line from the file for the title
-        title = fname  # fallback
-        for line in post_path.read_text(encoding="utf-8").splitlines():
-            if line.startswith("# "):
-                title = line[2:].strip()
-                break
-
-        # Extract author handle from filename (everything before the date pattern)
-        parts = fname.rsplit("_", 2)
-        author = parts[0] if len(parts) >= 3 else fname
-
-        card = (
-            f'- [![]({image_rel}){{: style="width:100%;height:200px;'
-            f'object-fit: cover;object-position: center;" }}](posts/{fname}.md)  \n'
-            f"        **@{author}** - {title[:50]} [Read more...](posts/{fname}.md)"
-        )
-        cards.append(card)
-
-    recipe_md = "\n".join(cards)
-
-    template_text = INDEX_TEMPLATE.read_text(encoding="utf-8")
-    template = jinja2.Template(template_text)
-    index_content = template.render(RECIPE_MD=recipe_md, RECIPE_COUNT=len(cards))
-    INDEX_OUT.write_text(index_content, encoding="utf-8")
-
-    return len(cards)
-
-
 def main():
     args = parse_args()
 
-    POSTS_DIR.mkdir(parents=True, exist_ok=True)
+    CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     IMG_DIR.mkdir(parents=True, exist_ok=True)
-
-    if args.rebuild_index_only:
-        count = rebuild_index()
-        print(f"Index rebuilt with {count} recipes.")
-        return
 
     if not args.from_json:
         print("Usage: uv run python fetch_recipes.py --from-json instagram_saved_posts.json")
@@ -201,11 +146,7 @@ def main():
         else:
             skip_count += 1
 
-    if not args.dry_run:
-        total = rebuild_index()
-        print(f"\nDone! {new_count} new, {skip_count} skipped, {total} total in index.")
-    else:
-        print(f"\n[dry-run] Would fetch {new_count} new, {skip_count} already exist.")
+    print(f"\nDone! {new_count} new, {skip_count} skipped.")
 
 
 if __name__ == "__main__":
