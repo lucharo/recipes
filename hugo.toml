@@ -12,5 +12,7 @@ title = "Instagram Recipe Explorer"
 [outputs]
   home = ["HTML"]
 
+# Raw HTML in markdown stays disabled: recipe bodies come from Instagram
+# captions, so rendering caption HTML unsanitized would be an XSS vector.
 [markup.goldmark.renderer]
-  unsafe = true
+  unsafe = false
