@@ -46,7 +46,9 @@ def extract_links() -> dict[str, list[str]]:
             continue
 
         text = f.read_text()
-        parts = text.split("---", 2)
+        # Split on front matter delimiter lines only, so "---" inside
+        # front matter values or body text can't break the parse.
+        parts = re.split(r"^---\s*$", text, maxsplit=2, flags=re.MULTILINE)
         if len(parts) < 3:
             continue
 
@@ -56,6 +58,9 @@ def extract_links() -> dict[str, list[str]]:
         # Clean trailing punctuation and filter
         external = []
         for u in urls:
+            # Strip invisible Unicode characters (Instagram captions often
+            # end lines with U+2063) and trailing punctuation.
+            u = re.sub("[\\u2028\\u2029\\u200b\\u200c\\u200d\\u2060\\u2063\\ufeff]", "", u)
             u = u.rstrip(".,:;!?*")
             domain = u.split("//", 1)[-1].split("/", 1)[0].split("?", 1)[0]
             if domain not in SKIP_DOMAINS:
@@ -89,9 +94,12 @@ def update_front_matter(links: dict[str, list[str]]) -> int:
 
         # Use the first URL as the primary recipe link
         link = urls[0]
+        # Replace only the first occurrence (the front matter field), so a
+        # "recipe_quality:" string in the body can't get YAML injected.
         text = text.replace(
             'recipe_quality:',
             f'recipe_link: "{link}"\nrecipe_quality:',
+            1,
         )
         f.write_text(text)
         count += 1
