@@ -1,13 +1,12 @@
 ---
-title: 🍫Lentil Brownies
+title: "🍫Lentil Brownies! Yes you can put any legume in a brownie. I’ve got chickpea brownies on the blog too! I never got on the black bean brownie train because the bean skin texture and flavor is obvious and hello bloat. 🔥These are super Fudgy and easy on the tummy!"
 date: 2022-01-20 09:16:29+00:00
-author_handle: vegancarnival
-authors:
-- vegancarnival
-author_name: 🍅 Vegan Foodie 💚 Green Life
-post_url: https://instagram.com/p/CY8kE2yJmXj
-image: img/vegancarnival_20-01-2022_0901.png
-recipe_link: https://www.veganricha.com/lentil-brownies/
+author_handle: "vegancarnival"
+authors: ["vegancarnival"]
+author_name: "🍅 Vegan Foodie 💚 Green Life"
+post_url: "https://instagram.com/p/CY8kE2yJmXj"
+image: "img/vegancarnival_20-01-2022_0901.png"
+recipe_link: "https://www.veganricha.com/lentil-brownies/"
 recipe_quality: "video_only"
 recipe_format: 1
 ---
@@ -21,8 +20,6 @@ No separate ingredient list was identified. Check the notes and original source.
 No separate cooking method was identified. Check the notes and original source.
 
 ## Notes
-
-🍫Lentil Brownies! Yes you can put any legume in a brownie. I’ve got chickpea brownies on the blog too! I never got on the black bean brownie train because the bean skin texture and flavor is obvious and hello bloat. 🔥These are super Fudgy and easy on the tummy!
 
 Recipe linked in stories or Google “vegan richa lentil brownies “
 

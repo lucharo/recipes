@@ -36,9 +36,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Lunch Plate
-
 1. Place the dressing ingredients in a blender and blend until smooth. Optional, to place in the refrigerator to chill for about 30-60 minutes to bring the flavors together.
 2. Divide the ingredients among 4 plates; ½ cup warmed beans, ½ cup warmed quinoa, 2 cups of greens, 2 tablespoons or ¼ cup cashews and a few tablespoons of dressing for each plate.
 3. Recipe By: Heather Pendergist

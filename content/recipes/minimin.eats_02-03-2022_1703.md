@@ -13,6 +13,7 @@ recipe_format: 1
 ## Ingredients
 
 - 40g @myprotein instant oats/oat flour
+- 15g @awesomesupps vanilla vegan protein powder
 - 1/2tsp baking powder
 - myprotein vanilla flav drops
 - 80ml water/milk of choice
@@ -28,8 +29,6 @@ recipe_format: 1
 ## Notes
 
 - Half a mashed banana
-
-- 15g @awesomesupps vanilla vegan protein powder
 
 Filling: 1 heaped tsp @myprotein hazelnut chocolate spread
 

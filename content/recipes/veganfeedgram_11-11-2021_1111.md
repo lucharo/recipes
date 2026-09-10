@@ -25,8 +25,6 @@ recipe_format: 1
 - 1 medium shallot
 - 1-2 red hot chilis
 - 2 spring onions
-- 489 kcal
-- 32 g protein
 - 29 g carbohydrates
 - 29 g fats
 - 3 g fiber
@@ -46,3 +44,7 @@ recipe_format: 1
 Tofu is a perfect carrier of flavor and by following a few simple steps it gets a nicely chewy and crunchy consistency! Try this recipe and tell me tofu is boring... 😉
 
 RECIPE (2 portions)
+
+489 kcal
+
+32 g protein

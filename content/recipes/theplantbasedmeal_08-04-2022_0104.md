@@ -35,9 +35,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Topping
-
 1. Puree the spinach+ plant milk+ pistacchios and mix with the remaining ingredients. Pour into a baking pan lined with baking paper (21x21cm) and bake in the preheated oven, top-bottom heat 180°C/350°F) for 40 min. Let cool, decorate and enjoy 🥰.
 
 ## Notes

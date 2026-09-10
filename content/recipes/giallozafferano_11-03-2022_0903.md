@@ -1,10 +1,10 @@
 ---
-title: Voglia di uno spuntino
+title: "Voglia di uno spuntino? Cavolo nero trasformato in deliziose e super croccanti chips al forno! 🙃🌿🤪 @andreacapodanno"
 date: 2022-03-11 09:21:21+00:00
-author_handle: ''
-author_name: ''
-post_url: ''
-image: ''
+author_handle: ""
+author_name: ""
+post_url: ""
+image: ""
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -23,7 +23,5 @@ recipe_format: 1
 4. (../img/giallozafferano_11-03-2022_0903.png)
 
 ## Notes
-
-Voglia di uno spuntino? Cavolo nero trasformato in deliziose e super croccanti chips al forno! 🙃🌿🤪 @andreacapodanno
 
 Scorza di Limone BIO

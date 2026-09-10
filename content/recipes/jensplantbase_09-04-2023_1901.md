@@ -1,12 +1,11 @@
 ---
-title: Chick’n & Plantain Waffles
+title: "Chick’n & Plantain Waffles - a plant based-alternative made with enoki mushrooms! Another one of those mushrooms with all the texture and no strong mushroom flavors. It pretty much takes on any seasoning you pair it with. If you’ve not tried sandwiching some plantain in a waffle maker, you have to save this recipe and get on board 💛🙌🏾"
 date: 2023-04-09 19:01:10+00:00
-author_handle: jensplantbase
-authors:
-- jensplantbase
-author_name: Jenna | Plant Based Food
-post_url: https://instagram.com/p/Cq04u1fqQDE
-image: img/jensplantbase_09-04-2023_1901.png
+author_handle: "jensplantbase"
+authors: ["jensplantbase"]
+author_name: "Jenna | Plant Based Food"
+post_url: "https://instagram.com/p/Cq04u1fqQDE"
+image: "img/jensplantbase_09-04-2023_1901.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -41,9 +40,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Dry mix
-
 1. To a blender add all marinade ingredients and blend until smooth.
 2. In a bowl add washed mushrooms (dry mushrooms if steamed) and mix in marinade. (Allow to marinate overnight for the best flavours)
 3. In a separate bowl add all the coating ingredients and mix together until well combined.
@@ -51,7 +47,5 @@ recipe_format: 1
 5. Fry each piece until golden.
 
 ## Notes
-
-Chick’n & Plantain Waffles - a plant based-alternative made with enoki mushrooms! Another one of those mushrooms with all the texture and no strong mushroom flavors. It pretty much takes on any seasoning you pair it with. If you’ve not tried sandwiching some plantain in a waffle maker, you have to save this recipe and get on board 💛🙌🏾
 
 Shout out to @jacobking for the fried enoki mushroom inspo ✨

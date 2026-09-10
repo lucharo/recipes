@@ -1,13 +1,11 @@
 ---
-title: Wanna satisfy your sweet tooth and feed your good gut bacteria at the same
-  time
+title: "Wanna satisfy your sweet tooth and feed your good gut bacteria at the same time? CUE CHICKPEA COOKIE DOUGH 🍪 (recipe below)! I love this dough as much as the little guys 👾 in your gut do…here’s why:"
 date: 2019-01-24 00:29:39+00:00
-author_handle: theguthealthmd
-authors:
-- theguthealthmd
-author_name: Will Bulsiewicz MD MSCI | Gastroenterologist
-post_url: https://instagram.com/p/Bs_0ocFBf7w
-image: img/theguthealthmd_24-01-2019_0029.png
+author_handle: "theguthealthmd"
+authors: ["theguthealthmd"]
+author_name: "Will Bulsiewicz MD MSCI | Gastroenterologist"
+post_url: "https://instagram.com/p/Bs_0ocFBf7w"
+image: "img/theguthealthmd_24-01-2019_0029.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -28,8 +26,6 @@ recipe_format: 1
 4. All content is provided for informational or educational purposes only. Please consult your healthcare provider in regards to recommendations and opinions that may relate to your medical condition or symptoms.
 
 ## Notes
-
-Wanna satisfy your sweet tooth and feed your good gut bacteria at the same time? CUE CHICKPEA COOKIE DOUGH 🍪 (recipe below)! I love this dough as much as the little guys 👾 in your gut do…here’s why:
 
 • FIBER. Chickpeas are packed with fiber 🌾 which helps your bowels get movin’ 🚗 and your microbiome groovin’ 💃. Hopefully you know by now that I’m OBSESSED with PREbiotic fiber and POSTbiotic short chain fatty acids. They’re game changers for both gut and total body health. Chick 🐣 peas are also loaded with protein, iron, and folate which help you feel full and energized. ⚡️
 

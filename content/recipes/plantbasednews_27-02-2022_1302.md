@@ -33,9 +33,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Glaze
-
 1. Place the dry ingredients in a food processor and pulse until crumbly. Add in the tofu, miso and flaxseeds and blend 30 seconds until smooth.
 2. Heat up the sesame oil in a small pan over medium heat and fry the onion and garlic for 3-4 minutes until golden, then add to the mixture. Adjust seasoning if needed.
 3. The mixture should be sticky but workable. Roll into 20 little balls and place on a lined baking tray.

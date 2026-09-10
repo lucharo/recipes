@@ -1,12 +1,11 @@
 ---
-title: You guys asked for it so here is one of the simplest
+title: "You guys asked for it so here is one of the simplest, healthiest yet most delicious dishes I know how to make:"
 date: 2019-03-06 17:57:21+00:00
-author_handle: dr.leovenaas
-authors:
-- dr.leovenaas
-author_name: Dr. Leo
-post_url: https://instagram.com/p/BurRH6snV0s
-image: img/dr.leovenaas_06-03-2019_1703.png
+author_handle: "dr.leovenaas"
+authors: ["dr.leovenaas"]
+author_name: "Dr. Leo"
+post_url: "https://instagram.com/p/BurRH6snV0s"
+image: "img/dr.leovenaas_06-03-2019_1703.png"
 recipe_quality: "minimal"
 recipe_format: 1
 ---
@@ -22,7 +21,3 @@ No separate ingredient list was identified. Check the notes and original source.
 3. For the guacamole mix three mashed avocados with half a chopped onion and 2 chopped tomatoes. Add salt and pepper to taste.
 4. For cashew sour cream, blend cashews with either water or plant based milk in a 2:1 ratio (2 of cashews : 1 of liquid) and add a tablespoon of either lemon juice or vinegar for each 100g of cashews used.
 5. And voila, baked sweet potatoes covered in beans/lentils, guacamole and cashew sour cream. Bon appétit! 🤤
-
-## Notes
-
-You guys asked for it so here is one of the simplest, healthiest yet most delicious dishes I know how to make:

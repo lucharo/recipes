@@ -39,6 +39,32 @@ class RecipeFormattingTests(unittest.TestCase):
         self.assertEqual(result, (["1.5 cups flour", "1/2 tsp salt"],
                                   ["Mix well.", "Bake for 20 minutes."], []))
 
+    def test_quantified_portions_and_protein_are_still_ingredients(self):
+        caption = "2 portions of noodles, I use noodles from @asda\n1 scoop protein powder\n2 servings"
+
+        ingredients, method, notes = split_caption(caption)
+
+        self.assertEqual(ingredients, ["2 portions of noodles, I use noodles from @asda", "1 scoop protein powder"])
+        self.assertEqual(method, [])
+        self.assertEqual(notes, ["2 servings"])
+
+    def test_explicit_method_is_not_mislabelled_as_the_last_ingredient_group(self):
+        for heading in ["Method:\nMix everything.", "Directions: Mix everything."]:
+            with self.subTest(heading=heading):
+                caption = "Sauce:\n2 tbsp oil\n" + heading
+
+                result = split_caption(caption)
+
+                self.assertEqual(result, (["### Sauce", "2 tbsp oil"], ["Mix everything."], []))
+
+    def test_conversational_title_is_not_shortened_to_an_empty_lead_in(self):
+        title = "I don’t know about you guys, but this crispy tofu dish is my favourite meal to cook when friends visit for dinner."
+        original = f'---\ntitle: "{title}"\n---\n1 block tofu\n'
+
+        result = format_document(original)
+
+        self.assertIn(f'title: "{title}"', result)
+
     def test_emoji_numbers_are_steps_not_ingredients(self):
         original = (FIXTURES / "foodypopz_01-11-2021_0711.md").read_text()
 

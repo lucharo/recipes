@@ -1,12 +1,11 @@
 ---
-title: Sometimes you need to eat a head of cabbage
+title: "Sometimes you need to eat a head of cabbage, this is one of my favourite ways to do it: yamitsuki cabbage !! 🥬"
 date: 2025-03-12 14:38:28+00:00
-author_handle: okonomikitchen
-authors:
-- okonomikitchen
-author_name: Lisa Kitahara
-post_url: https://instagram.com/p/DHGlVzwAvtM
-image: img/okonomikitchen_12-03-2025_1438.png
+author_handle: "okonomikitchen"
+authors: ["okonomikitchen"]
+author_name: "Lisa Kitahara"
+post_url: "https://instagram.com/p/DHGlVzwAvtM"
+image: "img/okonomikitchen_12-03-2025_1438.png"
 recipe_quality: "video_only"
 recipe_format: 1
 ---
@@ -20,8 +19,6 @@ No separate ingredient list was identified. Check the notes and original source.
 No separate cooking method was identified. Check the notes and original source.
 
 ## Notes
-
-Sometimes you need to eat a head of cabbage, this is one of my favourite ways to do it: yamitsuki cabbage !! 🥬
 
 Yamitsuki means addictive in Japanese and it truly lives up to its name. Recommended to have at izakaya and popular for home cooks because it takes 5 minutes to make! You can use other vegetables like cucumber, lettuce, broccoli or carrots too.
 

@@ -1,12 +1,11 @@
 ---
-title: While traveling in Italy recently I ate Pappa al Pomodoro for the first time
+title: "While traveling in Italy recently I ate Pappa al Pomodoro for the first time. It was life changing. Tuscan stale bread soup with only 8 Ingredients! ( that’s including salt, pepper, and olive oil). I truly have never had something so simple, so affordable and so delicious. This completely vegan dish has the texture and depth of Bolognese. Safe to say I am obsessed."
 date: 2022-08-16 16:33:49+00:00
-author_handle: pierceabernathy
-authors:
-- pierceabernathy
-author_name: Pierce Abernathy
-post_url: https://instagram.com/p/ChU8RepsCyO
-image: img/pierceabernathy_16-08-2022_1608.png
+author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
+author_name: "Pierce Abernathy"
+post_url: "https://instagram.com/p/ChU8RepsCyO"
+image: "img/pierceabernathy_16-08-2022_1608.png"
 recipe_quality: "ingredients_only"
 recipe_format: 1
 ---
@@ -24,7 +23,3 @@ recipe_format: 1
 ## Method
 
 No separate cooking method was identified. Check the notes and original source.
-
-## Notes
-
-While traveling in Italy recently I ate Pappa al Pomodoro for the first time. It was life changing. Tuscan stale bread soup with only 8 Ingredients! ( that’s including salt, pepper, and olive oil). I truly have never had something so simple, so affordable and so delicious. This completely vegan dish has the texture and depth of Bolognese. Safe to say I am obsessed.

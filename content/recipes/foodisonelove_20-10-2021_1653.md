@@ -14,6 +14,7 @@ recipe_format: 1
 
 - for the oats
 - 40g (~1/2 cup) oats
+- 30g (~1 scoop) @myproteinus protein powder of choice (use code VIENNA for 45% off (link in bio)) (can sub for extra oats and 1 tbsp maple syrup)
 - 60g (~1/4 cup) thick yogurt (soy, coconut, Greek)
 - 5g (~1/2 tbsp) chia seeds
 - 1/4-1/2 cup water/ milk (more if vegan protein powder, less if whey)
@@ -35,5 +36,3 @@ recipe_format: 1
 High protein, vegan friendly rendition of the classic!
 
 Today, I have another blended overnight oats recipe!! This time it’s a peanut butter version with chocolate ganache!! Honestly I swear nothing can beat the chocolate pb combo!!! Sadly, as it gets colder, overnight oats will soon be less of a breakfast staple but nonetheless let’s enjoy them while it’s still not too cold!! This is extra creamy, extra dreamy, vegan friendly and high in protein! I hope you enjoy❣️
-
-30g (~1 scoop) @myproteinus protein powder of choice (use code VIENNA for 45% off (link in bio)) (can sub for extra oats and 1 tbsp maple syrup)

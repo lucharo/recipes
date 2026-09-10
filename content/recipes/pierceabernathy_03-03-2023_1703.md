@@ -1,12 +1,11 @@
 ---
-title: Cacio e Pepe inspired spaghetti squash dip
+title: "Cacio e Pepe inspired spaghetti squash dip. In this house, spaghetti squash is not a replacement for spaghetti BUT that doesn’t mean it is not delicious."
 date: 2023-03-03 17:18:27+00:00
-author_handle: pierceabernathy
-authors:
-- pierceabernathy
-author_name: Pierce Abernathy
-post_url: https://instagram.com/p/CpVbI2LMuqm
-image: img/pierceabernathy_03-03-2023_1703.png
+author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
+author_name: "Pierce Abernathy"
+post_url: "https://instagram.com/p/CpVbI2LMuqm"
+image: "img/pierceabernathy_03-03-2023_1703.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -33,7 +32,3 @@ recipe_format: 1
 4. In a large saucepan on medium heat, add roughly half of the celeriac sauce along with the butter. Stir to combine. Add the grated Parmesan and black pepper and stir to combine. If too thick, add a few splashes of the celeriac cooking liquid.
 5. Add in the squash and stir to combine. Taste and adjust for salt if desired.
 6. Immediately transfer to a bowl and garnish with more grated parmesan, freshly cracked black pepper, and olive oil.
-
-## Notes
-
-Cacio e Pepe inspired spaghetti squash dip. In this house, spaghetti squash is not a replacement for spaghetti BUT that doesn’t mean it is not delicious.

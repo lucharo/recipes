@@ -32,9 +32,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Teriyaki Sauce
-
 1. Make the TERIYAKI SAUCE: In a small saucepan on medium-high heat, combine the water, soy sauces, maple syrup, garlic & ginger. Bring to a boil, then add the cornstarch slurry & reduce heat down to a simmer. Cook, whisking as needed, until the teriyaki sauce is glossy & slightly thickened. Adjust seasoning to taste with soy sauce/water. Set aside
 2. Cook the udon according to packet instructions. Drain & set aside.
 3. Heat up the oil in a wok on high heat, stirfry the onions & capsicum for 3 mins until slightly tender. Add in the mushrooms + half the Teriyaki sauce & cook for a further 3 mins

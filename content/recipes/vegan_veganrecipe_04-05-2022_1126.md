@@ -1,12 +1,11 @@
 ---
-title: Cilantro lime chilli noodles 🌿🌶 yes please
+title: "Cilantro lime chilli noodles 🌿🌶 yes please! it's also vegan with a gluten free option ✨ by @browngirlvegan_"
 date: 2022-05-04 11:26:50+00:00
-author_handle: vegan_veganrecipe
-authors:
-- vegan_veganrecipe
-author_name: Vegan Recipes
-post_url: https://instagram.com/p/CdImf8JJxiS
-image: img/vegan_veganrecipe_04-05-2022_1126.png
+author_handle: "vegan_veganrecipe"
+authors: ["vegan_veganrecipe"]
+author_name: "Vegan Recipes"
+post_url: "https://instagram.com/p/CdImf8JJxiS"
+image: "img/vegan_veganrecipe_04-05-2022_1126.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -29,8 +28,6 @@ recipe_format: 1
 1. Boil knife cut noodles according to package instructions and rinse with cold water. Combine gochugaru with cilantro. Add heated sesame oil to the mixture. Add the rest of the ingredients and give it a good mix. Pour over noodles, mix and top with toasted sesame seeds. Heat it up gently, and it's ready to serve!
 
 ## Notes
-
-Cilantro lime chilli noodles 🌿🌶 yes please! it's also vegan with a gluten free option ✨ by @browngirlvegan_
 
 Follow us @vegan_veganrecipe for daily vegan inspiration 🌱💚
 

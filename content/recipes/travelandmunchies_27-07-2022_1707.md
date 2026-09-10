@@ -1,12 +1,11 @@
 ---
-title: Buss Up Shut
+title: "Buss Up Shut! I have shared this before but here it is again! This recipe never fails me, even when I rush it, it is always deliciously flaky! Had the pleasure of visiting Trinidad for two weeks this year and so happy I can recreate one of my favourite treats from the trip! 👌🏿"
 date: 2022-07-27 17:47:44+00:00
-author_handle: travelandmunchies
-authors:
-- travelandmunchies
-author_name: Travelandmunchies
-post_url: https://instagram.com/p/Cghkuqxl-b2
-image: img/travelandmunchies_27-07-2022_1707.png
+author_handle: "travelandmunchies"
+authors: ["travelandmunchies"]
+author_name: "Travelandmunchies"
+post_url: "https://instagram.com/p/Cghkuqxl-b2"
+image: "img/travelandmunchies_27-07-2022_1707.png"
 recipe_quality: "ingredients_only"
 recipe_format: 1
 ---
@@ -27,8 +26,6 @@ recipe_format: 1
 No separate cooking method was identified. Check the notes and original source.
 
 ## Notes
-
-Buss Up Shut! I have shared this before but here it is again! This recipe never fails me, even when I rush it, it is always deliciously flaky! Had the pleasure of visiting Trinidad for two weeks this year and so happy I can recreate one of my favourite treats from the trip! 👌🏿
 
 Flat bread like this has many names and many countries of origin. Depending where you are from, flat bread may be predominantly called paratha, roti, buss up shut, chapati, M'semen to name a few. Though these flat breads may be named AND prepared differently depending on country and region, in Trinidad paratha, roti and buss up shut are often used interchangeably to refer to what I am making here!
 

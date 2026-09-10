@@ -1,12 +1,11 @@
 ---
-title: Tahina rolls
+title: "Tahina rolls! Many variations of these rolls are popular in Armenia and surrounding countries. Simple to make and the perfect breakfast pastry."
 date: 2022-10-31 14:25:32+00:00
-author_handle: pierceabernathy
-authors:
-- pierceabernathy
-author_name: Pierce Abernathy
-post_url: https://instagram.com/p/CkYaDPGshf6
-image: img/pierceabernathy_31-10-2022_1410.png
+author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
+author_name: "Pierce Abernathy"
+post_url: "https://instagram.com/p/CkYaDPGshf6"
+image: "img/pierceabernathy_31-10-2022_1410.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -40,7 +39,3 @@ recipe_format: 1
 6. Roll out each strand, twisting the dough until strand is roughly 3/4 inch thick. Shape the strand into a pinwheel tucking the exterior edge under the the pastry. Cover and let sit for 15 minutes.
 7. For the egg wash combine the egg yolk and date molasses in a small bowl and whisk to combine. Brush pastry with egg wash and garnish with sesame seeds.
 8. Bake for 20-22 minutes or until golden and cooked through.
-
-## Notes
-
-Tahina rolls! Many variations of these rolls are popular in Armenia and surrounding countries. Simple to make and the perfect breakfast pastry.

@@ -12,6 +12,7 @@ recipe_format: 1
 
 ## Ingredients
 
+- 2 portions of noodles, I use ‘ready to wok’ noodles from @asda
 - 3 cloves garlic
 - 1 red chilli
 - 1tbsp lime juice
@@ -33,5 +34,3 @@ recipe_format: 1
 Your new favourite WFH recipe, thank me later!
 
 Ingredients [makes 2 portions]
-
-2 portions of noodles, I use ‘ready to wok’ noodles from @asda

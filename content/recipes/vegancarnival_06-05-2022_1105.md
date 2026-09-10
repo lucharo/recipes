@@ -1,12 +1,11 @@
 ---
-title: These Garlic noodles turned out soo good!
+title: "These Garlic noodles turned out soo good!! Been trying to add some creaminess to my noodle dishes, without having to use peanut butter in every recipe. We did it!"
 date: 2022-05-06 11:36:47+00:00
-author_handle: vegancarnival
-authors:
-- vegancarnival
-author_name: 🍅 Vegan Foodie 💚 Green Life
-post_url: https://instagram.com/p/CdNxKFlqqpM
-image: img/vegancarnival_06-05-2022_1105.png
+author_handle: "vegancarnival"
+authors: ["vegancarnival"]
+author_name: "🍅 Vegan Foodie 💚 Green Life"
+post_url: "https://instagram.com/p/CdNxKFlqqpM"
+image: "img/vegancarnival_06-05-2022_1105.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -32,9 +31,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Other
-
 1. Start by chopping your carrot into thin sticks.
 2. Fry the carrot, finely chopped spring onions, garlic, chilli and ginger for a couple of minutes.
 3. Scramble the tofu with your hands into the skillet and fry for another 5 minutes.
@@ -47,8 +43,6 @@ recipe_format: 1
 10. for full recipes and more great posts, head to @eatmoreplants.no profile and start following
 
 ## Notes
-
-These Garlic noodles turned out soo good!! Been trying to add some creaminess to my noodle dishes, without having to use peanut butter in every recipe. We did it!
 
 3 servings
 

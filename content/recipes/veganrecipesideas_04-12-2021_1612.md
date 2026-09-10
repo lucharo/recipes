@@ -30,9 +30,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Baking soda bath
-
 1. Start my making the dough. Add the flour, salt, sugar & active yeast to a bowl and mix. Add 1 cup of warm water and mix until the dough becomes shaggy.
 2. Put the dough on the counter and knead for 5 minutes until the dough comes together and is a smooth texture. Roll into a ball and place in a greased bowl, cover & proof until it has doubled in size 30-60 min
 3. Take the dough out and cut into 4-5 pieces. Roll into long strips then cut into even sized pieces.

@@ -1,12 +1,11 @@
 ---
-title: You scream
+title: "You scream, I scream we all scream for NICE CREAM! 🍦 Yep, banana ice-cream, another treat-yourself and your microbiome dessert. Directions below. 👇🏻"
 date: 2019-02-28 00:09:44+00:00
-author_handle: theguthealthmd
-authors:
-- theguthealthmd
-author_name: ''
-post_url: https://instagram.com/p/BuZ6LOjBQtD
-image: img/noimage.jpg
+author_handle: "theguthealthmd"
+authors: ["theguthealthmd"]
+author_name: ""
+post_url: "https://instagram.com/p/BuZ6LOjBQtD"
+image: "img/noimage.jpg"
 recipe_quality: "minimal"
 recipe_format: 1
 ---
@@ -28,7 +27,5 @@ No separate ingredient list was identified. Check the notes and original source.
 9. All content is provided for informational or educational purposes only. Please consult your healthcare provider in regards to recommendations and opinions...
 
 ## Notes
-
-You scream, I scream we all scream for NICE CREAM! 🍦 Yep, banana ice-cream, another treat-yourself and your microbiome dessert. Directions below. 👇🏻
 
 Before we start... Shout out 🗣 to @fivesechealth - who you should all be following. I don’t know that she literally invented it, but she’s the Queen 👸🏼of Nice Cream.

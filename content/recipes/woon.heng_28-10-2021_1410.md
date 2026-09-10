@@ -1,12 +1,11 @@
 ---
-title: 'This Vegan Luncheon Roll🤩 is absolutely TASTY😋 and super easy to make #omnilicious'
+title: "This Vegan Luncheon Roll🤩 is absolutely TASTY😋 and super easy to make #omnilicious. I haven't had luncheon meat in ages and this OmniPork Luncheon by @omnifoods.global definitely hits all the spot--the texture and taste are all on point! It’s also rich in protein and has far fewer calories than the traditional ones. OmniPork Luncheon can be found at all Sprouts locations nationwide. So, don’t wait and stock it up (I got 4 packs already😄) to make the recipe below! [AD]⁣"
 date: 2021-10-28 14:33:26+00:00
-author_handle: woon.heng
-authors:
-- woon.heng
-author_name: WoonHeng Chia
-post_url: https://instagram.com/p/CVk1sAcFtJa
-image: img/woon.heng_28-10-2021_1410.png
+author_handle: "woon.heng"
+authors: ["woon.heng"]
+author_name: "WoonHeng Chia"
+post_url: "https://instagram.com/p/CVk1sAcFtJa"
+image: "img/woon.heng_28-10-2021_1410.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -28,7 +27,5 @@ recipe_format: 1
 3. Now, spread about 1 cup of rice on a lined sushi mat to make a 5X6 rectangle. Lay a half-sheet nori to cover ⅔ of the rice. Place a stack of luncheon on the nori sheet that has no rice under it. Now, roll it up and use the mat to help fold the rice. Rub your palms with sushi vinegar and mold while compressing the roll into an enclosed log. Clean the skillet from above, and lightly grease the pan. Place as many rice rolls as the pan comfortably fits. Grill over med-low heat until a thin crust forms, about 2-3 minutes. Flip and brush the crusted side with the prepared sauce. Repeat the same step a few times and cook until golden brown (adjust the heat if it browns too quickly). Serve the rice roll immediately.
 
 ## Notes
-
-This Vegan Luncheon Roll🤩 is absolutely TASTY😋 and super easy to make #omnilicious. I haven't had luncheon meat in ages and this OmniPork Luncheon by @omnifoods.global definitely hits all the spot--the texture and taste are all on point! It’s also rich in protein and has far fewer calories than the traditional ones. OmniPork Luncheon can be found at all Sprouts locations nationwide. So, don’t wait and stock it up (I got 4 packs already😄) to make the recipe below! [AD]
 
 Makes 3 rice rolls

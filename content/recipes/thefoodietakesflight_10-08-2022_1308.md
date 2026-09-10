@@ -1,13 +1,12 @@
 ---
-title: One-Pot Rice Cooker Meal 🍚
+title: "One-Pot Rice Cooker Meal 🍚 - perfect for those busy days and a great prep & forget recipe. You can let the rice cooker do its thing 💁🏻‍♀️"
 date: 2022-08-10 13:45:53+00:00
-author_handle: thefoodietakesflight
-authors:
-- thefoodietakesflight
-author_name: Jeeca • Vegan Recipes 🥢
-post_url: https://instagram.com/p/ChFMRq8pdBO
-image: img/thefoodietakesflight_10-08-2022_1308.png
-recipe_link: https://thefoodietakesflight.com
+author_handle: "thefoodietakesflight"
+authors: ["thefoodietakesflight"]
+author_name: "Jeeca • Vegan Recipes 🥢"
+post_url: "https://instagram.com/p/ChFMRq8pdBO"
+image: "img/thefoodietakesflight_10-08-2022_1308.png"
+recipe_link: "https://thefoodietakesflight.com"
 recipe_quality: "minimal"
 recipe_format: 1
 ---
@@ -21,8 +20,6 @@ No separate ingredient list was identified. Check the notes and original source.
 No separate cooking method was identified. Check the notes and original source.
 
 ## Notes
-
-One-Pot Rice Cooker Meal 🍚 - perfect for those busy days and a great prep & forget recipe. You can let the rice cooker do its thing 💁🏻♀️
 
 👉🏼full detailed recipe’s linked in my bio @thefoodietakesflight - you can also visit www.thefoodietakesflight.com ◡̈
 

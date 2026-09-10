@@ -1,12 +1,11 @@
 ---
-title: Vegan Shrimp Noodles
+title: "Vegan Shrimp Noodles - a fully vegan spicy garlic shrimp made with king oyster mushrooms and inspired by korean cuisine. This one is to die for 😋. Recipe Below! 🍜"
 date: 2021-11-19 14:23:49+00:00
-author_handle: plantbased.green
-authors:
-- plantbased.green
-author_name: Vegan | Healthy | Recipe
-post_url: https://instagram.com/p/CWdejoqK6yU
-image: img/plantbased.green_19-11-2021_1411.png
+author_handle: "plantbased.green"
+authors: ["plantbased.green"]
+author_name: "Vegan | Healthy | Recipe"
+post_url: "https://instagram.com/p/CWdejoqK6yU"
+image: "img/plantbased.green_19-11-2021_1411.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -41,8 +40,6 @@ recipe_format: 1
 10. (No need to cut the shrooms into shrimp shapes, you can just cut them into circles like scallops, I am just extra! 😉)
 
 ## Notes
-
-Vegan Shrimp Noodles - a fully vegan spicy garlic shrimp made with king oyster mushrooms and inspired by korean cuisine. This one is to die for 😋. Recipe Below! 🍜
 
 Follow @plantbased.green 🙌
 

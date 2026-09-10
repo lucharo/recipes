@@ -1,12 +1,11 @@
 ---
-title: '"GET The Complete Plant Based Cookbook'
+title: "\"GET The Complete Plant Based Cookbook - Over 100+ Delicious Vegan Recipes Including 30-day Meal Plans\" LINK IN BIO 🔗 @vegan.tipsvn"
 date: 2022-05-08 23:26:40+00:00
-author_handle: vegan.tipsvn
-authors:
-- vegan.tipsvn
-author_name: Vegan Tips
-post_url: https://instagram.com/p/CdUMGwzLEfU
-image: img/vegan.tipsvn_08-05-2022_2305.png
+author_handle: "vegan.tipsvn"
+authors: ["vegan.tipsvn"]
+author_name: "Vegan Tips"
+post_url: "https://instagram.com/p/CdUMGwzLEfU"
+image: "img/vegan.tipsvn_08-05-2022_2305.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -22,8 +21,6 @@ recipe_format: 1
 1. Cook on medium heat in a non stick pan, 2 minutes on each side
 
 ## Notes
-
-"GET The Complete Plant Based Cookbook - Over 100+ Delicious Vegan Recipes Including 30-day Meal Plans" LINK IN BIO 🔗 @vegan.tipsvn
 
 Yummiest way to have a 🍌? Either way, these are DELICIOUS, gluten free, a healthier and fun pancake version 😍 They can even be stored to the day after in the fridge, just pop them into a bread toaster 👍🏽 tag someone who should try have their banana like this 🍌
 

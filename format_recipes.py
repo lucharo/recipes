@@ -82,12 +82,16 @@ def split_caption(body: str) -> tuple[list[str], list[str], list[str]]:
         if heading:
             word, detail = heading.groups()
             section = "ingredients" if re.match(r"ingredient|what|you", word, re.I) else "method"
+            group = method_group = ""
+            day_group = False
             if detail:
                 notes.append(detail.strip("()[]"))
             continue
         inline = re.match(r"^(?:method|instructions?|directions?|preparation):\s*(.+)", text, re.I)
         if inline:
             section = "method"
+            group = method_group = ""
+            day_group = False
             add_step(inline[1])
             continue
         if re.fullmatch(r"(?:the )?recipe\s*:?", heading_text(line), re.I):
@@ -107,7 +111,12 @@ def split_caption(body: str) -> tuple[list[str], list[str], list[str]]:
             section = "ingredients"
             ingredients.append(f"### {group}")
             continue
-        if PROMO.match(text):
+        summary = re.match(
+            r"^\d+(?:[-–/]\d+)?\s+(?:servings?|portions?)\s*$|"
+            r"^\d+[- ]ingredients?\b|"
+            r"^\d+(?:\.\d+)?\s*(?:k?cals?|calories|g\s+(?:protein|carbs|fat))\b", text, re.I
+        )
+        if PROMO.match(text) or summary:
             notes.append(line)
             section = "notes"
         elif numbered and (action or section == "method" or len(text) > 100):
@@ -116,9 +125,7 @@ def split_caption(body: str) -> tuple[list[str], list[str], list[str]]:
         elif action and (section != "notes" or len(text) > 60):
             section = "method"
             add_step(text)
-        elif QUANTITY.match(text) and not numbered and len(text) < 220 and not re.search(
-            r"\b(?:ingredient|servings?|portions?|cals|calories|protein|carbs)\b", text, re.I
-        ):
+        elif QUANTITY.match(text) and not numbered and len(text) < 220:
             section = "ingredients"
             ingredients.append(text)
         elif section == "method" or day_group or (
@@ -145,7 +152,7 @@ def short_title(title: str) -> tuple[str, str]:
         return title, ""
     for match in re.finditer(r",\s|\s[-–—|]\s|[.!?]\s", title):
         prefix = title[:match.start()].strip()
-        if 8 <= len(prefix) <= 100:
+        if 8 <= len(prefix) <= 100 and prefix.isupper():
             return prefix, title
     return title, ""
 

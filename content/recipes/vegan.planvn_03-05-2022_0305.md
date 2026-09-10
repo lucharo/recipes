@@ -1,12 +1,11 @@
 ---
-title: ➡️ If you want to go vegan but have no idea where to start
+title: "➡️ If you want to go vegan but have no idea where to start, then this ''1 Month Vegan Challenge'' includes everything you need =>>"
 date: 2022-05-03 03:40:01+00:00
-author_handle: vegan.planvn
-authors:
-- vegan.planvn
-author_name: Vegan Plan
-post_url: https://instagram.com/p/CdFMSAYpPD7
-image: img/vegan.planvn_03-05-2022_0305.png
+author_handle: "vegan.planvn"
+authors: ["vegan.planvn"]
+author_name: "Vegan Plan"
+post_url: "https://instagram.com/p/CdFMSAYpPD7"
+image: "img/vegan.planvn_03-05-2022_0305.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -34,8 +33,6 @@ recipe_format: 1
 5. serve with dipping sauce of choice and ENJOY! 💕
 
 ## Notes
-
-➡️ If you want to go vegan but have no idea where to start, then this ''1 Month Vegan Challenge'' includes everything you need =>>
 
 LINK IN BIO 🔗 @vegan.planvn
 

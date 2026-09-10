@@ -32,9 +32,6 @@ recipe_format: 1
 
 ## Method
 
-
-### For the dry ingredients
-
 1. Combine the wet ingredients in a large mixing bowl. Brush any dirt off the mushrooms, then add them to the wet mixture and stir until they’re fully coated.
 2. Combine the dry ingredients, including 1 teaspoon of salt and 1/2 teaspoon of pepper, in a separate mixing bowl.
 3. Add the vegetable oil to a saucepan on a medium heat. The oil should be at least 5cm (2”) deep in the pan. If you have a thermometer, the oil should be approximately 180°C / 356°F.

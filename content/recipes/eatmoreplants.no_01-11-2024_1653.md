@@ -1,12 +1,11 @@
 ---
-title: Ad. Crispy air fryer cauliflower bites with gochujang sauce
+title: "Ad. Crispy air fryer cauliflower bites with gochujang sauce! I’m using the WMF Multi Taste Air Fryer from @wmf - it has taken over my kitchen at this point. I use it for everything, baking veggies, tofu or making crispy sweet potato fries. It cooks my food to perfection, without using any oil! Full recipe below:"
 date: 2024-11-01 16:53:55+00:00
-author_handle: eatmoreplants.no
-authors:
-- eatmoreplants.no
-author_name: Jenny Bolle
-post_url: https://instagram.com/p/DB1gm_2oVO2
-image: img/eatmoreplants.no_01-11-2024_1653.png
+author_handle: "eatmoreplants.no"
+authors: ["eatmoreplants.no"]
+author_name: "Jenny Bolle"
+post_url: "https://instagram.com/p/DB1gm_2oVO2"
+image: "img/eatmoreplants.no_01-11-2024_1653.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -38,9 +37,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Topping
-
 1. Cut the cauliflower into medium florets. In a large mixing bowl, whisk together the flour, milk, garlic powder, and salt
 2. Add the cauliflower to the batter and toss to coat. Now toss the coated cauliflower florets in the breadcrumbs and mix until well coated
 3. Air-fry on 200°C for 10-15 minutes, or until crispy.
@@ -48,7 +44,5 @@ recipe_format: 1
 5. When the cauliflower is done, add it to a bowl and toss with the glaze. Sprinkle on sesame seeds and chopped scallions and enjoy!
 
 ## Notes
-
-Ad. Crispy air fryer cauliflower bites with gochujang sauce! I’m using the WMF Multi Taste Air Fryer from @wmf - it has taken over my kitchen at this point. I use it for everything, baking veggies, tofu or making crispy sweet potato fries. It cooks my food to perfection, without using any oil! Full recipe below:
 
 4 servings

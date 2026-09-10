@@ -26,9 +26,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Filling
-
 1. Preheat the oven to 390 degrees F. Spray a ramekin or small oven-safe bowl with nonstick cooking spray, set aside.
 2. In a small bowl, combine all the ingredients for the lava cake batter.
 3. Pour 2/3 of the of the batter into the prepared ramekin or bowl.

@@ -1,12 +1,11 @@
 ---
-title: 'Ginger #Tempeh Bowl'
+title: "Ginger #Tempeh Bowl! 🥒😍 Add rice or quinoa and a sauce of your choice, to turn this into a buddha bowl if you'd like.😋 Or keep it as is, for a light lunch! 🌿 Or, you could add more greens instead and turn this into a salad with a dressing of your choice. (Even just kale massaged with lemon juice and mixed with avocado would be amazing!) ⠀"
 date: 2018-10-22 16:00:50+00:00
-author_handle: everyday.vegan.food
-authors:
-- everyday.vegan.food
-author_name: Everyday Vegan Food
-post_url: https://instagram.com/p/BpPceYPFYdz
-image: img/everyday.vegan.food_22-10-2018_1600.png
+author_handle: "everyday.vegan.food"
+authors: ["everyday.vegan.food"]
+author_name: "Everyday Vegan Food"
+post_url: "https://instagram.com/p/BpPceYPFYdz"
+image: "img/everyday.vegan.food_22-10-2018_1600.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -49,7 +48,3 @@ recipe_format: 1
 1. Slice the half tempeh block in thin slices lengthwise.
 2. In a small bowl, combine the tempeh slices and the coconut aminos, chili garlic sauce, sesame oil, ginger and garlic. Mix to coat the tempeh well.
 3. Heat a pan on medium-low heat, add the tempeh and the rest of the marinade to the pan. Cook until the tempeh is caramelized on both sides. About 10-15 minutes.￼
-
-## Notes
-
-Ginger #Tempeh Bowl! 🥒😍 Add rice or quinoa and a sauce of your choice, to turn this into a buddha bowl if you'd like.😋 Or keep it as is, for a light lunch! 🌿 Or, you could add more greens instead and turn this into a salad with a dressing of your choice. (Even just kale massaged with lemon juice and mixed with avocado would be amazing!)

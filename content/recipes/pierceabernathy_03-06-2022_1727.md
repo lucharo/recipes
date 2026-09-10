@@ -1,12 +1,11 @@
 ---
-title: Rhubarb and Fennel Cake
+title: "Rhubarb and Fennel Cake. A pairing I've recently enjoyed. The subtle sweet licorice flavor from the fennel pairs well with sour, citrusy notes from the rhubarb and orange."
 date: 2022-06-03 17:27:45+00:00
-author_handle: pierceabernathy
-authors:
-- pierceabernathy
-author_name: Pierce Abernathy
-post_url: https://instagram.com/p/CeWfkHTOLVJ
-image: img/pierceabernathy_03-06-2022_1727.png
+author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
+author_name: "Pierce Abernathy"
+post_url: "https://instagram.com/p/CeWfkHTOLVJ"
+image: "img/pierceabernathy_03-06-2022_1727.png"
 recipe_quality: "ingredients_only"
 recipe_format: 1
 ---
@@ -38,8 +37,6 @@ recipe_format: 1
 No separate cooking method was identified. Check the notes and original source.
 
 ## Notes
-
-Rhubarb and Fennel Cake. A pairing I've recently enjoyed. The subtle sweet licorice flavor from the fennel pairs well with sour, citrusy notes from the rhubarb and orange.
 
 I teamed up with @seed to highlight microbiome-friendly foods, like fennel and yogurt (in this recipe)! Foods that are fiber-rich and/or good for your gut. By diversifying the number of fruits and vegetables you consume you're incorporating plenty of macro- and micronutrients that support your microbiome.
 

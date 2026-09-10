@@ -32,9 +32,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Miso Tahini Sauce
-
 1. - mix the aleppo pepper, paprika, brown sugar, seasoned salt & olive oil and brush it on the eggplant slices.
 2. - preheat a cast iron for 5 min on medium high. Add a bit of olive oil, once it is shimmering add the eggplant and cook for 3-5 min until golden and flip, cook for 1 min, make sure they don’t burn. Might need to fry them in 2 batches.
 3. - mix everything for the sauce.

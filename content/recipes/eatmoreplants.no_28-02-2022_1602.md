@@ -35,9 +35,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Dressing
-
 1. Cook the noodles according to package instructions. Rinse in cold water and set aside.
 2. Chop the carrot and red cabbage into thin sticks. Thinly slice the radishes, and green onions.
 3. Mince the ginger and garlic. Make the dressing by mixing all the ingredients in a small bowl.

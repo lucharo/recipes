@@ -12,6 +12,7 @@ recipe_format: 1
 
 ## Ingredients
 
+- 2/3 cup vanilla protein powder
 - 1/2 cup almond flour
 - 2 tbsp maple syrup
 - 6 tbsp non-dairy milk (start with less and add until you reach the consistency shown in the video because it will depend on your protein!)
@@ -37,5 +38,3 @@ recipe_format: 1
 A higher protein, lower sugar, gluten-free, vegan version of the fave you grew up with and tbh, they taste even better 😏 makes 7 bars!
 
 Layer 1
-
-2/3 cup vanilla protein powder

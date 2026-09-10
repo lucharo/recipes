@@ -1,13 +1,11 @@
 ---
-title: Sticky Sesame Soy Cauliflower 😍👏 Battered baked cauliflower tossed in a sweet
-  & tangy sauce
+title: "Sticky Sesame Soy Cauliflower 😍👏 Battered baked cauliflower tossed in a sweet & tangy sauce, yes please!!! Make sure you SAVE this post and try it, this recipe is an absolute winner!"
 date: 2022-03-16 21:04:39+00:00
-author_handle: thrivingonplants
-authors:
-- thrivingonplants
-author_name: Cherie
-post_url: https://instagram.com/p/CbLdX_KhVZK
-image: img/thrivingonplants_16-03-2022_2103.png
+author_handle: "thrivingonplants"
+authors: ["thrivingonplants"]
+author_name: "Cherie"
+post_url: "https://instagram.com/p/CbLdX_KhVZK"
+image: "img/thrivingonplants_16-03-2022_2103.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -44,8 +42,6 @@ recipe_format: 1
 9. If you want to whip up quick, simple and tasty Asian dishes at home, make sure you stock up on the @kikkomanaustralia sauce range! They’re my favourite staples to have around and makes cooking so easy and delicious 👌🏼 AD #kikkoman #kikkomansoysauce #soysauce
 
 ## Notes
-
-Sticky Sesame Soy Cauliflower 😍👏 Battered baked cauliflower tossed in a sweet & tangy sauce, yes please!!! Make sure you SAVE this post and try it, this recipe is an absolute winner!
 
 Serves: 4
 

@@ -1,12 +1,11 @@
 ---
-title: Sweet Potato
+title: "Sweet Potato, peppers and cucumber with corn-infused tahini. A seasonal variety of seared and stir-fried veggies with a rich balanced sauce. Stir fried cucumbers are common in Chinese and Korean cuisine. They soften slightly while still holding a lot of moisture giving the dish a refreshing juicy crunch. I absolutely love the taste of raw juiced corn. It’s sweet, a bit nutty, and a perfect partner to tahini."
 date: 2022-08-22 16:22:14+00:00
-author_handle: pierceabernathy
-authors:
-- pierceabernathy
-author_name: Pierce Abernathy
-post_url: https://instagram.com/p/ChkXvnQJAAH
-image: img/pierceabernathy_22-08-2022_1608.png
+author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
+author_name: "Pierce Abernathy"
+post_url: "https://instagram.com/p/ChkXvnQJAAH"
+image: "img/pierceabernathy_22-08-2022_1608.png"
 recipe_quality: "video_only"
 recipe_format: 1
 ---
@@ -20,8 +19,6 @@ No separate ingredient list was identified. Check the notes and original source.
 No separate cooking method was identified. Check the notes and original source.
 
 ## Notes
-
-Sweet Potato, peppers and cucumber with corn-infused tahini. A seasonal variety of seared and stir-fried veggies with a rich balanced sauce. Stir fried cucumbers are common in Chinese and Korean cuisine. They soften slightly while still holding a lot of moisture giving the dish a refreshing juicy crunch. I absolutely love the taste of raw juiced corn. It’s sweet, a bit nutty, and a perfect partner to tahini.
 
 I teamed up with @seed to highlight microbiome-friendly foods, like sweet potato and corn (in this recipe)! Foods that are fiber-rich and/or good for your gut. By diversifying the number of fruits and vegetables you consume you're incorporating plenty of macro- and micronutrients that support your microbiome.
 

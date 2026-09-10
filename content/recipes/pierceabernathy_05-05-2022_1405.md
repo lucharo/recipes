@@ -1,12 +1,11 @@
 ---
-title: Sunchoke and Porcini pasta
+title: "Sunchoke and Porcini pasta. This one is special; an easy plant-based, umami-rich recipe. A vegan riff on cacio e pepe."
 date: 2022-05-05 14:27:24+00:00
-author_handle: pierceabernathy
-authors:
-- pierceabernathy
-author_name: Pierce Abernathy
-post_url: https://instagram.com/p/CdLf8jUpfUV
-image: img/pierceabernathy_05-05-2022_1405.png
+author_handle: "pierceabernathy"
+authors: ["pierceabernathy"]
+author_name: "Pierce Abernathy"
+post_url: "https://instagram.com/p/CdLf8jUpfUV"
+image: "img/pierceabernathy_05-05-2022_1405.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -32,8 +31,6 @@ recipe_format: 1
 6. Garnish with good olive oil and more black pepper.
 
 ## Notes
-
-Sunchoke and Porcini pasta. This one is special; an easy plant-based, umami-rich recipe. A vegan riff on cacio e pepe.
 
 Sunchokes are the tuberous root of certain types of sunflowers. They are buttery, nutty, sweet and absolutely delicious.
 

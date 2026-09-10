@@ -25,8 +25,6 @@ recipe_format: 1
 
 ### NUTRITION
 
-- 147 kcal
-- 4 g protein
 - 17 g carbohydrates
 - 9 g fats
 - 5 g fiber
@@ -48,3 +46,7 @@ Follow @plantbased.green 🙌
 📸: Recipe by @herbifoods
 
 RECIPE (12 brownies)
+
+147 kcal
+
+4 g protein

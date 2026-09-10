@@ -31,9 +31,6 @@ recipe_format: 1
 
 ## Method
 
-
-### white bean alfredo sauce
-
 1. heat a straight sided skillet over medium heat, add olive oil, shallot, and garlic. sauté for 3 minutes until fragrant and softened. scoop out the garlic and shallot and set aside (will be used for the sauce)
 2. to the same skillet add in the mushrooms and sauté for 8-10 minutes until golden and browned
 3. in a large pot, bring salted water to a boil and add broccoli letting cook for 2 minutes then add in the gnocchi and cook according to package instructions. strain once cooked.

@@ -1,12 +1,11 @@
 ---
-title: Now that the kids 👧🏼 are once again bringing home 🏡 cooties from school 🤧
+title: "Now that the kids 👧🏼 are once again bringing home 🏡 cooties from school 🤧, it's time to unleash my secret weapon -- GARLIC!"
 date: 2017-09-02 21:45:46+00:00
-author_handle: theguthealthmd
-authors:
-- theguthealthmd
-author_name: Will Bulsiewicz MD MSCI | Gastroenterologist
-post_url: https://instagram.com/p/BYjeDqWn8rR
-image: img/theguthealthmd_02-09-2017_2145.png
+author_handle: "theguthealthmd"
+authors: ["theguthealthmd"]
+author_name: "Will Bulsiewicz MD MSCI | Gastroenterologist"
+post_url: "https://instagram.com/p/BYjeDqWn8rR"
+image: "img/theguthealthmd_02-09-2017_2145.png"
 recipe_quality: "minimal"
 recipe_format: 1
 ---
@@ -25,7 +24,5 @@ No separate ingredient list was identified. Check the notes and original source.
 6. All content is provided for informational or educational purposes only. Please consult your healthcare provider in regards to recommendations and opinions that may relate to your medical condition or symptoms.
 
 ## Notes
-
-Now that the kids 👧🏼 are once again bringing home 🏡 cooties from school 🤧, it's time to unleash my secret weapon -- GARLIC!
 
 Garlic is well known for its antiviral and antibacterial properties. 👍🏻 It also is a great source of prebiotics to culture the good bacteria and stimulate the immune system. 👋

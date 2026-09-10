@@ -1,12 +1,11 @@
 ---
-title: '"GET The Complete Plant Based Cookbook'
+title: "\"GET The Complete Plant Based Cookbook - Over 100+ Delicious Vegan Recipes Including 30-day Meal Plans\" LINK IN BIO 🔗 @vegan.challenge.club"
 date: 2022-04-30 14:41:45+00:00
-author_handle: vegan.challenge.club
-authors:
-- vegan.challenge.club
-author_name: ''
-post_url: https://instagram.com/p/Cc-pnYfJI9K
-image: img/vegan.challenge.club_30-04-2022_1404.png
+author_handle: "vegan.challenge.club"
+authors: ["vegan.challenge.club"]
+author_name: ""
+post_url: "https://instagram.com/p/Cc-pnYfJI9K"
+image: "img/vegan.challenge.club_30-04-2022_1404.png"
 recipe_quality: "complete"
 recipe_format: 1
 ---
@@ -43,8 +42,6 @@ recipe_format: 1
 3. If meal prepping, the dressing is best kept seperate. If serving immediately, add the dressing and mix. Enjoy and tag a friend who need this!
 
 ## Notes
-
-"GET The Complete Plant Based Cookbook - Over 100+ Delicious Vegan Recipes Including 30-day Meal Plans" LINK IN BIO 🔗 @vegan.challenge.club
 
 🌱THE BIG VEGAN CRUNCH BOWL BY @plantyou
 

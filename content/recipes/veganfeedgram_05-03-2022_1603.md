@@ -27,9 +27,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Marinade
-
 1. Cut the cabbage in half and place on a lined baking tray.
 2. Preheat your oven to 200°C/400°F.
 3. Whisk together all marinade ingredients and generously brush the cabbage from all sides.

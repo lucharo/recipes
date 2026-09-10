@@ -44,9 +44,6 @@ recipe_format: 1
 
 ## Method
 
-
-### Sauce
-
 1. Start by making the tofu balls. Scramble your tofu into a bowl, using your hands. Add the rest of the ingredients listed under «tofu balls». Knead for a few minutes and form into balls. Add more flour if needed.
 2. Cook your rice according to package instructions.
 3. Fry your tofu balls in a non stick pan, or pop them in the oven, or an air fryer until golden and crisp on the outside. You can also add the broccoli into the oven/air fryer to cook it, or simply steam or fry it for a few minutes.
