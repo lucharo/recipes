@@ -8,15 +8,19 @@ post_url: "https://instagram.com/p/ClL6aoqJiJ0"
 image: "img/thefoodietakesflight_20-11-2022_1411.png"
 recipe_link: "https://thefoodietakesflight.com"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-👉🏼get the full recipe on my blog www.thefoodietakesflight.com - direct recipe is also linked in my bio @thefoodietakesflight ◡̈   
-  
-www.thefoodietakesflight.com/easy-baked-tofu  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #tofu #recipe #baked #airfryer #tofurecipe #foodreels #foodasmr #yummyph #veganfoodie #plantpower #veganph #letscook #asmrvideo #asmrfood #asianfood #foodies #asiancooking #heresmyfood #asmrsounds #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+👉🏼get the full recipe on my blog www.thefoodietakesflight.com - direct recipe is also linked in my bio @thefoodietakesflight ◡̈
+
+www.thefoodietakesflight.com/easy-baked-tofu

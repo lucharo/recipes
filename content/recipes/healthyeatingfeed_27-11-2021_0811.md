@@ -7,25 +7,21 @@ author_name: "Healthy Eating"
 post_url: "https://instagram.com/p/CWxfslthaOK"
 image: "img/healthyeatingfeed_27-11-2021_0811.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-It’s a hug in a bowl basically🧡   
-  
-Full Recipe Link in Bio…@healthyfitbella_   
-  
-Tag a Friend 👇  
-.  
-.  
-.  
-.  
-.  
-.   
-  
-#healthyfoods #healthyfood  
-#healthyrecipes #healthyfoodlover  
-#healthyeating #healthyfoodie  
-#healthydinner #healthyrecipe  
-#healthyfoodshare #healthyfoodideas  
-#healthycooking #eatfit  
-#healthylunchideas #mealpreplife  
-#sundaymealprep #mealprepideas
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+It’s a hug in a bowl basically🧡
+
+Full Recipe Link in Bio…@healthyfitbella_
+
+Tag a Friend 👇

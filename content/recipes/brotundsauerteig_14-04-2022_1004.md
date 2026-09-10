@@ -7,6 +7,17 @@ author_name: "Raphaelle - Brot und Sauerteig"
 post_url: "https://instagram.com/p/CcVCpKoj87l"
 image: "img/brotundsauerteig_14-04-2022_1004.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-Totally forgot I had  this triangle shaped banneton, perfect to score one flower. Bread is a 50% semolina and 50% white flour with 78% hydratation. #sourdough #sourdoughbread #bread #breadscoringvideo #breadscore #scoringbread #recipe #tutorial #tutorialsvideos #sauerteig #sauerteigbrot #brot #sourdoughbreadart #breadart #breadartist #paindecampagne #sourdoughstarter
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Totally forgot I had this triangle shaped banneton, perfect to score one flower. Bread is a 50% semolina and 50% white flour with 78% hydratation. #sourdough #sourdoughbread #bread #breadscoringvideo #breadscore #scoringbread #recipe #tutorial #tutorialsvideos #sauerteig #sauerteigbrot #brot #sourdoughbreadart #breadart #breadartist #paindecampagne #sourdoughstarter

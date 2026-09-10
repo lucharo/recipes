@@ -20,6 +20,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Check recipe formatting and tests
+        run: |
+          uv sync --locked
+          uv run python format_recipes.py --check
+          uv run python -m unittest discover -s tests
+          uv run ruff check format_recipes.py fetch_recipes.py tests
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:

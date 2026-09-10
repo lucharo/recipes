@@ -8,20 +8,21 @@ post_url: "https://instagram.com/p/BoXHaUgn9gv"
 image: "img/nutrition_facts_org_30-09-2018_1859.png"
 recipe_link: "https://nutritionfacts.org/book/"
 recipe_quality: "complete"
+recipe_format: 1
 ---
 
-INGREDIENTS:   
-2 Tablespoons almond meal (*or swap in 2 tablespoons of almonds)  
-3 cloves of crushed garlic  
-3 Tablespoons unsalted stone ground mustard  
-3 Tablespoons nutritional yeast   
-2 Tablespoons white miso paste   
-3 Tablespoons lemon juice   
-1/3 cup water  
-METHOD:  
-Blend all of the ingredients together until smooth and enjoy!  
-.  
-.  
-The vast majority of premature deaths can be prevented through simple changes in diet and lifestyle. In How Not to Die, Dr. Michael Greger (@michaelgregermd), examines the fifteen top causes of death in America—heart disease, various cancers, diabetes, Parkinson’s, high blood pressure, and more: https://nutritionfacts.org/book/ (link in bio)  
-*100% of the proceeds Dr. Greger receives from all his books are donated to charity.   
-#HowNotToDie #HowNotToDieCookbook #LifestyleMedicine #DailyDozenChallenge
+## Ingredients
+
+- 2 Tablespoons almond meal (*or swap in 2 tablespoons of almonds)
+- 3 cloves of crushed garlic
+- 3 Tablespoons unsalted stone ground mustard
+- 3 Tablespoons nutritional yeast
+- 2 Tablespoons white miso paste
+- 3 Tablespoons lemon juice
+- 1/3 cup water
+- 100% of the proceeds Dr. Greger receives from all his books are donated to charity.
+
+## Method
+
+1. Blend all of the ingredients together until smooth and enjoy!
+2. The vast majority of premature deaths can be prevented through simple changes in diet and lifestyle. In How Not to Die, Dr. Michael Greger (@michaelgregermd), examines the fifteen top causes of death in America—heart disease, various cancers, diabetes, Parkinson’s, high blood pressure, and more: https://nutritionfacts.org/book/ (link in bio)

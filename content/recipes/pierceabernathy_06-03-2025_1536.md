@@ -7,6 +7,13 @@ author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/DG3PAcBuqBv"
 image: "img/pierceabernathy_06-03-2025_1536.png"
 recipe_quality: "minimal"
+recipe_format: 1
 ---
 
+## Ingredients
 
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.

@@ -7,34 +7,52 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DPOyGiwCeUP"
 image: "img/thefoodietakesflight_30-09-2025_1515.png"
 recipe_link: "https://thefoodietakesflight.com/15-cozy-vegan-recipes-for-fall/"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-Comment ‘recipes’ to get the link sent straight to your DMs :) 💌  
-  
-The recipes you’ll find:  
-  
-🥜 Vegan Peanut Satay Noodle Soup  
-🥟 Hot & Sour Dumpling Noodle Soup  
-🍲 Easy Braised Tofu  
-🌶 Vegan Thai Tom Yum Soup  
-🍋 Lemongrass Miso Noodle Soup  
-🍜 Miso Udon Noodle Soup  
-🥔 Baked Scalloped Potatoes in Creamy Lemon Dill Sauce  
-🍄 Creamy Mushroom Udon  
-🧀 Cheesy Potato & Broccoli Soup  
-🍲 Filipino Sopas (Macaroni Soup)  
-🌽 Chinese Corn Soup  
-🍄 Miso Mushroom Orzo Soup  
-🍅 Chinese Tomato & “Egg” Stir-Fry  
-🌶 One-Pot Miso Gochujang Orzo  
-🍲 Sundubu Jjigae (Korean Soft Tofu Stew)  
-  
-https://thefoodietakesflight.com/15-cozy-vegan-recipes-for-fall/  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #foodreels #noodles #soups #noodlesoup #tofu #braisedtofu #vegetarian #f52grams #recipevideo #asianfood #foodies #asiancooking #heresmyfood #tastemademedoit #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Comment ‘recipes’ to get the link sent straight to your DMs :) 💌
+
+The recipes you’ll find:
+
+🥜 Vegan Peanut Satay Noodle Soup
+
+🥟 Hot & Sour Dumpling Noodle Soup
+
+🍲 Easy Braised Tofu
+
+🌶 Vegan Thai Tom Yum Soup
+
+🍋 Lemongrass Miso Noodle Soup
+
+🍜 Miso Udon Noodle Soup
+
+🥔 Baked Scalloped Potatoes in Creamy Lemon Dill Sauce
+
+🍄 Creamy Mushroom Udon
+
+🧀 Cheesy Potato & Broccoli Soup
+
+🍲 Filipino Sopas (Macaroni Soup)
+
+🌽 Chinese Corn Soup
+
+🍄 Miso Mushroom Orzo Soup
+
+🍅 Chinese Tomato & “Egg” Stir-Fry
+
+🌶 One-Pot Miso Gochujang Orzo
+
+🍲 Sundubu Jjigae (Korean Soft Tofu Stew)
+
+https://thefoodietakesflight.com/15-cozy-vegan-recipes-for-fall/

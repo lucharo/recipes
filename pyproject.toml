@@ -8,6 +8,7 @@ authors = [{ name = "Luis Chaves" }]
 dependencies = [
     "jinja2",
     "pillow",
+    "pyyaml>=6.0.3",
     "requests",
     "tqdm",
 ]

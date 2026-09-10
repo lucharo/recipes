@@ -15,8 +15,16 @@
         {{ with .Params.recipe_link }}
         <a href="{{ . }}" class="btn btn-sm btn-accent" target="_blank" rel="noopener">Full recipe on website ↗</a>
         {{ end }}
+        <button type="button" id="copy-markdown" class="btn btn-sm" hidden>Copy as Markdown</button>
       </span>
     </div>
+    <p id="copy-status" role="status" aria-live="polite"></p>
+    {{ $markdown := printf "# %s\n\n" .Title }}
+    {{ with .Params.author_handle }}{{ $markdown = printf "%sRecipe by @%s" $markdown . }}{{ end }}
+    {{ with .Params.author_name }}{{ $markdown = printf "%s (%s)" $markdown . }}{{ end }}
+    {{ with .Params.post_url }}{{ $markdown = printf "%s\n\n[Original Instagram post](%s)" $markdown . }}{{ end }}
+    {{ with .Params.recipe_link }}{{ $markdown = printf "%s\n\n[Full recipe](%s)" $markdown . }}{{ end }}
+    <textarea id="recipe-markdown" aria-label="Recipe Markdown — select and copy" readonly hidden>{{ printf "%s\n\n%s" $markdown (trim .RawContent "\n ") }}</textarea>
     {{ if eq .Params.recipe_quality "video_only" }}
     <div class="recipe-notice notice-video">
       This post doesn't contain a useful recipe description — the instructions are in the video.{{ with .Params.post_url }} <a href="{{ . }}" target="_blank" rel="noopener">Watch the video on Instagram ↗</a>{{ end }}
@@ -49,4 +57,8 @@
     <a href="/recipes/" class="btn">&larr; Back to all recipes</a>
   </div>
 </article>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="/js/copy-markdown.js" defer></script>
 {{ end }}

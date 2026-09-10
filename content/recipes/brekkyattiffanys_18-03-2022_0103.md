@@ -6,14 +6,22 @@ authors: ["brekkyattiffanys"]
 author_name: "tiff | living in san francisco"
 post_url: "https://instagram.com/p/CbOkHB8DOLV"
 image: "img/brekkyattiffanys_18-03-2022_0103.png"
-recipe_quality: "video_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-cooking instructions:  
-- crosshatch your eggplant and cover in vegetable oil. bake for ~20 mins at 425° f  
-- make your marinade (measurements in the video) and slather onto the baked eggplant with a basting brush  
-- broil for 2 more minutes and garnish with scallions & sesame seeds  
-   
-easy peasy! enjoy brekkies!  
-   
-#eggplantrecipes #misorecipes #misosoup #misoeggplant #japanesefood #japaneserecipe #easyrecipes #homecooking
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+1. make your marinade (measurements in the video) and slather onto the baked eggplant with a basting brush
+2. broil for 2 more minutes and garnish with scallions & sesame seeds
+3. easy peasy! enjoy brekkies!
+
+## Notes
+
+cooking instructions:
+
+- crosshatch your eggplant and cover in vegetable oil. bake for ~20 mins at 425° f

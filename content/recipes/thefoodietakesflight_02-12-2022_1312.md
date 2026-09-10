@@ -7,19 +7,22 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ClqwEnnpf-S"
 image: "img/thefoodietakesflight_02-12-2022_1312.png"
 recipe_link: "https://thefoodietakesflight.com/crispy-eggplant-katsu"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-In need of  some ideas hehe thank you in advance 🫶🏼  
-  
-Also the recipe for this eggplant katsu is over on www.thefoodietakesflight.com - also linked in my bio @thefoodietakesflight   
-  
-https://thefoodietakesflight.com/crispy-eggplant-katsu  
-  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #foodreels #foodasmr #airfryer #eggplant #aubergine #airfried #katsu #letscook #vegetarian #f52grams #recipevideo #asmrvideo #asmrfood #asianfood #foodies #asiancooking #japanesefood #asmrsounds #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+In need of some ideas hehe thank you in advance 🫶🏼
+
+Also the recipe for this eggplant katsu is over on www.thefoodietakesflight.com - also linked in my bio @thefoodietakesflight
+
+https://thefoodietakesflight.com/crispy-eggplant-katsu

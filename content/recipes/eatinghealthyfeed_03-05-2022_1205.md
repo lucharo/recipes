@@ -7,19 +7,13 @@ author_name: "Eating Healthy"
 post_url: "https://instagram.com/p/CdGMFYkjx9e"
 image: "img/eatinghealthyfeed_03-05-2022_1205.png"
 recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-  
-#healthyeats  #wholefoods  #cleaneats  #healthyfoodshare  #fuelyourbody  #eatrealfood  #realfood  #nourish  #foodisfuel  #eatforabs  #healthydiet  #eatwell  #eathealthy  #healthyfoodporn  #healthyeating
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.

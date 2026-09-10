@@ -10,6 +10,8 @@ In this repo and website we achieve the following:
 
 Visit the site: <https://testkitchen.luischav.es>
 
+This is the **Test Kitchen** repository (`lucharo/recipes`).
+
 The "tried and tested" recipes go to [cook.luischav.es](https://cook.luischav.es/).
 
 ## Setup
@@ -19,6 +21,36 @@ uv sync
 ```
 
 Requires [Hugo](https://gohugo.io/installation/) for site building.
+
+## Recipe Markdown
+
+Every saved post uses `## Ingredients` (bullets), `## Method` (numbered steps),
+and optional `## Notes`. Title, author and original links stay in the YAML front
+matter. On a recipe page, **Copy as Markdown** copies the title, attribution,
+source links and formatted recipe. If clipboard access fails, a selectable text
+box appears for manual copying.
+
+```sh
+# Format all saved posts in place
+uv run python format_recipes.py
+
+# Check that no posts still need formatting
+uv run python format_recipes.py --check
+
+# Run formatter/import regression tests
+uv run python -m unittest discover -s tests
+```
+
+New imports use the same formatter automatically. It removes standalone hashtag
+blocks and decorative separators, recognises ingredient lists and cooking steps,
+and retains unclassified prose in Notes. It does not retrieve linked recipes,
+translate, convert quantities or invent missing instructions. Missing sections
+say so explicitly. Formatting is heuristic: check the original source when the
+caption is ambiguous. Original captions remain available in Git history.
+
+Files marked `recipe_format: 1` are left unchanged on subsequent runs so manual
+corrections survive. Edit their Markdown directly; `--force` on the importer
+explicitly replaces those edits with a fresh formatted import.
 
 ## Fetch recipes
 

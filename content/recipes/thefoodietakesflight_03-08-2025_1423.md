@@ -6,17 +6,22 @@ authors: ["thefoodietakesflight"]
 author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/DM5VGsfypbT"
 image: "img/thefoodietakesflight_03-08-2025_1423.png"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-The batter is made with a simple mix of flour, cornstarch, and baking powder that creates and light and crispy bite :)  
-  
-Comment ‘recipe’ to get the full recipe + more cooking tips!! You can also visit www.thefoodietakesflight.com :)   
-  
-thefoodietakesflight.com/twice-fried-maitake-mushrooms/  
-.  
-.  
-.  
-  
-.  
-#thefoodietakesflight #mushrooms #fried #crispy #maitakes #maitakemushrooms #henofthewood #yummyph #tastemademedoit #batter #letscook #vegetarian #f52grams #asianfoodie #veganrecipes #fingerfood  #vegetarian #asianfood #foodies #mealprep #asiancooking #heresmyfood #plantbased #asianfoodporn #asianblogger #eatrealfood #food52 #recipeoftheday
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+The batter is made with a simple mix of flour, cornstarch, and baking powder that creates and light and crispy bite :)
+
+Comment ‘recipe’ to get the full recipe + more cooking tips!! You can also visit www.thefoodietakesflight.com :)
+
+thefoodietakesflight.com/twice-fried-maitake-mushrooms/

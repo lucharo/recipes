@@ -7,16 +7,20 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Cp70EXlJO5j"
 image: "img/thefoodietakesflight_18-03-2023_1503.png"
 recipe_link: "https://thefoodietakesflight.com"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-Roasted Garlic Gochujang Udon recipe’s on www.thefoodietakesflight.com - direct link is in my bio @thefoodietakesflight ◡̈   
-  
-www.thefoodietakesflight.com/roasted-garlic-gochujang-udon  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #foodreels #udon #noodles #garlic #stirfry #roastedgarlic #easyrecipe #letscook #vegetarian #f52grams #recipevideo #asmrvideo #noodlerecipe #spicy #asianfood #foodies #asiancooking #tastemademedoit #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Roasted Garlic Gochujang Udon recipe’s on www.thefoodietakesflight.com - direct link is in my bio @thefoodietakesflight ◡̈
+
+www.thefoodietakesflight.com/roasted-garlic-gochujang-udon

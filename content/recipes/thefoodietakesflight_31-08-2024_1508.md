@@ -7,19 +7,22 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/C_VsDRvJ6x4"
 image: "img/thefoodietakesflight_31-08-2024_1508.png"
 recipe_link: "https://thefoodietakesflight.com/spicy-garlic-and-herb-mushrooms-foil-bake"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-Mixed mushrooms cooked down with a mix of fresh herbs and garlic before being finished off with a miso-chili sauce and fresh lemon juice!   
-  
-Get the full detailed recipe on www.thefoodietakesflight.com - direct link in my bio @thefoodietakesflight 🤎  
-  
-https://thefoodietakesflight.com/spicy-garlic-and-herb-mushrooms-foil-bake  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #mushrooms #oystermushrooms #airfryer #herbs #foilbake #yummyph #tastemademedoit #garlic #vegetarian #f52grams #asianfoodie #veganrecipes #veganism #airfryerrecipe #airfried #baked #foodies #mealprep #mushroomrecipe #shiitake #easymeals  #asianblogger #eatrealfood #food52 #recipeoftheday
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Mixed mushrooms cooked down with a mix of fresh herbs and garlic before being finished off with a miso-chili sauce and fresh lemon juice!
+
+Get the full detailed recipe on www.thefoodietakesflight.com - direct link in my bio @thefoodietakesflight 🤎
+
+https://thefoodietakesflight.com/spicy-garlic-and-herb-mushrooms-foil-bake

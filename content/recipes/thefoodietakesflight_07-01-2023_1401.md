@@ -7,19 +7,22 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CnHew2PBAws"
 image: "img/thefoodietakesflight_07-01-2023_1401.png"
 recipe_link: "https://thefoodietakesflight.com/miso-udon-noodle-soup"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-👉🏼Miso Udon Noodle Soup recipe’s linked in my bio @thefoodietakesflight or over on www.thefoodietakesflight.com!  
-  
-Hope you’re doing well and wishing you all a great weekend! Was a rainy & gloomy past few days here in Manila but happy to have seen som sun today after all the rain. Hoping for more sunny days ahead.🌞  
-  
-https://thefoodietakesflight.com/miso-udon-noodle-soup  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #udon #noodlesoup #foodreels #noodles #miso #mushrooms #noodle #letscook #vegetarian #f52grams #asianfoodie #veganrecipes #veganism #vegankitchen #asianfood #foodies #udon #asiancooking #tastemademedoit #noodlesoup #asianfoodporn #asianblogger #soup #food52 #recipeoftheday
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+👉🏼Miso Udon Noodle Soup recipe’s linked in my bio @thefoodietakesflight or over on www.thefoodietakesflight.com!
+
+Hope you’re doing well and wishing you all a great weekend! Was a rainy & gloomy past few days here in Manila but happy to have seen som sun today after all the rain. Hoping for more sunny days ahead.🌞
+
+https://thefoodietakesflight.com/miso-udon-noodle-soup

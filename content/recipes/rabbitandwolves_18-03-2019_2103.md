@@ -8,7 +8,17 @@ post_url: "https://instagram.com/p/BvKidtbAbKb"
 image: "img/rabbitandwolves_18-03-2019_2103.png"
 recipe_link: "https://www.rabbitandwolves.com/vegan-creamy-polenta-red-wine-mushrooms/"
 recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-https://www.rabbitandwolves.com/vegan-creamy-polenta-red-wine-mushrooms/  
-#veganfood #veganfoodporn #veganfoodshare #whatveganseat #plantbased #plantbaseddiet #vegancomfortfood #comfortfood #foodporn #vegetarian #veganaf #veggies #vegancommunity #dairyfree #crueltyfree
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+https://www.rabbitandwolves.com/vegan-creamy-polenta-red-wine-mushrooms/

@@ -7,16 +7,20 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CozmivMJPwC"
 image: "img/thefoodietakesflight_18-02-2023_1302.png"
 recipe_link: "https://thefoodietakesflight.com"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-Get the recipe on www.thefoodietakesflight.com - direct recipe link’s in my bio @thefoodietakesflight 🫶🏼  
-  
-www.thefoodietakesflight.com/filipino-tofu-curry  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #curry #foodasmr #yummyph #filipinofood #tofurecipes #curries #letscook #vegetarian #f52grams #recipevideo #easyrecipes #filipinocuisine #asianfood #foodies #asiancooking #heresmyfood #tastemademedoit #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Get the recipe on www.thefoodietakesflight.com - direct recipe link’s in my bio @thefoodietakesflight 🫶🏼
+
+www.thefoodietakesflight.com/filipino-tofu-curry

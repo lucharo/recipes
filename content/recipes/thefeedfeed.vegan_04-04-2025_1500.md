@@ -1,17 +1,29 @@
 ---
-title: "This Bulgogi-Style Shredded Tofu by @thefoodietakesflight is crispy, caramelized, and coated in a sweet and spicy bulgogi-style sauce. 🍚🔥"
+title: This Bulgogi-Style Shredded Tofu by @thefoodietakesflight is crispy
 date: 2025-04-04 15:00:00+00:00
-author_handle: "thefeedfeed.vegan"
-authors: ["thefeedfeed.vegan"]
-author_name: "FeedFeed | Vegan"
-post_url: "https://instagram.com/p/DIB2aSJRYxm"
-image: "img/thefeedfeed.vegan_04-04-2025_1500.png"
-recipe_link: "https://thefeedfeed.com/thefoodietakesflight/bulgogi-style-shredded-tofu"
+author_handle: thefeedfeed.vegan
+authors:
+- thefeedfeed.vegan
+author_name: FeedFeed | Vegan
+post_url: https://instagram.com/p/DIB2aSJRYxm
+image: img/thefeedfeed.vegan_04-04-2025_1500.png
+recipe_link: https://thefeedfeed.com/thefoodietakesflight/bulgogi-style-shredded-tofu
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-Comment ‘recipe’ to have the details sent to your DMs and keep tagging #feedfeed for a chance to be featured.   
-  
-https://thefeedfeed.com/thefoodietakesflight/bulgogi-style-shredded-tofu  
-  
-#vegan #plantprotein #tofurecipe #crispytofu #bulgogi #easyrecipe
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+This Bulgogi-Style Shredded Tofu by @thefoodietakesflight is crispy, caramelized, and coated in a sweet and spicy bulgogi-style sauce. 🍚🔥
+
+Comment ‘recipe’ to have the details sent to your DMs and keep tagging #feedfeed for a chance to be featured.
+
+https://thefeedfeed.com/thefoodietakesflight/bulgogi-style-shredded-tofu

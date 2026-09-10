@@ -7,22 +7,24 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CoH4oNmJObN"
 image: "img/thefoodietakesflight_01-02-2023_1402.png"
 recipe_link: "https://thefoodietakesflight.com/korean-vegetable-pancake-yachae-jeon"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-I love using a mix of zucchini, cabbage, carrots, and some green onions but you can really add other vegetables of your choice.  
-  
-👉🏼the full recipe for these pancakes + dipping sauce are over on my website thefoodietakesflight.com or you can also click on the link in my bio @thefoodietakesflight (search for ‘vegetable pancakes’) 🥢  
-  
-Wishing you all a great month ahead!! Also how is January already over 🥲  
-  
-https://thefoodietakesflight.com/korean-vegetable-pancake-yachae-jeon  
-  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #pancakes #jeon #vegetables #pancake #veganfoodie #makesmewhole #plantpower #veganph #koreanfood #letscook #vegetarian #f52grams #asianfoodie #veganrecipes #veganism #야채전 #vegankitchen #asianfood #foodies #mealprep #asiancooking #heresmyfood #plantbased #asianfoodporn #asianblogger #eatrealfood #food52 #recipeoftheday
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+I love using a mix of zucchini, cabbage, carrots, and some green onions but you can really add other vegetables of your choice.
+
+👉🏼the full recipe for these pancakes + dipping sauce are over on my website thefoodietakesflight.com or you can also click on the link in my bio @thefoodietakesflight (search for ‘vegetable pancakes’) 🥢
+
+Wishing you all a great month ahead!! Also how is January already over 🥲
+
+https://thefoodietakesflight.com/korean-vegetable-pancake-yachae-jeon

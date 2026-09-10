@@ -7,12 +7,21 @@ author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DHBgYjJg4j5"
 image: "img/okonomikitchen_10-03-2025_1517.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-I got this idea from our yakitori night when we made yasakmaki 😋   
-  
-Easier, quicker and I prefer these over my original recipe because there’s two crispy textures, it stays crispier for longer and you don’t have to use so many rice papers.   
-  
-Full recipe on okonomikitchen blog or google okonomi no wrap rice paper rolled dumplings ~   
-  
-#ricepaperdumplings #ricepaper #easyrecipes
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+I got this idea from our yakitori night when we made yasakmaki 😋
+
+Easier, quicker and I prefer these over my original recipe because there’s two crispy textures, it stays crispier for longer and you don’t have to use so many rice papers.
+
+Full recipe on okonomikitchen blog or google okonomi no wrap rice paper rolled dumplings ~

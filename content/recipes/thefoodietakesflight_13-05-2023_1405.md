@@ -7,20 +7,26 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CsL_SBOP7Yp"
 image: "img/thefoodietakesflight_13-05-2023_1405.png"
 recipe_link: "https://thefoodietakesflight.com/pan-fried-scallion-and-toasted-sesame-buns-vegan-recipe/"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-Light and fluffy buns with a crispy bottom, packed with an aromatic blend of scallions, sesame seeds, and five spice powder. 🫶🏼  
-  
-Full recipe is on www.thefoodietakesflight.com - direct link in my bio @thefoodietakesflight 🌞  
-  
-An (advance) happy Mother’s Day to all the amazing mothers on this planet 🌎🐄🐰🦡🐖🐴🐧🦁  
-  
-https://thefoodietakesflight.com/pan-fried-scallion-and-toasted-sesame-buns-vegan-recipe/  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #buns #nobake #dough #yeast #baos # scallions #chinesefood #foodreels #foodasmr #bread  #f52grams #snacks #chinesecuisine #recipevideo #asmrvideo #asmrfood #asianfood #foodies #asiancooking #heresmyfood #asmrsounds #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Light and fluffy buns with a crispy bottom, packed with an aromatic blend of scallions, sesame seeds, and five spice powder. 🫶🏼
+
+Full recipe is on www.thefoodietakesflight.com - direct link in my bio @thefoodietakesflight 🌞
+
+An (advance) happy Mother’s Day to all the amazing mothers on this planet 🌎🐄🐰🦡🐖🐴🐧🦁
+
+https://thefoodietakesflight.com/pan-fried-scallion-and-toasted-sesame-buns-vegan-recipe/
+
+#thefoodietakesflight #buns #nobake #dough #yeast #baos # scallions #chinesefood #foodreels #foodasmr #bread #f52grams #snacks #chinesecuisine #recipevideo #asmrvideo #asmrfood #asianfood #foodies #asiancooking #heresmyfood #asmrsounds #asianfoodporn #asianblogger #eatrealfood #food52

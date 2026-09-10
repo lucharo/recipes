@@ -7,17 +7,20 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/C4lHxFySN9h"
 image: "img/thefoodietakesflight_16-03-2024_1503.png"
 recipe_link: "https://thefoodietakesflight.com"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-Get the full recipe on www.thefoodietakesflight.com - direct recipe linked in my bio @thefoodietakesflight ✨   
-  
-www.thefoodietakesflight.com/miso-orzo-with-gochujang-chickpeas  
-  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #mushrooms #oystermushrooms #gochujang #chickpeas #orzo #pasta #pastarecipe #easymeals #veganph #letscook #vegetarian #f52grams #recipevideo #asmrvideo #asmrfood #foodies #heresmyfood #tastemademedoit #mushroomrecipe #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Get the full recipe on www.thefoodietakesflight.com - direct recipe linked in my bio @thefoodietakesflight ✨
+
+www.thefoodietakesflight.com/miso-orzo-with-gochujang-chickpeas

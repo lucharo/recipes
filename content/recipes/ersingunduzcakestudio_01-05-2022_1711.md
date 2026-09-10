@@ -7,6 +7,13 @@ author_name: "Ersin Gündüz"
 post_url: "https://instagram.com/p/CdBfVJCqBC5"
 image: "img/ersingunduzcakestudio_01-05-2022_1711.png"
 recipe_quality: "minimal"
+recipe_format: 1
 ---
 
+## Ingredients
 
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.

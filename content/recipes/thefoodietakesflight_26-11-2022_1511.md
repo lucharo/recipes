@@ -7,20 +7,22 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/Clbc5-mpcFs"
 image: "img/thefoodietakesflight_26-11-2022_1511.png"
 recipe_link: "https://thefoodietakesflight.com/chinese-green-beans-and-mushroom-stir-fry/"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-👉🏼get the full on www.thefoodietakesflight.com - direct link is also in my bio 🥢  
-  
-Hope you all have a great weekend ahead!!  
-  
-https://thefoodietakesflight.com/chinese-green-beans-and-mushroom-stir-fry/  
-  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #stirfry #greenbeans #mushrooms #stirfry #foodreels #veganfoodie #plantpower #veganph #letscook #vegetarian #f52grams #recipevideo #asianfood #foodies #asiancooking #heresmyfood #easyrecipe #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+👉🏼get the full on www.thefoodietakesflight.com - direct link is also in my bio 🥢
+
+Hope you all have a great weekend ahead!!
+
+https://thefoodietakesflight.com/chinese-green-beans-and-mushroom-stir-fry/

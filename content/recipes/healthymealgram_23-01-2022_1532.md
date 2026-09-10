@@ -7,29 +7,19 @@ author_name: "Heathy Eating"
 post_url: "https://instagram.com/p/CZE-VripUVS"
 image: "img/healthymealgram_23-01-2022_1532.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-Simple & beautiful! A drizzle of Truffle Oil finishes it off perfectly👌🏻  
-  
-Full Recipe Link in the Bio @healthyfitbella_  
-  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-#healthyfoods #healthyfood  
-#healthyrecipes #healthyfoodlover  
-#healthyeating #healthyfoodie  
-#healthydinner #healthyrecipe  
-#healthyfoodshare #healthyfoodideas  
-#healthycooking #eatfit  
-#healthylunchideas #mealpreplife  
- #sundaymealprep #mealprepideas
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Simple & beautiful! A drizzle of Truffle Oil finishes it off perfectly👌🏻
+
+Full Recipe Link in the Bio @healthyfitbella_

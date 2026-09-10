@@ -15,6 +15,8 @@ import jinja2
 import requests
 import tqdm
 
+from format_recipes import format_document
+
 ROOT = Path(__file__).parent
 CONTENT_DIR = ROOT / "content" / "recipes"
 IMG_DIR = ROOT / "static" / "img"
@@ -115,7 +117,7 @@ def process_post(
         RECIPE_BODY=text,
     )
 
-    md_path.write_text(rendered, encoding="utf-8")
+    md_path.write_text(format_document(rendered), encoding="utf-8")
     return fname
 
 

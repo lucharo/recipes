@@ -7,6 +7,13 @@ author_name: "Elisa Rossi - Happyskinkitchen"
 post_url: "https://instagram.com/p/BtoA21NBP7C"
 image: "img/happyskinkitchen_08-02-2019_1502.png"
 recipe_quality: "minimal"
+recipe_format: 1
 ---
 
+## Ingredients
 
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.

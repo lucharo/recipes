@@ -7,6 +7,13 @@ author_name: "tiff | living in san francisco"
 post_url: "https://instagram.com/p/CaYLT7eD3A3"
 image: "img/brekkyattiffanys_24-02-2022_2302.png"
 recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-#silkentofu #koreantofu #tofurecipes #tofulover #koreanfood #koreancooking #homecooking #homecook #cookingreels #reelsvideo
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.

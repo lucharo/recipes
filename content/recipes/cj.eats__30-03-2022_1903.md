@@ -8,8 +8,17 @@ post_url: "https://instagram.com/p/CbvWOaylTSA"
 image: "img/cj.eats__30-03-2022_1903.png"
 recipe_link: "https://www.cjeatsrecipes.com/post/bok-choy-with-garlic-sauce"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-The full written recipe with all my tips is up on the blog now - link in bio! Or at https://www.cjeatsrecipes.com/post/bok-choy-with-garlic-sauce  
-  
-#bokchoy #chinesefood #vegetables #easyrecipes #chinesetakout
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+The full written recipe with all my tips is up on the blog now - link in bio! Or at https://www.cjeatsrecipes.com/post/bok-choy-with-garlic-sauce

@@ -1,12 +1,24 @@
 ---
-title: "THE ULTIMATE COMFORT FOOD : creamy polenta with a saucy, savory mushroom stew. It’s hearty, warming, and everything you need during a cold day. For the full recipe, link in bio for my website"
+title: 'THE ULTIMATE COMFORT FOOD : creamy polenta with a saucy'
 date: 2022-11-27 21:04:52+00:00
-author_handle: "carolinagelen"
-authors: ["carolinagelen"]
-author_name: "Carolina Gelen"
-post_url: "https://instagram.com/p/CleojKQuhNx"
-image: "img/carolinagelen_27-11-2022_2104.png"
+author_handle: carolinagelen
+authors:
+- carolinagelen
+author_name: Carolina Gelen
+post_url: https://instagram.com/p/CleojKQuhNx
+image: img/carolinagelen_27-11-2022_2104.png
 recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-#cooking #cookingvideos #cookingathome #asmr #asmrfood #comfortfood #comfortfoods #stew #polenta #dinnerideas #dinner
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+THE ULTIMATE COMFORT FOOD : creamy polenta with a saucy, savory mushroom stew. It’s hearty, warming, and everything you need during a cold day. For the full recipe, link in bio for my website

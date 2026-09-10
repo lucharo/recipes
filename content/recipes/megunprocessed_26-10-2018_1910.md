@@ -7,14 +7,19 @@ author_name: "Megan Evans"
 post_url: "https://instagram.com/p/BpaGUFxFj1u"
 image: "img/megunprocessed_26-10-2018_1910.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-A healthier sweet treat that is sure to be a crowd pleaser 😋 They are dairy-free, gluten-free and no refined sugar 👏  Make them with or without the icing on top 💁🏻‍♀️  
-🎥 @bosh.tv  
-.  
-.  
-.  
-.  
-.  
-.  
-#sweetpotatobrownies #glutenfreebrownies #veganbrownies #healthychocolate #healthybrownies #norefinedsugar #veganchocolate #plantbasedrecipe #plantbasedrecipes  #vegannoms #fitrecipes #guiltfreedessert #guiltfreefood #veganfoodvideos #veganvideos #fitdessert #noartificialflavors #dairyfreedessert #cleantreats #dairyfreefood #dairyfreerecipes #dairyfreelife  #vegandessert #healthytreat #healthysweets #glutenfreedessert #vegantreats #megunprocessed #plantbaseddessert #plantbasedeating
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+A healthier sweet treat that is sure to be a crowd pleaser 😋 They are dairy-free, gluten-free and no refined sugar 👏 Make them with or without the icing on top 💁🏻♀️
+
+🎥 @bosh.tv

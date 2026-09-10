@@ -7,6 +7,13 @@ author_name: "Jenny Bolle"
 post_url: "https://instagram.com/p/DUyNimljG9M"
 image: "img/eatmoreplants.no_15-02-2026_1604.png"
 recipe_quality: "minimal"
+recipe_format: 1
 ---
 
+## Ingredients
 
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.

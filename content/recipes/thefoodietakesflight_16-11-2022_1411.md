@@ -7,21 +7,24 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ClBlX4OJNek"
 image: "img/thefoodietakesflight_16-11-2022_1411.png"
 recipe_link: "https://thefoodietakesflight.com/vegan-thai-tom-yum-soup"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-I made creamy version of this by adding vegan evaporated milk.  
-  
-More details about the different aromatics in my previous video!  
-  
-👉🏼Head on over to www.thefoodietakesflight.com or click on the direct link in my bio @thefoodietakesflight for the recipe ◡̈   
-  
-https://thefoodietakesflight.com/vegan-thai-tom-yum-soup  
-  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #foodreels #galangal #harvest #garden #lemongrass #thaifood #thai #tomyum #asianfood #soup #vegetarian #f52grams #recipevideo #asmrvideo #asmrfood #asianfood #foodies #asiancooking #heresmyfood #asmrsounds #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+I made creamy version of this by adding vegan evaporated milk.
+
+More details about the different aromatics in my previous video!
+
+👉🏼Head on over to www.thefoodietakesflight.com or click on the direct link in my bio @thefoodietakesflight for the recipe ◡̈
+
+https://thefoodietakesflight.com/vegan-thai-tom-yum-soup

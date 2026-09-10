@@ -7,19 +7,22 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CgZkNB2Isiy"
 image: "img/thefoodietakesflight_24-07-2022_1508.png"
 recipe_link: "https://thefoodietakesflight.com/one-bowl-shoyu-udon-noodles"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-Both recipes are on my blog www.thefoodietakesflight.com - links are also in my bio @thefoodietakesflight! ◡̈  
-  
-https://thefoodietakesflight.com/one-bowl-shoyu-udon-noodles  
-  
-www.thefoodietakesflight.com/japanese-cucumber-and-seaweed-salad  
-  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #noodles #udon #foodreels #foodasmr #veganph #letscook #vegetarian #f52grams #recipevideo #asmrvideo #asmrfood #asianfood #foodies #japanesefood #asiancooking #heresmyfood #asmrsounds #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Both recipes are on my blog www.thefoodietakesflight.com - links are also in my bio @thefoodietakesflight! ◡̈
+
+https://thefoodietakesflight.com/one-bowl-shoyu-udon-noodles
+
+www.thefoodietakesflight.com/japanese-cucumber-and-seaweed-salad

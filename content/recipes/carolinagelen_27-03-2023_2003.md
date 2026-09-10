@@ -8,10 +8,19 @@ post_url: "https://instagram.com/p/CqTln9COBXH"
 image: "img/carolinagelen_27-03-2023_2003.png"
 recipe_link: "https://carolinagelen.com"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-BLUEBERRY LOAF CAKE - a tender, delicious cake, the perfect baking project to tackle this spring. Evenly distributed blueberries, yogurt-packed cake batter and a sweet and sour glaze to wrap it all up. This cake comes together in one bowl and it’s the perfect no-fuss recipe to serve to your guests.   
-  
-Recipe link in bio  
-  
-#cake #blueberry #vanillacake #dessert
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+BLUEBERRY LOAF CAKE - a tender, delicious cake, the perfect baking project to tackle this spring. Evenly distributed blueberries, yogurt-packed cake batter and a sweet and sour glaze to wrap it all up. This cake comes together in one bowl and it’s the perfect no-fuss recipe to serve to your guests.
+
+Recipe link in bio

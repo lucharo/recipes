@@ -8,7 +8,17 @@ post_url: "https://instagram.com/p/BvALS4mAwe7"
 image: "img/rabbitandwolves_14-03-2019_2003.png"
 recipe_link: "https://www.rabbitandwolves.com/vegan-general-"
 recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-https://www.rabbitandwolves.com/vegan-general- tsos-broccoli/  
-#veganfood #veganfoodporn #veganfoodshare #whatveganseat #plantbased #plantbaseddiet #comfortfood #foodporn #crueltyfree #dairyfree #vegansofig #veganrecipes #vegetarian #vegetarianrecipes
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+https://www.rabbitandwolves.com/vegan-general- tsos-broccoli/

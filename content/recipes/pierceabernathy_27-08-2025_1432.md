@@ -7,6 +7,17 @@ author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/DN3KYUO2H0w"
 image: "img/pierceabernathy_27-08-2025_1432.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
+
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
 
 It’s a salad that truly comes together in no time and lets peak summer veg shine. The sesame whipped tofu has become a go-to sauce for pasta salads, roasted vegetables, cold noodle dishes, and even tossed with a can of beans.

@@ -7,6 +7,17 @@ author_name: "Pierce Abernathy"
 post_url: "https://instagram.com/p/CdGmmjOJ-pQ"
 image: "img/pierceabernathy_03-05-2022_1605.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
+
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
 
 No real recipe here but have been playing around with a few different asparagus dishes. This seasonal dip would be perfect for any crudités though.

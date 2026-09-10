@@ -7,22 +7,19 @@ author_name: "Healthy Eating Magazine"
 post_url: "https://instagram.com/p/CdCu0HxDJFG"
 image: "img/eatinghealthymag_02-05-2022_0405.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-Simple & beautiful! A drizzle of Truffle Oil finishes it off perfectly👌🏻  
-  
-Full Recipe Link in the Bio @healthyfitbella_  
-  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-#mealprepmadeeasy #healthyfoodrecipes #cleaneatingrecipes #mealpreponfleek #healthyfoodies #easyrecipes #recipeshare #lowcaloriemeals #mealplans #recipe #foodprepping #recipeideas #mealoftheday #healthyfoodblog #healthymealideas
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Simple & beautiful! A drizzle of Truffle Oil finishes it off perfectly👌🏻
+
+Full Recipe Link in the Bio @healthyfitbella_

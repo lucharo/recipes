@@ -7,8 +7,17 @@ author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DFLJU3igQl-"
 image: "img/okonomikitchen_23-01-2025_1605.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-🔗 full recipe on okonomikitchen blog or google ‘okonomi mushroom rice’~   
-  
-#mushroomrice #easyrecipes #ricecooker #japanesefood
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+🔗 full recipe on okonomikitchen blog or google ‘okonomi mushroom rice’~

@@ -7,22 +7,27 @@ author_name: "WoonHeng Chia"
 post_url: "https://instagram.com/p/CVGXCx2pbVN"
 image: "img/woon.heng_16-10-2021_1810.png"
 recipe_link: "https://woonheng.com/vegan-roti-pisang-banana/"
-recipe_quality: "complete"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-⁣  
-Full recipe instructions and long video: https://woonheng.com/vegan-roti-pisang-banana/⁣  
-or link in bio☝🏼⁣  
-⁣  
-Cooking notes:⁣  
-- As usual, I tried to include as many steps as possible into a short video, please check my long video for the complete process⁣⁣⁣  
-- I used all-purpose flour in this recipe⁣  
-- If you plan to make the dough ahead of time and refrigerate, please thaw to room temperature before working on the dough⁣  
-⁣  
-Have a beautiful weekend. Best, WoonHeng 韵馨💗⁣⁣⁣⁣  
-.⁣  
-.⁣  
-.⁣  
-.⁣  
-.⁣  
-#rotipisang #roticanai #bananaroti #malaysianfood #indianfood #bananabread #streetfood #recipeoftheday #compassionateliving #plantbased #buzzfeedfood #yahoofood #woonheng #veganrecipes #f52grams #foodandwine
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+1. If you plan to make the dough ahead of time and refrigerate, please thaw to room temperature before working on the dough
+2. Have a beautiful weekend. Best, WoonHeng 韵馨💗
+
+## Notes
+
+Full recipe instructions and long video: https://woonheng.com/vegan-roti-pisang-banana/
+
+or link in bio☝🏼
+
+Cooking notes:
+
+- As usual, I tried to include as many steps as possible into a short video, please check my long video for the complete process
+
+- I used all-purpose flour in this recipe

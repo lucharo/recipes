@@ -7,10 +7,25 @@ author_name: "Food And Refreshments"
 post_url: "https://instagram.com/p/CWcnLaWo-0e"
 image: "img/foodandrefreshments_19-11-2021_0611.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-👉🏼 Follow @foodandrefreshments for more 👍🏼  
-👇🏼TAG YOUR FRIENDS👇🏼  
-📲Turn On Post Notifications 🙌🏻  
-📷 : @feelgoodfoodie 🤎  
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+👉🏼 Follow @foodandrefreshments for more 👍🏼
+
+👇🏼TAG YOUR FRIENDS👇🏼
+
+📲Turn On Post Notifications 🙌🏻
+
+📷 : @feelgoodfoodie 🤎
+
 👇🏼Now taking comments👇🏼

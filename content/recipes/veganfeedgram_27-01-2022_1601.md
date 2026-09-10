@@ -7,29 +7,27 @@ author_name: "Vegan Recipes, Healthy Recipes"
 post_url: "https://instagram.com/p/CZPZyAAJyQz"
 image: "img/veganfeedgram_27-01-2022_1601.png"
 recipe_quality: "complete"
+recipe_format: 1
 ---
 
-By @bakesby.britt   
-  
-Recipe:  
-  
-Ingredients:  
-40 gr oats  
-150 ml plant milk  
-50 ml coffee (or dairy-free chocolate milk)  
-  
-Topping:  
-vegan yogurt  
-dark chocolate  
-cocoa powder  
-  
-Mix all ingredients for the oatmeal together.  Heat it up in a pan for about 4 minutes.  
-  
-Top with toppings.  
-  
-Enjoy!  
-•  
-•  
-•  
-•  
-#healthyrecipes #tiramisu #healthytiramisu #tiramisuoats #healthyfood #healthybreakfast #oatmeal #oats #oatsforbreakfast #bakedoats #oatmealrecipe #veganbreakfast #plantbased #easyrecipes #healthylifestyle #chocolateoats #refinedsugarfree #reels
+## Ingredients
+
+- 40 gr oats
+- 150 ml plant milk
+- 50 ml coffee (or dairy-free chocolate milk)
+
+### Topping
+
+- vegan yogurt
+- dark chocolate
+- cocoa powder
+
+## Method
+
+1. Mix all ingredients for the oatmeal together. Heat it up in a pan for about 4 minutes.
+2. Top with toppings.
+3. Enjoy!
+
+## Notes
+
+By @bakesby.britt

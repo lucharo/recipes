@@ -7,8 +7,17 @@ author_name: "Carolina Gelen"
 post_url: "https://instagram.com/p/CsjigH5tq4K"
 image: "img/carolinagelen_22-05-2023_1805.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-RASPBERRY LEMON DRESSING - a delicious, sweet and fruity vinaigrette to toss your salad in. Recipe in bio  
-  
-#raspberries #raspberry #dressing #salad #vinaigrette
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+RASPBERRY LEMON DRESSING - a delicious, sweet and fruity vinaigrette to toss your salad in. Recipe in bio

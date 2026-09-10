@@ -7,25 +7,42 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/ChUtnc3JUbT"
 image: "img/thefoodietakesflight_16-08-2022_1408.png"
 recipe_link: "https://thefoodietakesflight.com/pan-fried-tofu-with-chili-miso-sauce"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-Full detailed recipe is linked in my bio @thefoodietakesflight or on www.thefoodietakesflight.com ◡̈   
-  
-For the sauce you’ll need:  
-chili garlic sauce or chili oil, adjust to desired spice (homemade recipe on my blog!)  
-miso paste, I used white miso  
-soy sauce  
-Chinese black vinegar or rice vinegar  
-ginger, finely grated  
-garlic, minced  
-sesame seeds  
-sesame oil  
-liquid sweetener or sugar, adjust to taste  
-scallions or spring onions, chopped  
-  
-https://thefoodietakesflight.com/pan-fried-tofu-with-chili-miso-sauce  
-.  
-.  
-.  
-#thefoodietakesflight #foodreels #tofu #miso #foodasmr #tofurecipe #yummyph #veganfoodie #plantpower #veganph #letscook #vegetarian #f52grams #recipevideo #asmrvideo #f52grams #asianfood #protein #asiancooking #heresmyfood #chilioil #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+Full detailed recipe is linked in my bio @thefoodietakesflight or on www.thefoodietakesflight.com ◡̈
+
+For the sauce you’ll need:
+
+chili garlic sauce or chili oil, adjust to desired spice (homemade recipe on my blog!)
+
+miso paste, I used white miso
+
+soy sauce
+
+Chinese black vinegar or rice vinegar
+
+ginger, finely grated
+
+garlic, minced
+
+sesame seeds
+
+sesame oil
+
+liquid sweetener or sugar, adjust to taste
+
+scallions or spring onions, chopped
+
+https://thefoodietakesflight.com/pan-fried-tofu-with-chili-miso-sauce

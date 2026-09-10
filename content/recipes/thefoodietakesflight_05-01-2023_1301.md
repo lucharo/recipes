@@ -7,16 +7,20 @@ author_name: "Jeeca • Vegan Recipes 🥢"
 post_url: "https://instagram.com/p/CnCRECKB5fX"
 image: "img/thefoodietakesflight_05-01-2023_1301.png"
 recipe_link: "https://thefoodietakesflight.com/taiwanese-style-popcorn-mushrooms-vegan-gluten-free-recipe/"
-recipe_quality: "ingredients_only"
+recipe_quality: "minimal"
+recipe_format: 1
 ---
 
-👉🏼full recipe for the popcorn 🍄 is on www.thefoodietakesflight.com - you can also click the link in my bio @thefoodietakesflight for the direct recipe!  
-  
-https://thefoodietakesflight.com/taiwanese-style-popcorn-mushrooms-vegan-gluten-free-recipe/  
-.  
-.  
-.  
-.  
-.  
-.  
-#thefoodietakesflight #mushrooms #basil #fingerfood #snacks #foodreels #foodasmr #letscook #vegetarian #f52grams #recipevideo #taiwanesefood #crispy #asianfood #foodies #asiancooking #heresmyfood #asmrsounds #asianfoodporn #asianblogger #eatrealfood #food52
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+👉🏼full recipe for the popcorn 🍄 is on www.thefoodietakesflight.com - you can also click the link in my bio @thefoodietakesflight for the direct recipe!
+
+https://thefoodietakesflight.com/taiwanese-style-popcorn-mushrooms-vegan-gluten-free-recipe/

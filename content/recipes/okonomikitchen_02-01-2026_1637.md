@@ -7,10 +7,21 @@ author_name: "Lisa Kitahara"
 post_url: "https://instagram.com/p/DTA-S7wjskR"
 image: "img/okonomikitchen_02-01-2026_1637.png"
 recipe_quality: "video_only"
+recipe_format: 1
 ---
 
-This series has been over a year in the making. I tasted, researched, and tested countless doughs and fillings to create recipes that are approachable for home bakers but just as delicious as the ones you find at bakeries—and approved by a very bread-devoted Japanese mother 😵‍💫  
-  
-Episode one had to be my favourite kare pan <3 soft, fluffy and chewy dough filled with japanese curry and coated in crispy fried panko! It’s great for using up leftover curry too, the perfect weekend fry~   
-  
+## Ingredients
+
+No separate ingredient list was identified. Check the notes and original source.
+
+## Method
+
+No separate cooking method was identified. Check the notes and original source.
+
+## Notes
+
+This series has been over a year in the making. I tasted, researched, and tested countless doughs and fillings to create recipes that are approachable for home bakers but just as delicious as the ones you find at bakeries—and approved by a very bread-devoted Japanese mother 😵💫
+
+Episode one had to be my favourite kare pan <3 soft, fluffy and chewy dough filled with japanese curry and coated in crispy fried panko! It’s great for using up leftover curry too, the perfect weekend fry~
+
 🔗 full recipe on okonomikitchen blog or comment ‘recipe’ and I’ll send you the link!! 🫶🏻 (make sure to be following so you receive it)
