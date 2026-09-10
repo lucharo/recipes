@@ -60,5 +60,6 @@
 {{ end }}
 
 {{ define "scripts" }}
-<script src="/js/copy-markdown.js" defer></script>
+{{ $copyScript := resources.Get "js/copy-markdown.js" | fingerprint }}
+<script src="{{ $copyScript.RelPermalink }}" defer></script>
 {{ end }}
