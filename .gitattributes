@@ -1,0 +1,2 @@
+# Regression fixtures retain the original captions, including Markdown hard breaks.
+tests/fixtures/*.md whitespace=-blank-at-eol,-blank-at-eof
